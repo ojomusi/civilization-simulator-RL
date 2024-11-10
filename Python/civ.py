@@ -126,7 +126,7 @@ class AIEmpire(Empire):
         self.expanding = True
         annex_tile(self, capital)
         self.capital.make_capital()
-        # emp_arr.append(self)
+        emp_arr.append(self)
 
         recalc_border_emps(self)
 
@@ -159,7 +159,12 @@ class AIEmpire(Empire):
     def take_action(self):
         """Allow the AI agent to choose an action based on the current state."""
         self.state = self.get_state()
-        action = self.ai_agent.select_action(self.state, self.next_state, self.reward)
+        action = self.ai_agent.select_action(self.state, self.next_state, self.reward)[
+            0
+        ]
+        q_value = self.ai_agent.select_action(self.state, self.next_state, self.reward)[
+            1
+        ]
         # print(self.state["economy"], self.state["territory_size"], self.war_targets)
         # print(action)
         # Define actions (expand, declare war, improve stability, etc.)
@@ -175,6 +180,16 @@ class AIEmpire(Empire):
             self.sea_invade()
         self.next_state = self.get_state()  # update next_state for simulation
         self.update_reward()  # Update the reward after taking action
+        log_metrics(
+            turn,
+            self.name,
+            self.economy,
+            self.stability,
+            self.state["territory_size"],
+            self.reward,
+            action,
+            q_value,
+        )
 
     def process_turn(self):
         tiles = get_empire_tiles(self)
@@ -212,26 +227,6 @@ class AIEmpire(Empire):
         if self.stability < 0:
             self.stability = 0
 
-        # if self.expanding:
-        #     if len(self.war_targets) == 0:
-        #         expanded = False
-        #         for hexagon in reversed(tiles):
-        #             surroundings = get_surroundings(hexagon)
-        #             # print(self.economy)
-        #             for surr_hex in surroundings:
-        #                 if (
-        #                     surr_hex.empire is None
-        #                     and surr_hex.occupier is None
-        #                     and random.randint(0, 10) < math.log10(self.economy) - 2
-        #                 ):
-        #                     annex_tile(self, surr_hex)
-        #                     tiles.append(hexagon)
-        #                     expanded = True
-        #         if not expanded:
-        #             self.expanding = False
-        #         recalc_border_emps(self)
-
-        # recalc_border_selfs(self)
         if len(tiles) == 1:
             surrounded = True
             surroundings = get_surroundings(self.capital)
@@ -513,7 +508,7 @@ class Agent:
                     if state["territory_size"] < 50
                     else "stabilize"
                 )
-                return self.past_action
+                return self.past_action, None
 
             # Find the best action based on the highest Q-value
             best_action = None
@@ -530,7 +525,7 @@ class Agent:
             # If we found a suitable action with a Q-value >= 1, we use it
             if best_q >= 1:
                 self.past_action = best_action
-                return self.past_action
+                return self.past_action, best_q
             else:
                 # Otherwise, use random actions or the highest Q-value action if available
                 if best_action:
@@ -551,11 +546,11 @@ class Agent:
                     else:
                         # If no non-negative actions left, choose randomly
                         self.past_action = random.choice(self.actions)
-                        return self.past_action
+                        return self.past_action, best_q
                 else:
                     # Fallback to random if no valid action was found
                     self.past_action = random.choice(self.actions)
-                    return self.past_action
+                    return self.past_action, best_q
 
     def update_policy(self, state, action, reward, next_state):
         """Update policy based on observed state, action, and reward using Deep Q-Learning."""
@@ -629,6 +624,27 @@ class Agent:
             possible_actions.append("sea_invade")
 
         return possible_actions
+
+
+# This function will collect metrics and save them in a CSV file for easy loading in Databricks
+def log_metrics(
+    turn, empire_name, economy, stability, territory_size, reward, action, q_value
+):
+    data = {
+        "turn": turn,
+        "empire_name": empire_name,
+        "economy": economy,
+        "stability": stability,
+        "territory_size": territory_size,
+        "reward": reward,
+        "action": action,
+        "q_value": q_value,
+        "timestamp": datetime.now(),
+    }
+    df = pd.DataFrame([data])
+    df.to_csv(
+        "ai_empire_logs.csv", mode="a", header=False, index=False
+    )  # Saving logs to Databricks FileStore
 
 
 class Hex:
@@ -1565,6 +1581,17 @@ def for_each_empire(emp):
 
     emp.age += 1
 
+    log_metrics(
+        turn,
+        emp.name,
+        emp.economy,
+        emp.stability,
+        len(get_empire_tiles(emp)),
+        None,
+        None,
+        None,
+    )
+
 
 def fix_things():
     for hexagon in hex_arr:
@@ -1684,7 +1711,7 @@ def startup(win):
 
 def main():
     # Create a timestamp for the filename
-    turn = 1
+
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     filename = (
         f"final project/civilization-simulator-RL/Python/saves/output_{timestamp}.txt"
@@ -1714,6 +1741,8 @@ def main():
 
             global game_tick
             global emp_count
+            global turn
+            turn = 1
 
             startup(win)
 
@@ -1722,7 +1751,11 @@ def main():
             ai_empire = AIEmpire(
                 "AI Empire",
                 random.choice(hex_arr),
-                (58, 51, 112),
+                (
+                    random.randint(80, 85),
+                    random.randint(15, 20),
+                    random.randint(80, 85),
+                ),
                 ai_agent=None,  # Temporary placeholder; we'll assign the agent after creation
             )
 
@@ -1731,7 +1764,12 @@ def main():
 
             # Set the ai_agent attribute of ai_empire to the created Agent instance
             ai_empire.ai_agent = ai_agent
-
+            print([x.name for x in emp_arr])
+            for i in range(len(emp_arr)):
+                if emp_arr[i].name == "AI Empire":
+                    del emp_arr[i]
+                    break
+            print([x.name for x in emp_arr])
             while True:
                 for event in pygame.event.get():
                     if event.type == pygame.QUIT:
@@ -1740,7 +1778,6 @@ def main():
                         return
 
                 # Process actions for each empire, including the AI empire
-                # print([x.name for x in emp_arr])
                 for emp in emp_arr:
                     if isinstance(emp, AIEmpire):
                         emp.process_turn()
@@ -1759,17 +1796,17 @@ def main():
         finally:
             sys.stdout = original_stdout
 
-    while True:
-        for e in pygame.event.get():
-            if e.type == pygame.QUIT:
-                return
+    # while True:
+    #     for e in pygame.event.get():
+    #         if e.type == pygame.QUIT:
+    #             return
 
-        if not (result == False):
-            result = tick(win)
-        game_tick += 1
-        clock.tick(5)
+    #     if not (result == False):
+    #         result = tick(win)
+    #     game_tick += 1
+    #     clock.tick(5)
 
-        pygame.display.update()
+    #     pygame.display.update()
 
 
 if __name__ == "__main__":
