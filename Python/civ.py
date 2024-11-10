@@ -32,7 +32,9 @@ import math
 import noise
 
 import random
+import pandas as pd
 from datetime import datetime
+
 import numpy as np
 
 seed_value = int(datetime.now().timestamp())  # Get the current time as a float
@@ -75,13 +77,14 @@ if ENABLE_MULTITHREADING:
     output = stream.read()
     NUM_CORES = int(output[: len(output) - 1])
 
-global emp_count, game_tick
+global emp_count, game_tick, turn
 
 noise_vals = []
 emp_arr = []
 hex_arr = []
 emp_count = 1
 game_tick = 1
+turn = 1
 
 
 class Empire:
@@ -116,11 +119,19 @@ class AIEmpire(Empire):
     def __init__(self, name, capital, color, economy=100, ai_agent=None):
         super().__init__(name, capital, color, economy)
         self.ai_agent = ai_agent  # Reinforcement learning agent
+
         self.reward = 0
         self.state = self.get_state()
         self.next_state = None
         self.expanding = True
-        emp_arr.append(self)
+        annex_tile(self, capital)
+        self.capital.make_capital()
+        # emp_arr.append(self)
+
+        recalc_border_emps(self)
+
+        for border_emp in self.border_emps:
+            recalc_border_emps(border_emp)
         # recalc_border_emps(self)
 
         # for border_emp in self.border_emps:
@@ -150,7 +161,7 @@ class AIEmpire(Empire):
         self.state = self.get_state()
         action = self.ai_agent.select_action(self.state, self.next_state, self.reward)
         # print(self.state["economy"], self.state["territory_size"], self.war_targets)
-        print(action)
+        # print(action)
         # Define actions (expand, declare war, improve stability, etc.)
         if action == "expand":
             self.expand_territory()
@@ -279,12 +290,14 @@ class AIEmpire(Empire):
 
     def expand_territory(self):
         """Try to expand territory if possible."""
+        action_taken = False
         for hexagon in get_empire_tiles(self):
             surroundings = get_surroundings(hexagon)
             for surr_hex in surroundings:
                 if surr_hex.empire is None and surr_hex.occupier is None:
                     annex_tile(self, surr_hex)
                     recalc_border_emps(self)
+                    action_taken = True
                     break
         for hexagon in get_controlled_tiles(self):
             surroundings = get_surroundings(hexagon)
@@ -321,6 +334,7 @@ class AIEmpire(Empire):
                                     destroyed_empire = occupy_tile(
                                         self, surr_hex, target
                                     )
+                                    action_taken = True
                             elif (
                                 target.rebel == True
                                 and random.randint(0, helpers + 1) > 1
@@ -332,6 +346,7 @@ class AIEmpire(Empire):
                                     destroyed_empire = occupy_tile(
                                         self, surr_hex, target
                                     )
+                                    action_taken = True
                             elif (
                                 target.rebel == False
                                 and random.randint(0, helpers + 1) > 1
@@ -343,6 +358,7 @@ class AIEmpire(Empire):
                                     destroyed_empire = occupy_tile(
                                         self, surr_hex, target
                                     )
+                                    action_taken = True
                             if (
                                 destroyed_empire == True
                                 and target.special == 0
@@ -353,41 +369,44 @@ class AIEmpire(Empire):
                                     "All neighboring nations have declared war on %s after a partition!"
                                     % (self.name)
                                 )
+                                action_taken = True
+        return action_taken
 
     def declare_war_on_neighbor(self):
         """Declare war on a weighted neighboring empire based on their economy."""
-        if self.border_emps:
-            for border_emp in self.border_emps:
-                if (
-                    self.age > 30
-                    and self.economy > 1000
-                    and random.randint(0, 20 * len(emp_arr)) == 0
-                    and self.economy >= border_emp.economy
-                ):
-                    can_war = True
-                    for diplo in concat_table(self.war_targets, self.peace_deals):
-                        if diplo.target == border_emp:
-                            can_war = False
-                    if can_war:
-                        # Sort border empires by their economy in descending order
-                        ordered_econ_list = sorted(
-                            self.border_emps, key=lambda x: x.economy, reverse=True
-                        )
+        if not self.border_emps:
+            return False  # No neighbors to declare war on
 
-                        # Calculate weights based on sorted position (stronger economies get higher weights)
-                        weights = [
-                            i / len(ordered_econ_list)
-                            for i in range(1, len(ordered_econ_list) + 1)
-                        ]
+        for border_emp in self.border_emps:
+            if (
+                self.age > 30
+                and self.economy > 1000
+                and random.randint(0, 20 * len(emp_arr)) == 0
+                and self.economy >= border_emp.economy
+            ):
+                can_war = True
+                for diplo in concat_table(self.war_targets, self.peace_deals):
+                    if diplo.target == border_emp:
+                        can_war = False
+                if can_war:
+                    # Sort border empires by their economy in descending order
+                    ordered_econ_list = sorted(
+                        self.border_emps, key=lambda x: x.economy, reverse=True
+                    )
 
-                        # Select a target empire based on the calculated weights
-                        target = random.choices(
-                            ordered_econ_list, weights=weights, k=1
-                        )[0]
+                    # Calculate weights based on sorted position (stronger economies get higher weights)
+                    weights = [
+                        i / len(ordered_econ_list)
+                        for i in range(1, len(ordered_econ_list) + 1)
+                    ]
 
-                        # Declare war on the chosen target
-                        declare_war(self, target)
-                        print("%s has declared war on %s" % (self.name, target.name))
+                    # Select a target empire based on the calculated weights
+                    target = random.choices(ordered_econ_list, weights=weights, k=1)[0]
+
+                    # Declare war on the chosen target
+                    declare_war(self, target)
+                    print("%s has declared war on %s" % (self.name, target.name))
+                    return True
         for hexagon in get_controlled_tiles(self):
             surroundings = get_surroundings(hexagon)
             for surr_hex in surroundings:
@@ -411,25 +430,37 @@ class AIEmpire(Empire):
                                                 target.aggressor = self
                                         if not already_at_war:
                                             declare_war(border_emp, self, 1, self)
+                                            return True
+        return False
 
     def improve_stability(self):
         """Increase stability as an action."""
-        self.stability += 0.1
-        if self.stability > 5:
+        if self.stability >= 5:
             self.stability = 5
+            return False
+        else:
+            self.stability += 0.1
+            return True
 
     def make_peace_with_neighbor(self):
         """Make peace with a neighboring empire."""
         # Handle peace with war targets after sufficient time
+        action_taken = False
         if self.war_targets:
             for war in self.war_targets:
                 if random.randint(0, game_tick - war.tick) > 25:
                     print(f"{self.name} has made peace with {war.target.name}")
                     make_peace(self, war.target)
+                    action_taken = True
                     break
         if self.border_emps:
             target = random.choice(self.border_emps)
-            make_peace(self, target)
+            target_deals = [x.target for x in self.peace_deals]
+            if target in target_deals:
+                action_taken = False
+            else:
+                print(f"{self.name} has made peace with {target.name}")
+                make_peace(self, target)
         for i in reversed(range(len(self.peace_deals))):
             if game_tick - self.peace_deals[i].tick >= PEACE_DURATION:
                 print(
@@ -437,23 +468,36 @@ class AIEmpire(Empire):
                     % (self.name, self.peace_deals[i].target.name)
                 )
                 self.peace_deals.pop(i)
+        return action_taken
 
     def sea_invade(self):
         """Sea invade a neighboring empire."""
+        action_taken = False
         for target in shuffle_table(emp_arr):
             if self.economy >= 5000 and self.economy > target.economy * 1.25:
                 # print("Sea invasion happening by %s on %s!" % (self.name, target.name))
                 sea_invasion(self, target)
+                action_taken = True
+        return action_taken
 
 
 class Agent:
-    def __init__(self):
-        self.policy = {}  # For simplicity, using a dictionary to store policies
-        self.actions = ["expand", "declare_war", "stabilize", "peace", "sea_invade"]
-        self.past_action = None
-        self.N = 100
-        # self.replay_memory = np.array([[0] * len(self.actions)] * self.N)
+    def __init__(
+        self,
+        empire,
+        replay_memory_size=1000,
+        batch_size=10,
+        gamma=0.99,
+        learning_rate=0.001,
+    ):
         self.replay_memory = []
+        self.replay_memory_size = replay_memory_size
+        self.batch_size = batch_size
+        self.gamma = gamma  # Discount factor
+        self.learning_rate = learning_rate
+        self.q_network = {}  # Initialize a Q-network or dictionary for Q-values
+        self.actions = ["expand", "declare_war", "stabilize", "peace", "sea_invade"]
+        self.empire = empire
 
     def select_action(self, state, next_state, reward):
         """Select an action based on the current policy or randomly."""
@@ -462,118 +506,129 @@ class Agent:
             return self.past_action if state["territory_size"] < 50 else "stabilize"
         else:
             self.update_policy(state, self.past_action, reward, next_state)
-            if not self.policy:
-                # self.past_action = (
-                #     random.choice(["expand", "declare_war", "sea_invade"])
-                #     if state["territory_size"] < 50
-                #     else "stabilize"
-                # )
-                return (
+            if not self.q_network:
+                # Random action if q_network is empty
+                self.past_action = (
                     random.choice(self.actions)
                     if state["territory_size"] < 50
                     else "stabilize"
                 )
                 return self.past_action
 
-            policy_values = list(self.policy.values())
-            best_q = max(policy_values)
-            best_q_index = np.argmax(policy_values)
+            # Find the best action based on the highest Q-value
+            best_action = None
+            best_q = float("-inf")
 
-            # Check if the best Q-value is less than 1, indicating it should be removed
-            if best_q < 1:
-                # Create copies of policy and actions for modification
-                policy_copy = self.policy.copy()
-                action_copy = self.actions.copy()
+            # Iterate through the q_network to find the best Q-value for the current state
+            for (stored_state, action), q_value in self.q_network.items():
+                # Check if the stored state matches the current state
+                if stored_state == tuple(state.items()):
+                    if q_value > best_q:
+                        best_q = q_value
+                        best_action = action
 
-                # Get the action associated with the lowest Q-value
-                policy_action_to_remove = list(self.policy.keys())[best_q_index]
-                policy_copy.pop(policy_action_to_remove)
-                action_copy.remove(policy_action_to_remove)
-
-                # If policy_copy is empty or all Q-values are negative, pick a random action
-                if not policy_copy or max(policy_copy.values()) < 0:
-                    self.past_action = random.choice(action_copy)
-                    return self.past_action
-                else:
-                    # Choose the action with the highest Q-value from the modified policy
-                    best_q_index = np.argmax(list(policy_copy.values()))
-                    self.past_action = list(policy_copy.keys())[best_q_index]
-                    return self.past_action
-            else:
-                # If best Q-value is greater than or equal to 1, pick the corresponding action
-                self.past_action = list(self.policy.keys())[best_q_index]
+            # If we found a suitable action with a Q-value >= 1, we use it
+            if best_q >= 1:
+                self.past_action = best_action
                 return self.past_action
-            # policy_actions = list(self.policy.keys())
-            # print(self.policy)
-            # if len(self.policy.values()) == 0:
-            #     return (
-            #         random.choice(self.actions)
-            #         if state["territory_size"] < 50
-            #         else "stabilize"
-            #     )
-            # else:
-            #     best_q = max(list(self.policy.values()))
-            #     best_q_index = np.argmax(list(self.policy.values()))
-            #     if best_q < 0:
-            #         policy_copy = self.policy.copy()
-            #       #  policy_copy.__delitem__(policy_actions[best_q_index])
-            #         action_copy = self.actions.copy()
-            #         action_copy.remove(policy_actions[best_q_index])
-            #         # print(
-            #         #     best_q,
-            #         #     policy_copy,
-            #         #     policy_actions[best_q_index],
-            #         #     len(policy_copy),
-            #         #     len(policy_copy.values()),
-            #         # )
+            else:
+                # Otherwise, use random actions or the highest Q-value action if available
+                if best_action:
+                    # Remove the action with the lowest Q-value if all Q-values are negative
+                    policy_copy = {
+                        (st, act): qv
+                        for (st, act), qv in self.q_network.items()
+                        if st == tuple(state.items()) and qv >= 0
+                    }
 
-            #         if len(policy_copy.values()) == 0:
-            #             self.past_action = random.choice(action_copy)
-            #             return self.past_action
-            #         else:
-            #             best_q_index = np.argmax(list(policy_copy.values()))
-            #             self.past_action = policy_actions[best_q_index]
-            #             return policy_actions[best_q_index]
-            #     else:
-            #         self.past_action = policy_actions[best_q_index]
-            #         return policy_actions[best_q_index]
-            #         # policy_actions[np.argmax(list(self.policy.values()))]
-        # Here, you might want to use a trained policy instead of random choice.
-        # return random.choice(self.actions) if state["territory_size"] < 50 else "stabilize"
+                    if policy_copy:
+                        # Choose the best Q-value action from the modified policy
+                        best_q_action = max(policy_copy, key=policy_copy.get)
+                        self.past_action = best_q_action[
+                            1
+                        ]  # Get the action part of the tuple
+                        return self.past_action
+                    else:
+                        # If no non-negative actions left, choose randomly
+                        self.past_action = random.choice(self.actions)
+                        return self.past_action
+                else:
+                    # Fallback to random if no valid action was found
+                    self.past_action = random.choice(self.actions)
+                    return self.past_action
 
     def update_policy(self, state, action, reward, next_state):
-        """Update policy based on observed state, action, and reward."""
-        # Placeholder for policy update logic (e.g., Q-learning, DQN, etc.)
+        """Update policy based on observed state, action, and reward using Deep Q-Learning."""
         # Add experience to replay memory
         self.push_to_memory(state, action, reward, next_state)
-        # Sample a batch from replay memory if it's sufficiently populated
-        if len(self.replay_memory) > 10:  # Batch size can be adjusted
-            batch = self.sample_from_memory(batch_size=10)
-            # Placeholder for policy update logic using batch (e.g., Q-learning or DQN)
-            # For demonstration, we'll simply log the actions and rewards in the batch
-            for experience in batch:
-                sampled_state, sampled_action, sampled_reward, sampled_next_state = (
-                    experience
-                )
-                # Update policy based on sampled experience
-                self.policy[sampled_action] = sampled_reward
-                # Replace with more complex logic if needed, e.g., using TD learning or Q-learning
 
-        # self.actions.index(action)
-        # self.policy[action] = reward
-        pass
+        # Sample a batch from replay memory if it's sufficiently populated
+        if len(self.replay_memory) >= self.batch_size:
+            batch = self.sample_from_memory(self.batch_size)
+
+            # Perform Q-learning update on each sampled experience
+            for (
+                sampled_state,
+                sampled_action,
+                sampled_reward,
+                sampled_next_state,
+            ) in batch:
+
+                # Get the current Q-value for the state-action pair
+                # Convert state and action to tuples to make them hashable
+                state_key = tuple((k, v) for k, v in sampled_state.items())
+                action_key = (
+                    tuple((k, v) for k, v in sampled_action.items())
+                    if isinstance(sampled_action, dict)
+                    else sampled_action
+                )
+
+                current_q = self.q_network.get((state_key, action_key), 0.0)
+
+                # Calculate the target Q-value
+                if sampled_next_state is None:  # If it's a terminal state
+                    target_q = sampled_reward
+                else:
+                    # Find max Q-value for the next state
+                    next_state_key = tuple(
+                        (k, v) for k, v in sampled_next_state.items()
+                    )
+                    next_q_values = [
+                        self.q_network.get((next_state_key, a), 0.0)
+                        for a in self.get_possible_actions(sampled_next_state)
+                    ]
+                    max_next_q = max(next_q_values) if next_q_values else 0.0
+                    target_q = sampled_reward + self.gamma * max_next_q
+
+                # Update Q-value with gradient descent (simplified as a manual update for clarity)
+                updated_q = current_q + self.learning_rate * (target_q - current_q)
+                self.q_network[(state_key, action_key)] = updated_q
 
     def push_to_memory(self, state, action, reward, next_state):
         """Push a new experience into replay memory."""
-        # Keep replay memory size at N, removing the oldest if necessary
-        if len(self.replay_memory) >= self.N:
+        if len(self.replay_memory) >= self.replay_memory_size:
             self.replay_memory.pop(0)
-        # Append the new experience as a tuple
         self.replay_memory.append((state, action, reward, next_state))
 
     def sample_from_memory(self, batch_size):
         """Sample a batch of experiences from replay memory."""
         return random.sample(self.replay_memory, batch_size)
+
+    def get_possible_actions(self, state):
+        possible_actions = []
+
+        if self.empire.expand_territory():
+            possible_actions.append("expand_territory")
+        if self.empire.declare_war_on_neighbor():
+            possible_actions.append("declare_war_on_neighbor")
+        if self.empire.improve_stability():
+            possible_actions.append("improve_stability")
+        if self.empire.make_peace_with_neighbor():
+            possible_actions.append("make_peace_with_neighbor")
+        if self.empire.sea_invade():
+            possible_actions.append("sea_invade")
+
+        return possible_actions
 
 
 class Hex:
@@ -1629,6 +1684,7 @@ def startup(win):
 
 def main():
     # Create a timestamp for the filename
+    turn = 1
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     filename = (
         f"final project/civilization-simulator-RL/Python/saves/output_{timestamp}.txt"
@@ -1662,18 +1718,19 @@ def main():
             startup(win)
 
             result = True
-            # Initialize the AI empire
-            ai_agent = Agent()
+            # Initialize the AI empire, passing a placeholder for the agent
             ai_empire = AIEmpire(
                 "AI Empire",
                 random.choice(hex_arr),
-                (
-                    58,
-                    51,
-                    112,
-                ),
-                ai_agent=ai_agent,
+                (58, 51, 112),
+                ai_agent=None,  # Temporary placeholder; we'll assign the agent after creation
             )
+
+            # Now create the Agent instance, passing the ai_empire instance to it
+            ai_agent = Agent(ai_empire)
+
+            # Set the ai_agent attribute of ai_empire to the created Agent instance
+            ai_empire.ai_agent = ai_agent
 
             while True:
                 for event in pygame.event.get():
@@ -1683,6 +1740,7 @@ def main():
                         return
 
                 # Process actions for each empire, including the AI empire
+                # print([x.name for x in emp_arr])
                 for emp in emp_arr:
                     if isinstance(emp, AIEmpire):
                         emp.process_turn()
@@ -1690,6 +1748,8 @@ def main():
                     # f.flush()
                     else:
                         for_each_empire(emp)
+                    # print(emp.name + " bread: ", emp.economy, "turn = ", turn)
+                    turn += 1
                     # f.flush()
 
                 game_tick += 1
@@ -1699,17 +1759,17 @@ def main():
         finally:
             sys.stdout = original_stdout
 
-    # while True:
-    # 	for e in pygame.event.get():
-    # 		if e.type == pygame.QUIT:
-    # 			return
+    while True:
+        for e in pygame.event.get():
+            if e.type == pygame.QUIT:
+                return
 
-    # 	if not (result == False):
-    # 		result = tick(win)
-    # 	game_tick += 1
-    # 	clock.tick(5)
+        if not (result == False):
+            result = tick(win)
+        game_tick += 1
+        clock.tick(5)
 
-    # 	pygame.display.update()
+        pygame.display.update()
 
 
 if __name__ == "__main__":
