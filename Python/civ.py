@@ -768,6 +768,8 @@ def verify_color(color, level=0):
     if level > 100:
         return color
     for emp in emp_arr:
+        if emp.name == "AI Empire":
+            return color
         diff = (
             ((emp.color[0] - color[0]) ** 2)
             + ((emp.color[1] - color[1]) ** 2)
@@ -1014,7 +1016,10 @@ def annex_tile(emp, tile):
     tile.occupier = None
     tile.new_occupier = None
     tile.change_color = True
-    tile.set_color((emp.color[0] + 140, emp.color[1] + 140, emp.color[2] + 140))
+    if emp.name == "AI Empire":
+        tile.set_color((emp.color[0] + 1, emp.color[1] + 1, emp.color[2] + 1))
+    else:
+        tile.set_color((emp.color[0] + 140, emp.color[1] + 140, emp.color[2] + 140))
 
 
 def delayed_annex_tile(emp, tile):
@@ -1071,7 +1076,10 @@ def occupy_tile(emp, tile, causus):
         tile.occupier = emp
         tile.new_occupier = emp
         tile.change_color = True
-        tile.set_color((emp.color[0] + 140, emp.color[1] + 140, emp.color[2] + 140))
+        if emp.name == "AI Empire":
+            tile.set_color((emp.color[0] + 5, emp.color[1] + 5, emp.color[2] + 5))
+        else:
+            tile.set_color((emp.color[0] + 140, emp.color[1] + 140, emp.color[2] + 140))
         emp.economy -= 10
         tile.empire.economy -= 10
         if emp.economy < 0:
@@ -1752,9 +1760,9 @@ def main():
                 "AI Empire",
                 random.choice(hex_arr),
                 (
-                    random.randint(80, 85),
-                    random.randint(15, 20),
-                    random.randint(80, 85),
+                    217,
+                    5,
+                    250,
                 ),
                 ai_agent=None,  # Temporary placeholder; we'll assign the agent after creation
             )
