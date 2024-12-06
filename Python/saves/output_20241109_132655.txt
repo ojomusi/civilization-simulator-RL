@@ -1,0 +1,274 @@
+Starting the game...
+expand
+declare_war
+declare_war
+stabilize
+expand
+expand
+stabilize
+sea_invade
+stabilize
+stabilize
+sea_invade
+expand
+expand
+sea_invade
+expand
+expand
+expand
+peace
+expand
+expand
+peace
+sea_invade
+expand
+expand
+peace
+expand
+expand
+expand
+expand
+expand
+expand
+expand
+expand
+expand
+expand
+expand
+expand
+expand
+expand
+expand
+expand
+expand
+expand
+expand
+declare_war
+expand
+expand
+expand
+expand
+Peace deal between Empire 11 and AI Empire has expired
+expand
+expand
+expand
+expand
+Peace deal between Empire 11 and AI Empire has expired
+expand
+expand
+Peace deal between Empire 11 and AI Empire has expired
+expand
+expand
+expand
+expand
+expand
+peace
+expand
+expand
+peace
+expand
+The capital of AI Empire has been captured by Empire 3 and will be partitioned!
+peace
+expand
+expand
+peace
+expand
+expand
+peace
+expand
+stabilize
+stabilize
+stabilize
+A nation has rebelled against Empire 3! (2)
+declare_war
+expand
+Peace deal between Empire 14 and AI Empire has expired
+expand
+expand
+Peace deal between Empire 14 and AI Empire has expired
+expand
+Peace deal between Empire 11 and AI Empire has expired
+expand
+expand
+declare_war
+declare_war
+expand
+expand
+declare_war
+expand
+stabilize
+stabilize
+Sea invasion happening by Empire 9 on Empire 16!
+expand
+expand
+expand
+The capital of Empire 16 has been captured by Empire 9 and will be partitioned!
+All neighboring nations have declared war on Empire 9 after a partition!
+peace
+expand
+stabilize
+sea_invade
+declare_war
+stabilize
+sea_invade
+expand
+peace
+expand
+The capital of Empire 9 has been captured and Empire 15 will liberate its occupations!
+expand
+Empire 5 has declared war on Empire 3
+expand
+Empire 3 has made peace with Empire 19
+declare_war
+expand
+sea_invade
+stabilize
+peace
+expand
+A nation has rebelled against Empire 13! (2)
+stabilize
+sea_invade
+expand
+peace
+expand
+expand
+declare_war
+Empire 2 collapsed!
+expand
+stabilize
+Peace deal between Empire 19 and Empire 3 has expired
+stabilize
+Peace deal between Empire 3 and Empire 19 has expired
+expand
+expand
+peace
+expand
+expand
+expand
+expand
+expand
+peace
+stabilize
+expand
+Empire 5 has made peace with Empire 3
+A nation has rebelled against Empire 3! (2)
+declare_war
+declare_war
+declare_war
+peace
+sea_invade
+expand
+expand
+The capital of Empire 23 has been captured by Empire 3 and will be partitioned!
+stabilize
+peace
+expand
+declare_war
+sea_invade
+sea_invade
+expand
+Empire 22 has made peace with Empire 13
+declare_war
+declare_war
+Peace deal between Empire 3 and Empire 5 has expired
+stabilize
+Peace deal between Empire 5 and Empire 3 has expired
+expand
+stabilize
+peace
+A nation has rebelled against Empire 3! (2)
+Empire 3 has broken out into civil war!
+declare_war
+declare_war
+expand
+expand
+peace
+sea_invade
+sea_invade
+expand
+stabilize
+stabilize
+Peace deal between Empire 22 and Empire 13 has expired
+Peace deal between Empire 13 and Empire 22 has expired
+stabilize
+peace
+expand
+expand
+declare_war
+stabilize
+stabilize
+sea_invade
+expand
+Sea invasion happening by Empire 22 on Empire 3!
+declare_war
+stabilize
+declare_war
+peace
+peace
+sea_invade
+expand
+expand
+sea_invade
+declare_war
+Empire 27 has made peace with Empire 3
+sea_invade
+declare_war
+peace
+Empire 3 has made peace with Empire 24
+stabilize
+declare_war
+Empire 25 has made peace with Empire 3
+declare_war
+declare_war
+peace
+Empire 3 has made peace with Empire 26
+peace
+declare_war
+expand
+expand
+sea_invade
+peace
+stabilize
+Peace deal between Empire 27 and Empire 3 has expired
+sea_invade
+declare_war
+Peace deal between Empire 3 and Empire 27 has expired
+expand
+stabilize
+declare_war
+Empire 22 has made peace with Empire 3
+Peace deal between Empire 24 and Empire 3 has expired
+Peace deal between Empire 3 and Empire 24 has expired
+Peace deal between Empire 25 and Empire 3 has expired
+peace
+Peace deal between Empire 3 and Empire 25 has expired
+peace
+expand
+sea_invade
+sea_invade
+Peace deal between Empire 26 and Empire 3 has expired
+sea_invade
+A nation has rebelled against Empire 3! (2)
+Empire 3 has broken out into civil war!
+Peace deal between Empire 3 and Empire 26 has expired
+declare_war
+stabilize
+peace
+Empire 14 has declared war on Empire 19
+declare_war
+declare_war
+declare_war
+expand
+peace
+declare_war
+sea_invade
+expand
+Peace deal between Empire 3 and Empire 22 has expired
+Peace deal between Empire 22 and Empire 3 has expired
+stabilize
+declare_war
+stabilize
+peace
+declare_war
+expand
+Game closed.

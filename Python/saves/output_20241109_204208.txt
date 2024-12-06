@@ -1,0 +1,10 @@
+Starting the game...
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+AI Empire has made peace with Empire 2
+AI Empire has made peace with Empire 3
+AI Empire has made peace with Empire 15
+AI Empire has made peace with Empire 4
+AI Empire has made peace with Empire 11
+AI Empire has made peace with Empire 9
+AI Empire has made peace with Empire 7
+Game closed.

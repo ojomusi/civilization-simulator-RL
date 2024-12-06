@@ -1,0 +1,7 @@
+Starting the game...
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+AI Empire has made peace with Empire 3
+AI Empire has made peace with Empire 11
+AI Empire has made peace with Empire 5
+{((('economy', 273), ('stability', 2.0), ('territory_size', 2), ('border_empires', 0), ('age', 2)), 'expand'): -0.0075, ((('economy', 713), ('stability', 4.6), ('territory_size', 2), ('border_empires', 0), ('age', 7)), 'expand'): -0.004500000000000002, ((('economy', 801), ('stability', 5), ('territory_size', 2), ('border_empires', 0), ('age', 8)), 'expand'): -0.0020000000000000018, ((('economy', 625), ('stability', 4.1), ('territory_size', 2), ('border_empires', 0), ('age', 6)), 'expand'): -0.007, ((('economy', 894), ('stability', 5), ('territory_size', 4), ('border_empires', 0), ('age', 9)), 'expand'): 0.02, ((('economy', 449), ('stability', 3.1), ('territory_size', 2), ('border_empires', 0), ('age', 4)), 'expand'): -0.012, ((('economy', 537), ('stability', 3.6), ('territory_size', 2), ('border_empires', 0), ('age', 5)), 'expand'): -0.0095, ((('economy', 987), ('stability', 5), ('territory_size', 4), ('border_empires', 0), ('age', 10)), 'expand'): 0.0, ((('economy', 1080), ('stability', 5), ('territory_size', 4), ('border_empires', 0), ('age', 11)), 'expand'): 0.0, ((('economy', 361), ('stability', 2.5), ('territory_size', 2), ('border_empires', 0), ('age', 3)), 'expand'): -0.015}
+((('economy', 894), ('stability', 5), ('territory_size', 4), ('border_empires', 0), ('age', 9)), 'expand')

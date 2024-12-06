@@ -1,0 +1,287 @@
+Starting the game...
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'peace': -19.0}
+-19.0 {} peace 0 0
+{'peace': -19.5}
+-19.5 {} peace 0 0
+{'peace': -19.5}
+-19.5 {} peace 0 0
+{'peace': -19.0}
+-19.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.5}
+-18.5 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -9.5}
+-9.5 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -9.5}
+-9.5 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -19.0}
+-19.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.5}
+-18.5 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -19.5}
+-19.5 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -9.5}
+-9.5 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.5}
+-18.5 {} peace 0 0
+{'peace': -18.5}
+-18.5 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -19.5}
+-19.5 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 8 and AI Empire has expired
+Peace deal between Empire 8 and AI Empire has expired
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -20.0}
+-20.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 10 and AI Empire has expired
+Peace deal between Empire 10 and AI Empire has expired
+{'peace': -20.0}
+-20.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 10 and AI Empire has expired
+Peace deal between Empire 10 and AI Empire has expired
+Peace deal between Empire 8 and AI Empire has expired
+{'peace': -19.0}
+-19.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 10 and AI Empire has expired
+Peace deal between Empire 8 and AI Empire has expired
+Peace deal between Empire 8 and AI Empire has expired
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 8 and AI Empire has expired
+{'peace': -19.5}
+-19.5 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 10 and AI Empire has expired
+Peace deal between Empire 8 and AI Empire has expired
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 10 and AI Empire has expired
+Peace deal between Empire 8 and AI Empire has expired
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 10 and AI Empire has expired
+Peace deal between Empire 8 and AI Empire has expired
+Peace deal between Empire 8 and AI Empire has expired
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 8 and AI Empire has expired
+Peace deal between Empire 8 and AI Empire has expired
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.5}
+-18.5 {} peace 0 0
+Peace deal between Empire 10 and AI Empire has expired
+Peace deal between Empire 10 and AI Empire has expired
+Peace deal between Empire 8 and AI Empire has expired
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 10 and AI Empire has expired
+Sea invasion happening by Empire 14 on Empire 15!
+Peace deal between Empire 10 and AI Empire has expired
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 8 and AI Empire has expired
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 10 and AI Empire has expired
+Peace deal between Empire 10 and AI Empire has expired
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.5}
+-18.5 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 8 and AI Empire has expired
+Peace deal between Empire 8 and AI Empire has expired
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 8 and AI Empire has expired
+Peace deal between Empire 8 and AI Empire has expired
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 8 and AI Empire has expired
+Peace deal between Empire 8 and AI Empire has expired
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 8 and AI Empire has expired
+Peace deal between Empire 8 and AI Empire has expired
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 10 and AI Empire has expired
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 8 and AI Empire has expired
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 10 and AI Empire has expired
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 8 and AI Empire has expired
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 10 and AI Empire has expired
+Peace deal between Empire 10 and AI Empire has expired
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 8 and AI Empire has expired
+Peace deal between Empire 8 and AI Empire has expired
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 8 and AI Empire has expired
+Peace deal between Empire 8 and AI Empire has expired
+{'peace': -18.0}
+-18.0 {} peace 0 0
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 8 and AI Empire has expired
+Peace deal between Empire 8 and AI Empire has expired
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 10 and AI Empire has expired
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 8 and AI Empire has expired
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 10 and AI Empire has expired
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 8 and AI Empire has expired
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 10 and AI Empire has expired
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 8 and AI Empire has expired
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 10 and AI Empire has expired
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 8 and AI Empire has expired
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 10 and AI Empire has expired
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Peace deal between Empire 8 and AI Empire has expired
+{'peace': -18.0}
+-18.0 {} peace 0 0
+Game closed.

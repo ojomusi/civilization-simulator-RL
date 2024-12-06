@@ -1,0 +1,484 @@
+Starting the game...
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'stabilize': -18.0}
+{'stabilize': -9.0, 'expand': 2.0}
+{'stabilize': -19.0, 'expand': 22.0}
+{'stabilize': -9.0, 'expand': 22.0}
+{'stabilize': -19.0, 'expand': 22.0}
+{'stabilize': -19.0, 'expand': 62.0}
+{'stabilize': -9.0, 'expand': 82.0}
+{'stabilize': -19.5, 'expand': 2.0}
+{'stabilize': -19.5, 'expand': 92.0}
+{'stabilize': -19.0, 'expand': 112.0}
+{'stabilize': -19.5, 'expand': 42.0}
+{'stabilize': -18.0, 'expand': 22.0}
+{'stabilize': -18.0, 'expand': 62.0}
+{'stabilize': -19.0, 'expand': 22.0}
+{'stabilize': -18.0, 'expand': 92.0}
+{'stabilize': -19.5, 'expand': 12.0}
+{'stabilize': -19.5, 'expand': 112.0}
+{'stabilize': -18.0, 'expand': 2.0}
+{'stabilize': -18.0, 'expand': 12.0}
+{'stabilize': -19.0, 'expand': 42.0}
+{'stabilize': -19.5, 'expand': 22.0}
+{'stabilize': -19.5, 'expand': 112.0}
+{'stabilize': -19.5, 'expand': 22.0}
+{'stabilize': -18.5, 'expand': 42.0}
+{'stabilize': -19.0, 'expand': 22.0}
+{'stabilize': -19.5, 'expand': 2.0}
+{'stabilize': -19.5, 'expand': 22.0}
+{'stabilize': -18.0, 'expand': 22.0}
+{'stabilize': -19.5, 'expand': 62.0}
+{'stabilize': -19.0, 'expand': 2.0}
+{'stabilize': -19.0, 'expand': -18.0}
+{'stabilize': -19.0, 'expand': 22.0}
+{'stabilize': -9.0, 'expand': -18.0}
+{'stabilize': -18.0, 'expand': 12.0}
+{'stabilize': -19.5, 'expand': -18.0}
+{'stabilize': -19.5, 'expand': -18.0}
+{'stabilize': -17.499999999999996, 'expand': 22.0}
+{'stabilize': -19.5, 'expand': 22.0}
+{'stabilize': -9.0, 'expand': 12.0}
+{'stabilize': -19.5, 'expand': 22.0}
+{'stabilize': -17.499999999999996, 'expand': 12.0}
+{'stabilize': -17.499999999999996, 'expand': -15.999999999999996}
+{'stabilize': -17.499999999999996, 'expand': -16.999999999999996}
+{'stabilize': -18.0, 'expand': -16.999999999999996}
+{'stabilize': -18.0, 'expand': 22.0}
+{'stabilize': -18.0, 'expand': -15.999999999999996}
+{'stabilize': -19.0, 'expand': -16.999999999999996}
+{'stabilize': -17.499999999999996, 'expand': 12.0}
+{'stabilize': -16.499999999999996, 'expand': -15.999999999999996}
+{'stabilize': -13.499999999999995, 'expand': -18.0}
+{'stabilize': -18.0, 'expand': -15.999999999999996}
+{'stabilize': -16.499999999999996, 'expand': -14.499999999999995}
+Empire 6 collapsed!
+{'stabilize': -12.999999999999993, 'expand': 82.0}
+{'stabilize': -16.499999999999996, 'expand': 22.0}
+{'stabilize': -13.499999999999995, 'expand': -11.499999999999993}
+{'stabilize': -15.499999999999996, 'expand': -16.999999999999996}
+{'stabilize': -19.0, 'expand': 22.0}
+{'stabilize': -12.999999999999993, 'expand': 82.0}
+{'stabilize': -19.0, 'expand': -18.0}
+{'stabilize': -19.5, 'expand': 22.0}
+{'stabilize': -19.0, 'expand': -11.499999999999993}
+{'stabilize': -9.499999999999991, 'expand': 22.0}
+{'stabilize': -19.5, 'expand': 42.0}
+{'stabilize': -18.0, 'expand': 2.0}
+{'stabilize': -10.999999999999993, 'expand': -15.999999999999996}
+{'stabilize': -18.5, 'expand': -16.999999999999996}
+{'stabilize': -13.499999999999995, 'expand': -14.499999999999995}
+{'stabilize': -8.99999999999999, 'expand': 82.0}
+{'stabilize': -12.499999999999993, 'expand': 2.0}
+{'stabilize': -19.5, 'expand': -7.999999999999989}
+{'stabilize': -12.999999999999993, 'expand': 2.0}
+{'stabilize': -7.499999999999989, 'expand': 22.0}
+{'stabilize': -7.499999999999989, 'expand': 22.0}
+{'stabilize': -15.999999999999996, 'expand': -16.999999999999996}
+Empire 10 has declared war on Empire 16
+{'stabilize': -13.999999999999995, 'expand': -9.999999999999991}
+{'stabilize': -8.49999999999999, 'expand': -17.499999999999996}
+{'stabilize': -9.499999999999991, 'expand': -15.999999999999996}
+{'stabilize': -12.999999999999993, 'expand': 62.0}
+{'stabilize': -19.5, 'expand': -9.499999999999991}
+{'stabilize': -11.499999999999993, 'expand': 22.0}
+{'stabilize': -9.499999999999991, 'expand': -15.999999999999996}
+{'stabilize': -16.999999999999996, 'expand': 12.0}
+{'stabilize': -16.499999999999996, 'expand': -7.499999999999989}
+{'stabilize': -19.0, 'expand': 62.0}
+{'stabilize': -12.499999999999993, 'expand': -18.0}
+Empire 2 has declared war on Empire 10
+{'stabilize': -15.499999999999996, 'expand': -10.499999999999991}
+{'stabilize': -13.499999999999995, 'expand': -9.499999999999991}
+{'stabilize': -13.499999999999995, 'expand': 2.0}
+{'stabilize': -5.499999999999988, 'expand': 42.0}
+{'stabilize': -19.5, 'expand': 12.0}
+{'stabilize': -19.0, 'expand': 22.0}
+{'stabilize': -8.99999999999999, 'expand': -7.499999999999989}
+{'stabilize': -12.499999999999993, 'expand': -2.4999999999999956}
+{'stabilize': -19.0, 'expand': 22.0}
+{'stabilize': -15.499999999999996, 'expand': -9.499999999999991}
+{'stabilize': -1.4999999999999991, 'expand': -2.4999999999999956}
+{'stabilize': -5.499999999999988, 'expand': -2.4999999999999956}
+{'stabilize': -7.999999999999989, 'expand': -15.999999999999996}
+{'stabilize': -2.4999999999999956, 'expand': -2.4999999999999956}
+{'stabilize': -15.499999999999996, 'expand': -7.999999999999989}
+{'stabilize': -5.499999999999988, 'expand': 92.0}
+{'stabilize': -11.499999999999993, 'expand': -7.499999999999989}
+{'stabilize': -13.499999999999995, 'expand': -15.999999999999996}
+A nation has rebelled against Empire 5! (2)
+{'stabilize': -2.999999999999994, 'expand': -18.0}
+{'stabilize': 0.0, 'expand': 112.0}
+{'stabilize': -14.999999999999996, 'expand': -5.499999999999988}
+The capital of Empire 16 has been captured by Empire 10 and will be partitioned!
+All neighboring nations have declared war on Empire 10 after a partition!
+Empire 7 has declared war on AI Empire
+The capital of Empire 10 has been captured and Empire 2 will liberate its occupations!
+{'stabilize': -5.499999999999988, 'expand': 12.0}
+{'stabilize': -12.999999999999993, 'expand': 32.0}
+{'stabilize': -5.499999999999988, 'expand': -15.999999999999996}
+{'stabilize': -10.499999999999991, 'expand': -15.999999999999996}
+{'stabilize': -2.999999999999994, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 2.0}
+{'stabilize': -17.499999999999996, 'expand': -9.499999999999991}
+{'stabilize': 0.0, 'expand': -18.0}
+{'stabilize': -4.4999999999999885, 'expand': -2.4999999999999956}
+{'stabilize': -12.499999999999993, 'expand': 0.0}
+{'stabilize': -3.9999999999999902, 'expand': -9.499999999999991}
+{'stabilize': -1.9999999999999973, 'expand': 0.0}
+{'stabilize': -10.499999999999991, 'expand': -15.999999999999996}
+{'stabilize': -1.4999999999999991, 'expand': 0.0}
+{'stabilize': -16.499999999999996, 'expand': -11.499999999999993}
+{'stabilize': -12.499999999999993, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': -13.499999999999995}
+{'stabilize': -8.49999999999999, 'expand': -15.999999999999996}
+{'stabilize': 0.0, 'expand': -15.999999999999996}
+{'stabilize': -8.49999999999999, 'expand': -17.499999999999996}
+The capital of AI Empire has been captured by Empire 7 and will be partitioned!
+All neighboring nations have declared war on Empire 7 after a partition!
+Sea invasion happening by Empire 12 on Empire 7!
+The capital of Empire 8 has been captured by Empire 12 and will be partitioned!
+{'stabilize': 0.0, 'expand': -4.999999999999987}
+Empire 2 has declared war on Empire 12
+{'stabilize': -11.499999999999993, 'expand': -2.4999999999999956}
+{'stabilize': -7.499999999999989, 'expand': -9.499999999999991}
+{'stabilize': -9.999999999999991, 'expand': -2.4999999999999956}
+{'stabilize': -2.4999999999999956, 'expand': -4.4999999999999885}
+{'stabilize': -11.499999999999993, 'expand': -15.999999999999996}
+{'stabilize': -9.499999999999991, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': -4.4999999999999885}
+{'stabilize': 0.0, 'expand': -2.4999999999999956}
+{'stabilize': -7.499999999999989, 'expand': 0.0}
+{'stabilize': -1.9999999999999973, 'expand': -11.499999999999993}
+{'stabilize': 0.0, 'expand': -7.999999999999989}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': -2.4999999999999956}
+{'stabilize': -11.999999999999993, 'expand': -9.499999999999991}
+Empire 5 has made peace with Empire 18
+{'stabilize': -10.999999999999993, 'expand': -1.4999999999999991}
+{'stabilize': -9.999999999999991, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': -4.4999999999999885}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': -9.999999999999991}
+{'stabilize': -1.0000000000000009, 'expand': 0.0}
+{'stabilize': -11.499999999999993, 'expand': 0.0}
+{'stabilize': -6.9999999999999885, 'expand': -7.499999999999989}
+{'stabilize': -3.9999999999999902, 'expand': -11.499999999999993}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': -9.499999999999991, 'expand': 0.0}
+{'stabilize': -1.9999999999999973, 'expand': -4.999999999999987}
+{'stabilize': 0.0, 'expand': -10.499999999999991}
+{'stabilize': 0.0, 'expand': -7.999999999999989}
+{'stabilize': 0.0, 'expand': 0.0}
+Empire 12 has made peace with Empire 7
+Peace deal between Empire 5 and Empire 18 has expired
+{'stabilize': 0.0, 'expand': 0.0}
+Peace deal between Empire 18 and Empire 5 has expired
+{'stabilize': 0.0, 'expand': 0.0}
+Empire 2 has made peace with Empire 12
+{'stabilize': 0.0, 'expand': -2.4999999999999956}
+{'stabilize': -4.999999999999987, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': -4.999999999999987}
+{'stabilize': -8.99999999999999, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': -2.4999999999999956}
+{'stabilize': 0.0, 'expand': -2.4999999999999956}
+Empire 15 has declared war on Empire 11
+{'stabilize': -4.4999999999999885, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': -2.4999999999999956}
+{'stabilize': 0.0, 'expand': 0.0}
+The capital of Empire 11 has been captured by Empire 15 and will be partitioned!
+All neighboring nations have declared war on Empire 15 after a partition!
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+Peace deal between Empire 7 and Empire 12 has expired
+{'stabilize': 0.0, 'expand': 0.0}
+Peace deal between Empire 12 and Empire 7 has expired
+A nation has rebelled against Empire 5! (2)
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+Peace deal between Empire 2 and Empire 12 has expired
+{'stabilize': 0.0, 'expand': -2.4999999999999956}
+Peace deal between Empire 12 and Empire 2 has expired
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': -3.9999999999999902}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': -1.0000000000000009, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+A nation has rebelled against Empire 20! (2)
+{'stabilize': 0.0, 'expand': -2.4999999999999956}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': -2.4999999999999956}
+{'stabilize': -1.4999999999999991, 'expand': -1.4999999999999991}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': -1.4999999999999991, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+Empire 2 has declared war on Empire 20
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+Empire 15 has made peace with Empire 2
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+Empire 1 has declared war on Empire 13
+{'stabilize': 0.0, 'expand': 0.0}
+Empire 18 has declared war on Empire 21
+Empire 5 has made peace with Empire 21
+{'stabilize': 0.0, 'expand': 0.0}
+The capital of Empire 21 has been captured by Empire 18 and will be partitioned!
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+The capital of Empire 20 has been captured by Empire 22 and will be partitioned!
+{'stabilize': 0.0, 'expand': 0.0}
+The capital of Empire 24 has been captured by Empire 22 and will be partitioned!
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+Empire 2 has declared war on Empire 22
+{'stabilize': 0.0, 'expand': 0.0}
+Sea invasion happening by Empire 12 on AI Empire!
+{'stabilize': 0.0, 'expand': 0.0}
+The capital of Empire 22 has been captured by Empire 2 and will be partitioned!
+{'stabilize': 0.0, 'expand': 0.0}
+Peace deal between Empire 15 and Empire 2 has expired
+Peace deal between Empire 2 and Empire 15 has expired
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+Peace deal between Empire 5 and Empire 21 has expired
+{'stabilize': 0.0, 'expand': 0.0}
+Empire 7 has declared war on Empire 2
+{'stabilize': 0.0, 'expand': 0.0}
+A nation has rebelled against Empire 15! (2)
+Empire 15 has broken out into civil war!
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+Empire 3 collapsed!
+Empire 13 has made peace with Empire 1
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+The capital of Empire 15 has been captured and Empire 27 will liberate its occupations!
+All neighboring nations have declared war on Empire 27 after a partition!
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+The capital of Empire 27 has been captured and Empire 25 will liberate its occupations!
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+Peace deal between Empire 13 and Empire 1 has expired
+Peace deal between Empire 1 and Empire 13 has expired
+Empire 2 has made peace with Empire 7
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+Peace deal between Empire 25 and Empire 31 has expired
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+Peace deal between Empire 7 and Empire 2 has expired
+Peace deal between Empire 2 and Empire 7 has expired
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+Empire 1 has declared war on Empire 12
+Empire 31 has declared war on Empire 30
+The capital of Empire 30 has been captured by Empire 31 and will be partitioned!
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+The capital of Empire 12 has been captured by Empire 1 and will be partitioned!
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+A nation has rebelled against Empire 2! (2)
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+A nation has rebelled against Empire 1! (2)
+Empire 1 has broken out into civil war!
+Empire 29 has declared war on Empire 28
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+The capital of Empire 28 has been captured by Empire 29 and will be partitioned!
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+Empire 33 has made peace with Empire 1
+{'stabilize': 0.0, 'expand': 0.0}
+Empire 7 has declared war on Empire 2
+Empire 32 has made peace with Empire 2
+{'stabilize': 0.0, 'expand': 0.0}
+Empire 35 has made peace with Empire 1
+{'stabilize': 0.0, 'expand': 0.0}
+Empire 36 has made peace with Empire 1
+{'stabilize': 0.0, 'expand': 0.0}
+Empire 1 has made peace with Empire 34
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+A nation has rebelled against Empire 5! (2)
+Peace deal between Empire 1 and Empire 33 has expired
+Peace deal between Empire 33 and Empire 1 has expired
+{'stabilize': 0.0, 'expand': 0.0}
+Peace deal between Empire 2 and Empire 32 has expired
+Peace deal between Empire 32 and Empire 2 has expired
+{'stabilize': 0.0, 'expand': 0.0}
+Peace deal between Empire 1 and Empire 35 has expired
+Peace deal between Empire 35 and Empire 1 has expired
+{'stabilize': 0.0, 'expand': 0.0}
+Peace deal between Empire 1 and Empire 36 has expired
+Peace deal between Empire 36 and Empire 1 has expired
+{'stabilize': 0.0, 'expand': 0.0}
+Peace deal between Empire 1 and Empire 34 has expired
+Peace deal between Empire 34 and Empire 1 has expired
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+Empire 4 has declared war on Empire 19
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+A nation has rebelled against Empire 18! (2)
+Empire 18 has broken out into civil war!
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+Empire 2 has made peace with Empire 7
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+A nation has rebelled against Empire 7! (2)
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+Empire 5 has made peace with Empire 37
+Sea invasion happening by Empire 34 on Empire 39!
+Peace deal between Empire 2 and Empire 7 has expired
+{'stabilize': 0.0, 'expand': 0.0}
+Peace deal between Empire 7 and Empire 2 has expired
+Empire 2 has declared war on Empire 41
+{'stabilize': 0.0, 'expand': 0.0}
+The capital of Empire 41 has been captured by Empire 2 and will be partitioned!
+All neighboring nations have declared war on Empire 2 after a partition!
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+A nation has rebelled against Empire 14! (2)
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+{'stabilize': 0.0, 'expand': 0.0}
+The capital of Empire 4 has been captured by Empire 19 and will be partitioned!
+All neighboring nations have declared war on Empire 19 after a partition!
+{'stabilize': 0.0, 'expand': 0.0}
+Empire 39 has made peace with Empire 18
+{'stabilize': 0.0, 'expand': 0.0}
+Empire 38 has made peace with Empire 18
+{'stabilize': 0.0, 'expand': 0.0}
+Empire 40 has made peace with Empire 18
+Game closed.

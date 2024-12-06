@@ -1,0 +1,144 @@
+Starting the game...
+{}
+{}
+{}
+{}
+{}
+{}
+The capital of AI Empire has been captured by Empire 10 and will be partitioned!
+All neighboring nations have declared war on Empire 10 after a partition!
+{}
+{}
+{}
+{}
+{'sea_invade': -20.0}
+{'sea_invade': -20.0, 'expand': -18.5}
+{'sea_invade': -20.0, 'expand': -18.5}
+{'sea_invade': -20.0, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -19.0, 'expand': -18.5}
+{'sea_invade': -20.0, 'expand': -18.5}
+{'sea_invade': -19.0, 'expand': -18.5}
+{'sea_invade': -20.0, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -20.0, 'expand': -18.5}
+{'sea_invade': -20.0, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -20.0, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+Peace deal between Empire 10 and AI Empire has expired
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+Peace deal between Empire 10 and AI Empire has expired
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+Peace deal between Empire 10 and AI Empire has expired
+{'sea_invade': -19.0, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+Empire 7 collapsed!
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -19.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -20.0, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -20.0, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -19.0, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+Empire 15 has declared war on Empire 6
+The capital of Empire 6 has been captured by Empire 15 and will be partitioned!
+All neighboring nations have declared war on Empire 15 after a partition!
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -20.0, 'expand': -18.5}
+Empire 11 has declared war on Empire 4
+{'sea_invade': -18.5, 'expand': -18.5}
+Sea invasion happening by Empire 3 on Empire 2!
+The capital of Empire 16 has been captured by Empire 15 and will be partitioned!
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+Empire 10 has made peace with AI Empire
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+Empire 5 has declared war on Empire 11
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+The capital of Empire 15 has been captured and Empire 13 will liberate its occupations!
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -19.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+The capital of Empire 4 has been captured by Empire 11 and will be partitioned!
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+The capital of Empire 5 has been captured by Empire 11 and will be partitioned!
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -20.0, 'expand': -18.5}
+A nation has rebelled against Empire 11! (2)
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+The capital of Empire 2 has been captured by Empire 3 and will be partitioned!
+All neighboring nations have declared war on Empire 3 after a partition!
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+Peace deal between Empire 10 and AI Empire has expired
+{'sea_invade': -19.0, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+Empire 12 has declared war on Empire 18
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+{'sea_invade': -18.5, 'expand': -18.5}
+The capital of Empire 18 has been captured by Empire 12 and will be partitioned!
+All neighboring nations have declared war on Empire 12 after a partition!
+{'sea_invade': -18.5, 'expand': -18.5}
+Empire 14 has declared war on Empire 13
+{'sea_invade': -18.5, 'expand': -18.5}
+Game closed.

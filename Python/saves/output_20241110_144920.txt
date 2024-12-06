@@ -1,0 +1,12 @@
+Starting the game...
+['Empire 1', 'Empire 2', 'Empire 3', 'Empire 4', 'Empire 5', 'Empire 6', 'Empire 7', 'Empire 8', 'Empire 9', 'Empire 10', 'Empire 11', 'Empire 12', 'Empire 13', 'Empire 14', 'Empire 15', 'Empire 16', 'AI Empire', 'AI Empire']
+['Empire 1', 'Empire 2', 'Empire 3', 'Empire 4', 'Empire 5', 'Empire 6', 'Empire 7', 'Empire 8', 'Empire 9', 'Empire 10', 'Empire 11', 'Empire 12', 'Empire 13', 'Empire 14', 'Empire 15', 'Empire 16', 'AI Empire']
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+AI Empire has made peace with Empire 12
+AI Empire has made peace with Empire 1
+AI Empire has made peace with Empire 10
+AI Empire has made peace with Empire 11
+AI Empire has made peace with Empire 8
+AI Empire has made peace with Empire 3

@@ -1,0 +1,133 @@
+Starting the game...
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'sea_invade': -19.5}
+{'sea_invade': -19.0}
+{'sea_invade': -19.5}
+{'sea_invade': -19.5}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.5}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.5}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -20.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.5}
+{'sea_invade': -19.5}
+{'sea_invade': -19.0}
+{'sea_invade': -19.5}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.5}
+{'sea_invade': -19.5}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -20.0}
+{'sea_invade': -19.5}
+{'sea_invade': -19.5}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.5}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.5}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -20.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.5}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+Empire 5 has declared war on Empire 10
+A nation has rebelled against Empire 12! (2)
+{'sea_invade': -19.0}
+{'sea_invade': -20.0}
+{'sea_invade': -19.0}
+The capital of Empire 10 has been captured by Empire 5 and will be partitioned!
+All neighboring nations have declared war on Empire 5 after a partition!
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+The capital of Empire 16 has been captured by Empire 5 and will be partitioned!
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+{'sea_invade': -19.0}
+Game closed.

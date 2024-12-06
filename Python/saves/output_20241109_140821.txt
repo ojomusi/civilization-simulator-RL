@@ -1,0 +1,156 @@
+Starting the game...
+100 1
+100 1
+100 1
+100 1
+100 1
+100 1
+100 1
+100 1
+100 1
+100 1
+100 1
+100 1
+100 1
+100 1
+100 2
+100 4
+100 8
+100 15
+100 26
+100 36
+100 46
+100 58
+100 72
+100 88
+100 102
+100 115
+100 127
+100 136
+100 144
+100 152
+100 160
+100 169
+100 177
+100 184
+100 191
+100 198
+100 205
+100 211
+100 213
+100 214
+100 216
+100 217
+100 218
+100 219
+100 220
+100 220
+100 220
+100 220
+100 220
+100 220
+100 220
+100 220
+100 220
+100 220
+100 220
+100 220
+100 220
+100 220
+100 220
+100 220
+100 220
+100 220
+100 220
+100 220
+100 220
+100 220
+100 220
+100 220
+100 220
+100 220
+90 220
+90 220
+80 220
+80 220
+Empire 1 collapsed!
+80 220
+80 227
+80 226
+80 226
+80 233
+80 240
+80 240
+80 240
+80 248
+80 256
+80 256
+70 264
+70 272
+60 272
+60 282
+50 282
+50 290
+30 296
+30 299
+Peace deal between Empire 7 and AI Empire has expired
+20 302
+Peace deal between Empire 9 and AI Empire has expired
+20 294
+20 297
+20 299
+Empire 14 collapsed!
+20 299
+20 303
+20 307
+20 312
+Sea invasion happening by Empire 5 on AI Empire!
+0 317
+0 322
+0 322
+0 327
+0 332
+0 332
+Peace deal between Empire 10 and AI Empire has expired
+0 337
+0 337
+0 342
+0 342
+0 346
+0 349
+0 351
+0 351
+0 351
+Peace deal between Empire 9 and AI Empire has expired
+0 351
+0 351
+The capital of AI Empire has been captured by Empire 10 and will be partitioned!
+All neighboring nations have declared war on Empire 10 after a partition!
+0 0
+0 0
+0 0
+Peace deal between Empire 7 and AI Empire has expired
+0 0
+0 0
+0 0
+Peace deal between Empire 7 and AI Empire has expired
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 1
+0 1
+0 0
+0 0
+Empire 15 has declared war on Empire 12
+0 0
+0 0
+0 0
+The capital of Empire 12 has been captured by Empire 15 and will be partitioned!
+The capital of Empire 10 has been captured and Empire 9 will liberate its occupations!
+0 0
+Game closed.

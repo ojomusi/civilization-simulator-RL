@@ -1,0 +1,431 @@
+Starting the game...
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'sea_invade': -20.0}
+-20.0 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -20.0}
+-20.0 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -9.5}
+-9.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -20.0}
+-20.0 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -20.0}
+-20.0 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+A nation has rebelled against Empire 2! (2)
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+A nation has rebelled against Empire 4! (2)
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+Sea invasion happening by Empire 3 on AI Empire!
+A nation has rebelled against Empire 5! (2)
+Empire 5 has broken out into civil war!
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+Empire 18 has made peace with Empire 2
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+Sea invasion happening by Empire 11 on Empire 5!
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+Empire 4 has made peace with Empire 19
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+A nation has rebelled against Empire 15! (2)
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+The capital of Empire 5 has been captured and Empire 22 will liberate its occupations!
+All neighboring nations have declared war on Empire 22 after a partition!
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+Empire 4 has declared war on Empire 23
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+The capital of Empire 22 has been captured and Empire 16 will liberate its occupations!
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+{'sea_invade': -19.5}
+-19.5 {} sea_invade
+Game closed.

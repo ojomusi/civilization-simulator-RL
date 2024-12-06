@@ -1,0 +1,8 @@
+Starting the game...
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+Warning: Cannot partition AI Empire as there is no surrounding empire.

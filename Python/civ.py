@@ -643,7 +643,7 @@ def log_metrics(
     }
     df = pd.DataFrame([data])
     df.to_csv(
-        "ai_empire_logs.csv", mode="a", header=False, index=False
+        "metrics/ai_empire_logs.csv", mode="a", header=False, index=False
     )  # Saving logs to Databricks FileStore
 
 

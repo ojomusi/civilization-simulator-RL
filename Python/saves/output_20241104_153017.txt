@@ -1,0 +1,91 @@
+Starting the game...
+A nation has rebelled against Empire 3! (2)
+A nation has rebelled against Empire 5! (2)
+A nation has rebelled against Empire 15! (2)
+A nation has rebelled against Empire 4! (2)
+Empire 3 has made peace with Empire 18
+Empire 19 has made peace with Empire 5
+Sea invasion happening by Empire 10 on Empire 11!
+Empire 19 has declared war on Empire 22
+Empire 15 has made peace with Empire 20
+Empire 7 has declared war on Empire 8
+Empire 4 has made peace with Empire 21
+Peace deal between Empire 3 and Empire 18 has expired
+Peace deal between Empire 18 and Empire 3 has expired
+Peace deal between Empire 19 and Empire 5 has expired
+Peace deal between Empire 5 and Empire 19 has expired
+Peace deal between Empire 20 and Empire 15 has expired
+Peace deal between Empire 15 and Empire 20 has expired
+A nation has rebelled against Empire 14! (2)
+Empire 14 has broken out into civil war!
+Empire 19 collapsed!
+Peace deal between Empire 21 and Empire 4 has expired
+Peace deal between Empire 4 and Empire 21 has expired
+A nation has rebelled against Empire 21! (2)
+Empire 21 has broken out into civil war!
+Empire 11 has made peace with Empire 10
+Empire 16 has declared war on Empire 10
+The capital of Empire 27 has been captured by Empire 21 and will be partitioned!
+All neighboring nations have declared war on Empire 21 after a partition!
+Empire 8 has made peace with Empire 7
+The capital of Empire 29 has been captured by Empire 21 and will be partitioned!
+The capital of Empire 21 has been captured and Empire 18 will liberate its occupations!
+Peace deal between Empire 11 and Empire 10 has expired
+Peace deal between Empire 10 and Empire 11 has expired
+Empire 14 has made peace with Empire 24
+Empire 26 has made peace with Empire 14
+Peace deal between Empire 7 and Empire 8 has expired
+Peace deal between Empire 8 and Empire 7 has expired
+Empire 14 has made peace with Empire 25
+Empire 10 has made peace with Empire 16
+Peace deal between Empire 14 and Empire 26 has expired
+Peace deal between Empire 14 and Empire 24 has expired
+Peace deal between Empire 24 and Empire 14 has expired
+Peace deal between Empire 26 and Empire 14 has expired
+Peace deal between Empire 14 and Empire 25 has expired
+Peace deal between Empire 25 and Empire 14 has expired
+Peace deal between Empire 16 and Empire 10 has expired
+Peace deal between Empire 10 and Empire 16 has expired
+Empire 22 has declared war on Empire 14
+Empire 16 has declared war on Empire 10
+Empire 23 collapsed!
+Empire 22 has made peace with Empire 14
+Sea invasion happening by Empire 2 on Empire 32!
+Empire 10 has made peace with Empire 16
+The capital of Empire 32 has been captured by Empire 2 and will be partitioned!
+Peace deal between Empire 14 and Empire 22 has expired
+Peace deal between Empire 22 and Empire 14 has expired
+Peace deal between Empire 10 and Empire 16 has expired
+Peace deal between Empire 16 and Empire 10 has expired
+Sea invasion happening by Empire 8 on Empire 30!
+A nation has rebelled against Empire 12! (2)
+Empire 18 has declared war on Empire 3
+The capital of Empire 3 has been captured by Empire 18 and will be partitioned!
+All neighboring nations have declared war on Empire 18 after a partition!
+Sea invasion happening by Empire 2 on Empire 28!
+Empire 14 has declared war on Empire 24
+The capital of Empire 30 has been captured by Empire 8 and will be partitioned!
+Empire 31 collapsed!
+The capital of Empire 6 has been captured by Empire 18 and will be partitioned!
+Empire 34 has made peace with Empire 12
+Empire 14 has made peace with Empire 24
+Empire 8 collapsed!
+Peace deal between Empire 12 and Empire 34 has expired
+Peace deal between Empire 34 and Empire 12 has expired
+Peace deal between Empire 14 and Empire 24 has expired
+Peace deal between Empire 24 and Empire 14 has expired
+Empire 9 collapsed!
+Sea invasion happening by Empire 12 on Empire 26!
+Empire 11 has declared war on Empire 34
+Sea invasion happening by Empire 22 on Empire 25!
+The capital of Empire 34 has been captured by Empire 11 and will be partitioned!
+Empire 26 has made peace with Empire 12
+Peace deal between Empire 26 and Empire 12 has expired
+Peace deal between Empire 12 and Empire 26 has expired
+A nation has rebelled against Empire 18! (2)
+A nation has rebelled against Empire 16! (2)
+Empire 15 has declared war on Empire 20
+A nation has rebelled against Empire 11! (2)
+Empire 18 has made peace with Empire 35
+Empire 36 has made peace with Empire 16
+Game closed.

@@ -1,0 +1,38 @@
+Starting the game...
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+The capital of Empire 2 has been captured by AI Empire and will be partitioned!
+All neighboring nations have declared war on AI Empire after a partition!
+AI Empire has made peace with Empire 10
+The capital of Empire 12 has been captured by AI Empire and will be partitioned!
+AI Empire has made peace with Empire 19
+Sea invasion happening by Empire 7 on Empire 9!
+The capital of Empire 20 has been captured by AI Empire and will be partitioned!
+AI Empire has made peace with Empire 14
+The capital of Empire 21 has been captured by Empire 22 and will be partitioned!
+Empire 10 has declared war on Empire 6
+Peace deal between AI Empire and Empire 19 has expired
+Peace deal between AI Empire and Empire 10 has expired
+Peace deal between Empire 10 and AI Empire has expired
+Peace deal between Empire 19 and AI Empire has expired
+The capital of Empire 22 has been captured by AI Empire and will be partitioned!
+All neighboring nations have declared war on AI Empire after a partition!
+AI Empire has made peace with Empire 26
+The capital of Empire 9 has been captured by Empire 7 and will be partitioned!
+The capital of Empire 6 has been captured by Empire 10 and will be partitioned!
+Peace deal between Empire 14 and AI Empire has expired
+Peace deal between AI Empire and Empire 14 has expired
+The capital of Empire 23 has been captured by AI Empire and will be partitioned!
+All neighboring nations have declared war on AI Empire after a partition!
+The capital of Empire 27 has been captured by AI Empire and will be partitioned!
+AI Empire has caused neighboring nations to declare war after partition.
+AI Empire has made peace with Empire 24
+A nation has rebelled against Empire 7! (2)
+Empire 7 has broken out into civil war!
+Peace deal between Empire 26 and AI Empire has expired
+Peace deal between AI Empire and Empire 26 has expired
+Peace deal between AI Empire and Empire 24 has expired
+Peace deal between Empire 24 and AI Empire has expired
+A nation has rebelled against Empire 4! (2)
+Empire 4 has broken out into civil war!
+Game closed.

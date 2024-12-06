@@ -1,0 +1,63 @@
+Starting the game...
+{}
+The capital of AI Empire has been captured by Empire 11 and will be partitioned!
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'declare_war': -20.0}
+{'declare_war': -19.5}
+{'declare_war': -20.0}
+{'declare_war': -19.5}
+{'declare_war': -19.5}
+{'declare_war': -19.5}
+{'declare_war': -19.5}
+{'declare_war': -19.5}
+{'declare_war': -19.5}
+{'declare_war': -20.0}
+Peace deal between Empire 11 and AI Empire has expired
+{'declare_war': -19.5}
+{'declare_war': -19.5}
+{'declare_war': -19.5}
+{'declare_war': -19.5}
+{'declare_war': -19.5}
+{'declare_war': -19.5}
+{'declare_war': -19.5}
+{'declare_war': -19.5}
+{'declare_war': -19.5}
+{'declare_war': -19.5}
+{'declare_war': -20.0}
+{'declare_war': -19.5}
+{'declare_war': -19.5}
+A nation has rebelled against Empire 15! (2)
+{'declare_war': -19.5}
+Empire 13 has declared war on Empire 16
+The capital of Empire 16 has been captured by Empire 13 and will be partitioned!
+All neighboring nations have declared war on Empire 13 after a partition!
+The capital of Empire 10 has been captured by Empire 13 and will be partitioned!
+{'declare_war': -19.5}
+{'declare_war': -19.5}
+{'declare_war': -19.5}
+The capital of Empire 13 has been captured and Empire 6 will liberate its occupations!
+{'declare_war': -20.0}
+{'declare_war': -19.5}
+{'declare_war': -19.5}
+{'declare_war': -19.5}
+{'declare_war': -20.0}
+{'declare_war': -19.5}
+{'declare_war': -19.5}
+Empire 6 has declared war on Empire 20
+{'declare_war': -19.5}
+The capital of Empire 20 has been captured by Empire 6 and will be partitioned!
+{'declare_war': -19.5}
+Empire 7 has declared war on Empire 19
+{'declare_war': -19.5}
+The capital of Empire 19 has been captured by Empire 7 and will be partitioned!
+{'declare_war': -19.5}
+{'declare_war': -19.5}
+Game closed.

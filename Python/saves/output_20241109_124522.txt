@@ -1,0 +1,28 @@
+Starting the game...
+The capital of AI Empire has been captured by Empire 4 and will be partitioned!
+All neighboring nations have declared war on Empire 4 after a partition!
+A nation has rebelled against Empire 5! (2)
+A nation has rebelled against Empire 6! (2)
+Empire 4 has made peace with AI Empire
+A nation has rebelled against Empire 10! (2)
+Empire 10 has broken out into civil war!
+Empire 2 has declared war on Empire 5
+A nation has rebelled against Empire 12! (2)
+Peace deal between Empire 4 and AI Empire has expired
+Empire 5 has made peace with Empire 18
+A nation has rebelled against Empire 14! (2)
+Empire 6 has made peace with Empire 19
+Peace deal between Empire 5 and Empire 18 has expired
+Peace deal between Empire 18 and Empire 5 has expired
+Sea invasion happening by Empire 3 on Empire 18!
+Empire 21 has made peace with Empire 10
+Empire 2 has made peace with Empire 5
+Empire 10 has made peace with Empire 20
+Empire 12 has made peace with Empire 22
+Peace deal between Empire 19 and Empire 6 has expired
+Peace deal between Empire 6 and Empire 19 has expired
+The capital of Empire 18 has been captured by Empire 3 and will be partitioned!
+All neighboring nations have declared war on Empire 3 after a partition!
+The capital of Empire 14 has been captured by Empire 24 and will be partitioned!
+All neighboring nations have declared war on Empire 24 after a partition!
+Game closed.

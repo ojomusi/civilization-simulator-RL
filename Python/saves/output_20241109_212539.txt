@@ -1,0 +1,31 @@
+Starting the game...
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+AI Empire has made peace with Empire 15
+AI Empire has made peace with Empire 2
+AI Empire has made peace with Empire 7
+The capital of Empire 9 has been captured by AI Empire and will be partitioned!
+AI Empire has caused neighboring nations to declare war after partition.
+The capital of Empire 4 has been captured by AI Empire and will be partitioned!
+AI Empire has caused neighboring nations to declare war after partition.
+The capital of Empire 3 has been captured by AI Empire and will be partitioned!
+AI Empire has caused neighboring nations to declare war after partition.
+The capital of Empire 14 has been captured by AI Empire and will be partitioned!
+All neighboring nations have declared war on AI Empire after a partition!
+The capital of Empire 2 has been captured by AI Empire and will be partitioned!
+AI Empire has caused neighboring nations to declare war after partition.
+AI Empire has made peace with Empire 10
+The capital of Empire 7 has been captured by AI Empire and will be partitioned!
+AI Empire has caused neighboring nations to declare war after partition.
+The capital of Empire 6 has been captured by AI Empire and will be partitioned!
+AI Empire has caused neighboring nations to declare war after partition.
+AI Empire has made peace with Empire 5
+The capital of Empire 15 has been captured by AI Empire and will be partitioned!
+AI Empire has caused neighboring nations to declare war after partition.
+The capital of Empire 5 has been captured by AI Empire and will be partitioned!
+AI Empire has caused neighboring nations to declare war after partition.
+AI Empire has made peace with Empire 23
+Game closed.

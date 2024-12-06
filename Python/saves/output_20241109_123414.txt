@@ -1,0 +1,71 @@
+Starting the game...
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'declare_war': -19.5}
+0
+{'declare_war': -17.499999999999996}
+0
+{'declare_war': -18.0}
+0
+{'declare_war': -17.499999999999996}
+0
+{'declare_war': -18.0}
+0
+{'declare_war': -17.499999999999996}
+0
+{'declare_war': -17.499999999999996}
+0
+{'declare_war': -18.5}
+0
+{'declare_war': -17.499999999999996}
+0
+{'declare_war': -19.5}
+0
+{'declare_war': -8.5}
+0
+{'declare_war': -19.5}
+0
+{'declare_war': -18.5}
+0
+{'declare_war': -17.499999999999996}
+0
+{'declare_war': -19.5}
+0
+The capital of AI Empire has been captured by Empire 16 and will be partitioned!
+All neighboring nations have declared war on Empire 16 after a partition!
+The capital of Empire 16 has been captured and Empire 11 will liberate its occupations!
+{'declare_war': -19.0}
+0
+{'declare_war': -17.499999999999996}
+0
+{'declare_war': -17.499999999999996}
+0
+{'declare_war': -17.499999999999996}
+0
+{'declare_war': -17.499999999999996}
+0
+{'declare_war': -19.5}
+0
+{'declare_war': -19.0}
+0
+{'declare_war': -17.499999999999996}
+0
+{'declare_war': -18.5}
+0
+{'declare_war': -17.499999999999996}
+0
+{'declare_war': -17.499999999999996}
+0
+{'declare_war': -20.0}
+0
+{'declare_war': -8.5}
+0
+Game closed.

@@ -1,0 +1,107 @@
+Starting the game...
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+The capital of AI Empire has been captured by Empire 10 and will be partitioned!
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+Peace deal between Empire 10 and AI Empire has expired
+{}
+{}
+Peace deal between Empire 10 and AI Empire has expired
+{}
+A nation has rebelled against Empire 5! (2)
+{}
+{}
+{}
+Empire 4 has declared war on Empire 5
+{}
+{}
+Peace deal between Empire 10 and AI Empire has expired
+Empire 2 has declared war on Empire 15
+{}
+The capital of Empire 18 has been captured and Empire 5 will liberate its occupations!
+A nation has rebelled against Empire 1! (2)
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+Sea invasion happening by Empire 10 on Empire 6!
+{}
+{}
+{}
+{}
+Empire 6 has declared war on Empire 15
+Peace deal between Empire 5 and Empire 20 has expired
+{}
+{}
+The capital of Empire 15 has been captured by Empire 6 and will be partitioned!
+All neighboring nations have declared war on Empire 6 after a partition!
+{}
+The capital of Empire 3 has been captured by Empire 6 and will be partitioned!
+Empire 16 has declared war on Empire 12
+The capital of Empire 22 has been captured by Empire 6 and will be partitioned!
+{}
+{}
+The capital of Empire 16 has been captured by Empire 12 and will be partitioned!
+All neighboring nations have declared war on Empire 12 after a partition!
+{}
+{}
+{}
+The capital of Empire 1 has been captured and Empire 21 will liberate its occupations!
+{}
+The capital of Empire 12 has been captured and Empire 8 will liberate its occupations!
+{}
+Game closed.

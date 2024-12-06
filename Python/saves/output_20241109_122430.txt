@@ -1,0 +1,99 @@
+Starting the game...
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'peace': -19.5}
+{'peace': -19.5}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.5}
+{'peace': -19.5}
+{'peace': -19.5}
+{'peace': -19.0}
+{'peace': -19.5}
+{'peace': -19.0}
+{'peace': -20.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.5}
+{'peace': -19.5}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -20.0}
+{'peace': -19.0}
+{'peace': -19.5}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -9.5}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.5}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.5}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+{'peace': -19.0}
+Peace deal between Empire 2 and AI Empire has expired
+Peace deal between Empire 2 and AI Empire has expired
+{'peace': -19.0}
+{'peace': -19.0}
+Peace deal between Empire 2 and AI Empire has expired
+Peace deal between Empire 2 and AI Empire has expired
+{'peace': -19.0}
+{'peace': -19.0}
+Peace deal between Empire 2 and AI Empire has expired
+Peace deal between Empire 2 and AI Empire has expired
+{'peace': -19.5}
+{'peace': -19.0}
+Peace deal between Empire 2 and AI Empire has expired
+Peace deal between Empire 2 and AI Empire has expired
+{'peace': -19.0}
+{'peace': -19.0}
+Peace deal between Empire 2 and AI Empire has expired
+Peace deal between Empire 2 and AI Empire has expired
+Empire 14 has declared war on Empire 16
+Game closed.

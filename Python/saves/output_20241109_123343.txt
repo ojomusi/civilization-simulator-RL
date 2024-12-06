@@ -1,0 +1,58 @@
+Starting the game...
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'peace': -19.5}
+{'peace': -9.5}
+{'peace': -19.5}
+{'peace': -18.5}
+{'peace': -18.5}
+{'peace': -19.5}
+{'peace': -20.0}
+{'peace': 0.5}
+{'peace': -19.0}
+{'peace': -20.0}
+{'peace': -19.0}
+{'peace': -20.0}
+{'peace': -18.5}
+{'peace': -20.0}
+{'peace': -20.0}
+{'peace': -19.5}
+{'peace': -18.5}
+{'peace': -18.5}
+{'peace': -18.5}
+{'peace': -18.5}
+{'peace': -18.5}
+{'peace': -18.5}
+{'peace': -20.0}
+{'peace': -18.5}
+{'peace': -18.5}
+{'peace': -19.5}
+{'peace': -19.5}
+{'peace': -18.5}
+{'peace': -20.0}
+{'peace': -18.5}
+{'peace': -18.5}
+{'peace': -19.5}
+{'peace': -18.5}
+{'peace': -18.5}
+{'peace': -18.5}
+{'peace': -18.5}
+{'peace': -18.5}
+{'peace': -20.0}
+{'peace': -18.5}
+{'peace': -18.5}
+{'peace': -18.5}
+{'peace': -18.5}
+{'peace': -19.5}
+{'peace': -18.5}
+{'peace': -18.5}
+{'peace': -18.5}
+Game closed.

@@ -1,0 +1,474 @@
+Starting the game...
+expand 1
+expand 2
+sea_invade 4
+sea_invade 4
+peace 4
+sea_invade 4
+stabilize 4
+declare_war 4
+peace 4
+declare_war 4
+peace 4
+stabilize 4
+declare_war 4
+declare_war 4
+sea_invade 4
+sea_invade 4
+peace 4
+sea_invade 3
+sea_invade 3
+peace 3
+declare_war 3
+peace 3
+peace 3
+peace 3
+stabilize 3
+declare_war 3
+sea_invade 3
+peace 3
+stabilize 3
+peace 3
+sea_invade 3
+stabilize 3
+sea_invade 3
+sea_invade 3
+stabilize 3
+stabilize 3
+sea_invade 3
+declare_war 3
+The capital of AI Empire has been captured by Empire 11 and will be partitioned!
+All neighboring nations have declared war on Empire 11 after a partition!
+declare_war 0
+Peace deal between Empire 11 and AI Empire has expired
+peace 0
+sea_invade 0
+sea_invade 0
+Peace deal between Empire 11 and AI Empire has expired
+stabilize 0
+Peace deal between Empire 11 and AI Empire has expired
+sea_invade 0
+declare_war 0
+sea_invade 0
+sea_invade 0
+peace 0
+Peace deal between Empire 11 and AI Empire has expired
+sea_invade 0
+declare_war 0
+stabilize 0
+Peace deal between Empire 11 and AI Empire has expired
+peace 0
+Peace deal between Empire 11 and AI Empire has expired
+Peace deal between Empire 11 and AI Empire has expired
+stabilize 0
+Peace deal between Empire 11 and AI Empire has expired
+sea_invade 0
+declare_war 0
+Peace deal between Empire 11 and AI Empire has expired
+stabilize 0
+Peace deal between Empire 11 and AI Empire has expired
+sea_invade 0
+declare_war 0
+A nation has rebelled against Empire 2! (2)
+peace 0
+stabilize 0
+peace 0
+Peace deal between Empire 11 and AI Empire has expired
+declare_war 0
+stabilize 0
+peace 0
+stabilize 0
+stabilize 0
+sea_invade 0
+declare_war 0
+stabilize 0
+declare_war 0
+sea_invade 0
+sea_invade 0
+declare_war 0
+peace 0
+peace 0
+peace 0
+declare_war 0
+stabilize 0
+declare_war 0
+peace 0
+stabilize 0
+sea_invade 0
+sea_invade 0
+peace 0
+peace 0
+Empire 5 has declared war on Empire 4
+peace 0
+Empire 18 collapsed!
+declare_war 0
+stabilize 0
+declare_war 0
+peace 0
+Empire 19 has made peace with Empire 2
+declare_war 0
+A nation has rebelled against Empire 3! (2)
+sea_invade 0
+sea_invade 0
+sea_invade 0
+declare_war 0
+stabilize 0
+peace 0
+declare_war 0
+peace 0
+sea_invade 0
+stabilize 0
+peace 0
+A nation has rebelled against Empire 12! (2)
+peace 0
+declare_war 0
+stabilize 0
+declare_war 0
+sea_invade 0
+Peace deal between Empire 2 and Empire 19 has expired
+Peace deal between Empire 19 and Empire 2 has expired
+declare_war 0
+peace 0
+peace 0
+Empire 8 has declared war on Empire 16
+declare_war 0
+declare_war 0
+stabilize 0
+stabilize 0
+The capital of Empire 16 has been captured by Empire 8 and will be partitioned!
+All neighboring nations have declared war on Empire 8 after a partition!
+sea_invade 0
+stabilize 0
+peace 0
+Empire 4 has made peace with Empire 5
+stabilize 0
+sea_invade 0
+declare_war 0
+peace 0
+sea_invade 0
+stabilize 0
+Empire 12 has declared war on Empire 2
+peace 0
+Empire 2 has declared war on Empire 19
+declare_war 0
+sea_invade 0
+Empire 3 has made peace with Empire 20
+stabilize 0
+peace 0
+stabilize 0
+The capital of Empire 12 has been captured and Empire 21 will liberate its occupations!
+All neighboring nations have declared war on Empire 21 after a partition!
+stabilize 0
+The capital of Empire 8 has been captured and Empire 1 will liberate its occupations!
+stabilize 0
+peace 0
+stabilize 0
+Peace deal between Empire 4 and Empire 5 has expired
+Peace deal between Empire 5 and Empire 4 has expired
+declare_war 0
+declare_war 0
+declare_war 0
+sea_invade 0
+declare_war 0
+declare_war 0
+declare_war 0
+stabilize 0
+stabilize 0
+Peace deal between Empire 3 and Empire 20 has expired
+Peace deal between Empire 20 and Empire 3 has expired
+sea_invade 0
+sea_invade 0
+sea_invade 0
+stabilize 0
+stabilize 0
+peace 0
+sea_invade 0
+peace 0
+declare_war 0
+stabilize 0
+stabilize 0
+stabilize 0
+Empire 2 has made peace with Empire 19
+stabilize 0
+sea_invade 0
+sea_invade 0
+declare_war 0
+sea_invade 0
+declare_war 0
+A nation has rebelled against Empire 10! (2)
+Empire 10 has broken out into civil war!
+peace 0
+sea_invade 0
+sea_invade 0
+stabilize 0
+peace 0
+peace 0
+declare_war 0
+sea_invade 0
+sea_invade 0
+peace 0
+declare_war 0
+Peace deal between Empire 19 and Empire 2 has expired
+stabilize 0
+Peace deal between Empire 2 and Empire 19 has expired
+stabilize 0
+sea_invade 0
+declare_war 0
+peace 0
+expand 0
+stabilize 0
+Sea invasion happening by Empire 6 on Empire 25!
+stabilize 0
+declare_war 0
+peace 0
+The capital of Empire 25 has been captured by Empire 6 and will be partitioned!
+sea_invade 0
+declare_war 0
+declare_war 0
+Sea invasion happening by Empire 20 on AI Empire!
+declare_war 0
+expand 0
+expand 0
+Empire 28 has made peace with Empire 10
+stabilize 0
+expand 0
+Empire 4 has declared war on Empire 6
+The capital of Empire 6 has been captured by Empire 4 and will be partitioned!
+All neighboring nations have declared war on Empire 4 after a partition!
+Empire 27 has made peace with Empire 10
+sea_invade 0
+declare_war 0
+Empire 30 has made peace with Empire 10
+sea_invade 0
+expand 0
+The capital of Empire 4 has been captured and Empire 5 will liberate its occupations!
+declare_war 0
+expand 0
+Empire 29 has made peace with Empire 10
+expand 0
+expand 0
+expand 0
+sea_invade 0
+stabilize 0
+declare_war 0
+peace 0
+Peace deal between Empire 10 and Empire 28 has expired
+peace 0
+Peace deal between Empire 28 and Empire 10 has expired
+declare_war 0
+Peace deal between Empire 10 and Empire 27 has expired
+expand 0
+Peace deal between Empire 27 and Empire 10 has expired
+expand 0
+Peace deal between Empire 10 and Empire 30 has expired
+peace 0
+Peace deal between Empire 30 and Empire 10 has expired
+peace 0
+peace 0
+Peace deal between Empire 10 and Empire 29 has expired
+expand 0
+Peace deal between Empire 29 and Empire 10 has expired
+peace 0
+peace 0
+expand 0
+declare_war 0
+expand 0
+declare_war 0
+declare_war 0
+declare_war 0
+declare_war 0
+A nation has rebelled against Empire 3! (2)
+declare_war 0
+peace 0
+Sea invasion happening by Empire 7 on Empire 27!
+peace 0
+declare_war 0
+Empire 27 has declared war on Empire 30
+peace 0
+sea_invade 0
+peace 0
+A nation has rebelled against Empire 15! (2)
+peace 0
+The capital of Empire 27 has been captured by Empire 30 and will be partitioned!
+All neighboring nations have declared war on Empire 30 after a partition!
+expand 0
+peace 0
+peace 0
+declare_war 0
+declare_war 0
+declare_war 0
+expand 0
+expand 0
+The capital of Empire 34 has been captured and Empire 15 will liberate its occupations!
+All neighboring nations have declared war on Empire 15 after a partition!
+expand 0
+peace 0
+declare_war 0
+expand 0
+peace 0
+peace 0
+declare_war 0
+declare_war 0
+Empire 2 has declared war on Empire 22
+peace 0
+peace 0
+declare_war 0
+expand 0
+Empire 3 has declared war on Empire 14
+expand 0
+peace 0
+expand 0
+Peace deal between Empire 15 and Empire 35 has expired
+expand 0
+Empire 33 has made peace with Empire 3
+declare_war 0
+A nation has rebelled against Empire 15! (2)
+expand 0
+expand 0
+expand 0
+peace 0
+peace 0
+peace 0
+peace 0
+Empire 10 has made peace with Empire 30
+peace 0
+peace 0
+The capital of Empire 14 has been captured by Empire 3 and will be partitioned!
+All neighboring nations have declared war on Empire 3 after a partition!
+peace 0
+peace 0
+peace 0
+peace 0
+Empire 11 collapsed!
+peace 0
+Peace deal between Empire 33 and Empire 3 has expired
+Peace deal between Empire 3 and Empire 33 has expired
+peace 0
+peace 0
+peace 0
+Empire 22 collapsed!
+peace 0
+peace 0
+Sea invasion happening by Empire 7 on Empire 21!
+peace 0
+peace 0
+The capital of Empire 21 has been captured by Empire 7 and will be partitioned!
+All neighboring nations have declared war on Empire 7 after a partition!
+Peace deal between Empire 10 and Empire 30 has expired
+peace 0
+Peace deal between Empire 30 and Empire 10 has expired
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+Empire 15 has made peace with Empire 36
+peace 0
+peace 0
+The capital of Empire 7 has been captured and Empire 5 will liberate its occupations!
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+Empire 3 has made peace with Empire 15
+peace 0
+peace 0
+peace 0
+Empire 20 has made peace with Empire 3
+Peace deal between Empire 15 and Empire 36 has expired
+A nation has rebelled against Empire 5! (2)
+peace 0
+Peace deal between Empire 36 and Empire 15 has expired
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+Sea invasion happening by Empire 10 on Empire 29!
+peace 0
+peace 0
+Peace deal between Empire 3 and Empire 15 has expired
+Peace deal between Empire 15 and Empire 3 has expired
+peace 0
+peace 0
+Peace deal between Empire 3 and Empire 20 has expired
+Peace deal between Empire 20 and Empire 3 has expired
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+Empire 5 has made peace with Empire 39
+peace 0
+Sea invasion happening by Empire 33 on AI Empire!
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+Sea invasion happening by Empire 32 on Empire 39!
+peace 0
+peace 0
+The capital of Empire 39 has been captured by Empire 32 and will be partitioned!
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+Peace deal between Empire 5 and Empire 39 has expired
+peace 0
+peace 0
+Sea invasion happening by Empire 28 on AI Empire!
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+Sea invasion happening by Empire 32 on Empire 38!
+peace 0
+peace 0
+The capital of Empire 38 has been captured by Empire 32 and will be partitioned!
+All neighboring nations have declared war on Empire 32 after a partition!
+peace 0
+peace 0
+peace 0
+peace 0
+peace 0
+The capital of Empire 32 has been captured and Empire 5 will liberate its occupations!
+peace 0
+peace 0
+A nation has rebelled against Empire 2! (2)
+Game closed.

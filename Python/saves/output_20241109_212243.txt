@@ -1,0 +1,11 @@
+Starting the game...
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+AI Empire has made peace with Empire 7
+The capital of Empire 9 has been captured by AI Empire and will be partitioned!
+AI Empire has made peace with Empire 13
+Peace deal between AI Empire and Empire 7 has expired
+AI Empire has made peace with Empire 7
+Peace deal between Empire 7 and AI Empire has expired
+Game closed.

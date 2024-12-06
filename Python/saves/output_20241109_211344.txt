@@ -1,0 +1,47 @@
+Starting the game...
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+AI Empire has made peace with Empire 12
+AI Empire has made peace with Empire 9
+AI Empire has made peace with Empire 2
+AI Empire collapsed!
+The capital of Empire 15 has been captured by AI Empire and will be partitioned!
+AI Empire has made peace with Empire 11
+Peace deal between Empire 2 and AI Empire has expired
+Peace deal between Empire 9 and AI Empire has expired
+Peace deal between Empire 12 and AI Empire has expired
+Peace deal between Empire 11 and AI Empire has expired
+A nation has rebelled against Empire 9! (2)
+A nation has rebelled against Empire 13! (2)
+Sea invasion happening by Empire 3 on Empire 13!
+Empire 21 has made peace with Empire 13
+Empire 20 has made peace with Empire 9
+A nation has rebelled against Empire 1! (2)
+Peace deal between Empire 13 and Empire 21 has expired
+Peace deal between Empire 21 and Empire 13 has expired
+Peace deal between Empire 9 and Empire 20 has expired
+Peace deal between Empire 20 and Empire 9 has expired
+The capital of Empire 3 has been captured by Empire 13 and will be partitioned!
+All neighboring nations have declared war on Empire 13 after a partition!
+A nation has rebelled against Empire 12! (2)
+Empire 12 has broken out into civil war!
+The capital of Empire 13 has been captured and Empire 8 will liberate its occupations!
+Empire 22 has made peace with Empire 1
+Empire 4 has declared war on Empire 1
+Empire 6 has declared war on Empire 7
+Peace deal between Empire 1 and Empire 22 has expired
+Peace deal between Empire 22 and Empire 1 has expired
+The capital of Empire 12 has been captured by Empire 23 and will be partitioned!
+Empire 8 has declared war on Empire 26
+The capital of Empire 26 has been captured by Empire 8 and will be partitioned!
+All neighboring nations have declared war on Empire 8 after a partition!
+Game closed.

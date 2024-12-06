@@ -1,0 +1,179 @@
+Starting the game...
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+[]
+AI Empire has made peace with Empire 16
+[<__main__.DiploObject object at 0x000002815DE1C590>]
+AI Empire has made peace with Empire 16
+[<__main__.DiploObject object at 0x000002815DE1C590>, <__main__.DiploObject object at 0x000002815DE1C650>]
+AI Empire has made peace with Empire 16
+[<__main__.DiploObject object at 0x000002815DE1C590>, <__main__.DiploObject object at 0x000002815DE1C650>, <__main__.DiploObject object at 0x000002815DE1C710>]
+AI Empire has made peace with Empire 16
+[<__main__.DiploObject object at 0x000002815DE1C590>, <__main__.DiploObject object at 0x000002815DE1C650>, <__main__.DiploObject object at 0x000002815DE1C710>, <__main__.DiploObject object at 0x000002815DE1C7D0>]
+AI Empire has made peace with Empire 16
+[<__main__.DiploObject object at 0x000002815DE1C590>, <__main__.DiploObject object at 0x000002815DE1C650>, <__main__.DiploObject object at 0x000002815DE1C710>, <__main__.DiploObject object at 0x000002815DE1C7D0>, <__main__.DiploObject object at 0x000002815DE1C890>]
+AI Empire has made peace with Empire 16
+[<__main__.DiploObject object at 0x000002815DE1C590>, <__main__.DiploObject object at 0x000002815DE1C650>, <__main__.DiploObject object at 0x000002815DE1C710>, <__main__.DiploObject object at 0x000002815DE1C7D0>, <__main__.DiploObject object at 0x000002815DE1C890>, <__main__.DiploObject object at 0x000002815DE1C950>]
+AI Empire has made peace with Empire 16
+[<__main__.DiploObject object at 0x000002815DE1C590>, <__main__.DiploObject object at 0x000002815DE1C650>, <__main__.DiploObject object at 0x000002815DE1C710>, <__main__.DiploObject object at 0x000002815DE1C7D0>, <__main__.DiploObject object at 0x000002815DE1C890>, <__main__.DiploObject object at 0x000002815DE1C950>, <__main__.DiploObject object at 0x000002815DE1CA10>]
+AI Empire has made peace with Empire 16
+[<__main__.DiploObject object at 0x000002815DE1C590>, <__main__.DiploObject object at 0x000002815DE1C650>, <__main__.DiploObject object at 0x000002815DE1C710>, <__main__.DiploObject object at 0x000002815DE1C7D0>, <__main__.DiploObject object at 0x000002815DE1C890>, <__main__.DiploObject object at 0x000002815DE1C950>, <__main__.DiploObject object at 0x000002815DE1CA10>, <__main__.DiploObject object at 0x000002815DE1CAD0>]
+AI Empire has made peace with Empire 16
+[<__main__.DiploObject object at 0x000002815DE1C590>, <__main__.DiploObject object at 0x000002815DE1C650>, <__main__.DiploObject object at 0x000002815DE1C710>, <__main__.DiploObject object at 0x000002815DE1C7D0>, <__main__.DiploObject object at 0x000002815DE1C890>, <__main__.DiploObject object at 0x000002815DE1C950>, <__main__.DiploObject object at 0x000002815DE1CA10>, <__main__.DiploObject object at 0x000002815DE1CAD0>, <__main__.DiploObject object at 0x000002815DE1CB90>]
+AI Empire has made peace with Empire 3
+[<__main__.DiploObject object at 0x000002815DE1C590>, <__main__.DiploObject object at 0x000002815DE1C650>, <__main__.DiploObject object at 0x000002815DE1C710>, <__main__.DiploObject object at 0x000002815DE1C7D0>, <__main__.DiploObject object at 0x000002815DE1C890>, <__main__.DiploObject object at 0x000002815DE1C950>, <__main__.DiploObject object at 0x000002815DE1CA10>, <__main__.DiploObject object at 0x000002815DE1CAD0>, <__main__.DiploObject object at 0x000002815DE1CB90>, <__main__.DiploObject object at 0x000002815DE1CC50>]
+AI Empire has made peace with Empire 3
+Peace deal between Empire 16 and AI Empire has expired
+[<__main__.DiploObject object at 0x000002815DE1C590>, <__main__.DiploObject object at 0x000002815DE1C650>, <__main__.DiploObject object at 0x000002815DE1C710>, <__main__.DiploObject object at 0x000002815DE1C7D0>, <__main__.DiploObject object at 0x000002815DE1C890>, <__main__.DiploObject object at 0x000002815DE1C950>, <__main__.DiploObject object at 0x000002815DE1CA10>, <__main__.DiploObject object at 0x000002815DE1CAD0>, <__main__.DiploObject object at 0x000002815DE1CB90>, <__main__.DiploObject object at 0x000002815DE1CC50>, <__main__.DiploObject object at 0x000002815DE1CD10>]
+AI Empire has made peace with Empire 3
+Peace deal between AI Empire and Empire 16 has expired
+[<__main__.DiploObject object at 0x000002815DE1C650>, <__main__.DiploObject object at 0x000002815DE1C710>, <__main__.DiploObject object at 0x000002815DE1C7D0>, <__main__.DiploObject object at 0x000002815DE1C890>, <__main__.DiploObject object at 0x000002815DE1C950>, <__main__.DiploObject object at 0x000002815DE1CA10>, <__main__.DiploObject object at 0x000002815DE1CAD0>, <__main__.DiploObject object at 0x000002815DE1CB90>, <__main__.DiploObject object at 0x000002815DE1CC50>, <__main__.DiploObject object at 0x000002815DE1CD10>, <__main__.DiploObject object at 0x000002815DE1CDD0>]
+AI Empire has made peace with Empire 16
+Peace deal between Empire 16 and AI Empire has expired
+Peace deal between Empire 16 and AI Empire has expired
+[<__main__.DiploObject object at 0x000002815DE1C650>, <__main__.DiploObject object at 0x000002815DE1C710>, <__main__.DiploObject object at 0x000002815DE1C7D0>, <__main__.DiploObject object at 0x000002815DE1C890>, <__main__.DiploObject object at 0x000002815DE1C950>, <__main__.DiploObject object at 0x000002815DE1CA10>, <__main__.DiploObject object at 0x000002815DE1CAD0>, <__main__.DiploObject object at 0x000002815DE1CB90>, <__main__.DiploObject object at 0x000002815DE1CC50>, <__main__.DiploObject object at 0x000002815DE1CD10>, <__main__.DiploObject object at 0x000002815DE1CDD0>, <__main__.DiploObject object at 0x000002815DE1CE90>]
+AI Empire has made peace with Empire 16
+Peace deal between AI Empire and Empire 16 has expired
+Peace deal between AI Empire and Empire 16 has expired
+Peace deal between AI Empire and Empire 16 has expired
+Peace deal between Empire 16 and AI Empire has expired
+[<__main__.DiploObject object at 0x000002815DE1C890>, <__main__.DiploObject object at 0x000002815DE1C950>, <__main__.DiploObject object at 0x000002815DE1CA10>, <__main__.DiploObject object at 0x000002815DE1CAD0>, <__main__.DiploObject object at 0x000002815DE1CB90>, <__main__.DiploObject object at 0x000002815DE1CC50>, <__main__.DiploObject object at 0x000002815DE1CD10>, <__main__.DiploObject object at 0x000002815DE1CDD0>, <__main__.DiploObject object at 0x000002815DE1CE90>, <__main__.DiploObject object at 0x000002815DE1CF50>]
+AI Empire has made peace with Empire 3
+Peace deal between Empire 16 and AI Empire has expired
+Peace deal between Empire 16 and AI Empire has expired
+[<__main__.DiploObject object at 0x000002815DE1C890>, <__main__.DiploObject object at 0x000002815DE1C950>, <__main__.DiploObject object at 0x000002815DE1CA10>, <__main__.DiploObject object at 0x000002815DE1CAD0>, <__main__.DiploObject object at 0x000002815DE1CB90>, <__main__.DiploObject object at 0x000002815DE1CC50>, <__main__.DiploObject object at 0x000002815DE1CD10>, <__main__.DiploObject object at 0x000002815DE1CDD0>, <__main__.DiploObject object at 0x000002815DE1CE90>, <__main__.DiploObject object at 0x000002815DE1CF50>, <__main__.DiploObject object at 0x000002815DE1D010>]
+AI Empire has made peace with Empire 16
+Peace deal between AI Empire and Empire 16 has expired
+Peace deal between AI Empire and Empire 16 has expired
+[<__main__.DiploObject object at 0x000002815DE1CA10>, <__main__.DiploObject object at 0x000002815DE1CAD0>, <__main__.DiploObject object at 0x000002815DE1CB90>, <__main__.DiploObject object at 0x000002815DE1CC50>, <__main__.DiploObject object at 0x000002815DE1CD10>, <__main__.DiploObject object at 0x000002815DE1CDD0>, <__main__.DiploObject object at 0x000002815DE1CE90>, <__main__.DiploObject object at 0x000002815DE1CF50>, <__main__.DiploObject object at 0x000002815DE1D010>, <__main__.DiploObject object at 0x000002815DE1D0D0>]
+AI Empire has made peace with Empire 3
+Peace deal between AI Empire and Empire 16 has expired
+Peace deal between Empire 16 and AI Empire has expired
+[<__main__.DiploObject object at 0x000002815DE1CAD0>, <__main__.DiploObject object at 0x000002815DE1CB90>, <__main__.DiploObject object at 0x000002815DE1CC50>, <__main__.DiploObject object at 0x000002815DE1CD10>, <__main__.DiploObject object at 0x000002815DE1CDD0>, <__main__.DiploObject object at 0x000002815DE1CE90>, <__main__.DiploObject object at 0x000002815DE1CF50>, <__main__.DiploObject object at 0x000002815DE1D010>, <__main__.DiploObject object at 0x000002815DE1D0D0>, <__main__.DiploObject object at 0x000002815DE1D190>]
+AI Empire has made peace with Empire 16
+[<__main__.DiploObject object at 0x000002815DE1CAD0>, <__main__.DiploObject object at 0x000002815DE1CB90>, <__main__.DiploObject object at 0x000002815DE1CC50>, <__main__.DiploObject object at 0x000002815DE1CD10>, <__main__.DiploObject object at 0x000002815DE1CDD0>, <__main__.DiploObject object at 0x000002815DE1CE90>, <__main__.DiploObject object at 0x000002815DE1CF50>, <__main__.DiploObject object at 0x000002815DE1D010>, <__main__.DiploObject object at 0x000002815DE1D0D0>, <__main__.DiploObject object at 0x000002815DE1D190>, <__main__.DiploObject object at 0x000002815DE1C530>]
+AI Empire has made peace with Empire 3
+[<__main__.DiploObject object at 0x000002815DE1CAD0>, <__main__.DiploObject object at 0x000002815DE1CB90>, <__main__.DiploObject object at 0x000002815DE1CC50>, <__main__.DiploObject object at 0x000002815DE1CD10>, <__main__.DiploObject object at 0x000002815DE1CDD0>, <__main__.DiploObject object at 0x000002815DE1CE90>, <__main__.DiploObject object at 0x000002815DE1CF50>, <__main__.DiploObject object at 0x000002815DE1D010>, <__main__.DiploObject object at 0x000002815DE1D0D0>, <__main__.DiploObject object at 0x000002815DE1D190>, <__main__.DiploObject object at 0x000002815DE1C530>, <__main__.DiploObject object at 0x000002815DE1C620>]
+AI Empire has made peace with Empire 3
+[<__main__.DiploObject object at 0x000002815DE1CAD0>, <__main__.DiploObject object at 0x000002815DE1CB90>, <__main__.DiploObject object at 0x000002815DE1CC50>, <__main__.DiploObject object at 0x000002815DE1CD10>, <__main__.DiploObject object at 0x000002815DE1CDD0>, <__main__.DiploObject object at 0x000002815DE1CE90>, <__main__.DiploObject object at 0x000002815DE1CF50>, <__main__.DiploObject object at 0x000002815DE1D010>, <__main__.DiploObject object at 0x000002815DE1D0D0>, <__main__.DiploObject object at 0x000002815DE1D190>, <__main__.DiploObject object at 0x000002815DE1C530>, <__main__.DiploObject object at 0x000002815DE1C620>, <__main__.DiploObject object at 0x000002815DE1C7A0>]
+AI Empire has made peace with Empire 16
+Peace deal between Empire 16 and AI Empire has expired
+[<__main__.DiploObject object at 0x000002815DE1CAD0>, <__main__.DiploObject object at 0x000002815DE1CB90>, <__main__.DiploObject object at 0x000002815DE1CC50>, <__main__.DiploObject object at 0x000002815DE1CD10>, <__main__.DiploObject object at 0x000002815DE1CDD0>, <__main__.DiploObject object at 0x000002815DE1CE90>, <__main__.DiploObject object at 0x000002815DE1CF50>, <__main__.DiploObject object at 0x000002815DE1D010>, <__main__.DiploObject object at 0x000002815DE1D0D0>, <__main__.DiploObject object at 0x000002815DE1D190>, <__main__.DiploObject object at 0x000002815DE1C530>, <__main__.DiploObject object at 0x000002815DE1C620>, <__main__.DiploObject object at 0x000002815DE1C7A0>, <__main__.DiploObject object at 0x000002815DE1C920>]
+AI Empire has made peace with Empire 16
+Peace deal between AI Empire and Empire 16 has expired
+[<__main__.DiploObject object at 0x000002815DE1CB90>, <__main__.DiploObject object at 0x000002815DE1CC50>, <__main__.DiploObject object at 0x000002815DE1CD10>, <__main__.DiploObject object at 0x000002815DE1CDD0>, <__main__.DiploObject object at 0x000002815DE1CE90>, <__main__.DiploObject object at 0x000002815DE1CF50>, <__main__.DiploObject object at 0x000002815DE1D010>, <__main__.DiploObject object at 0x000002815DE1D0D0>, <__main__.DiploObject object at 0x000002815DE1D190>, <__main__.DiploObject object at 0x000002815DE1C530>, <__main__.DiploObject object at 0x000002815DE1C620>, <__main__.DiploObject object at 0x000002815DE1C7A0>, <__main__.DiploObject object at 0x000002815DE1C920>, <__main__.DiploObject object at 0x000002815DE1CFB0>]
+AI Empire has made peace with Empire 3
+[<__main__.DiploObject object at 0x000002815DE1CB90>, <__main__.DiploObject object at 0x000002815DE1CC50>, <__main__.DiploObject object at 0x000002815DE1CD10>, <__main__.DiploObject object at 0x000002815DE1CDD0>, <__main__.DiploObject object at 0x000002815DE1CE90>, <__main__.DiploObject object at 0x000002815DE1CF50>, <__main__.DiploObject object at 0x000002815DE1D010>, <__main__.DiploObject object at 0x000002815DE1D0D0>, <__main__.DiploObject object at 0x000002815DE1D190>, <__main__.DiploObject object at 0x000002815DE1C530>, <__main__.DiploObject object at 0x000002815DE1C620>, <__main__.DiploObject object at 0x000002815DE1C7A0>, <__main__.DiploObject object at 0x000002815DE1C920>, <__main__.DiploObject object at 0x000002815DE1CFB0>, <__main__.DiploObject object at 0x000002815DE1CCB0>]
+AI Empire has made peace with Empire 16
+Peace deal between AI Empire and Empire 16 has expired
+Peace deal between Empire 16 and AI Empire has expired
+[<__main__.DiploObject object at 0x000002815DE1CC50>, <__main__.DiploObject object at 0x000002815DE1CD10>, <__main__.DiploObject object at 0x000002815DE1CDD0>, <__main__.DiploObject object at 0x000002815DE1CE90>, <__main__.DiploObject object at 0x000002815DE1CF50>, <__main__.DiploObject object at 0x000002815DE1D010>, <__main__.DiploObject object at 0x000002815DE1D0D0>, <__main__.DiploObject object at 0x000002815DE1D190>, <__main__.DiploObject object at 0x000002815DE1C530>, <__main__.DiploObject object at 0x000002815DE1C620>, <__main__.DiploObject object at 0x000002815DE1C7A0>, <__main__.DiploObject object at 0x000002815DE1C920>, <__main__.DiploObject object at 0x000002815DE1CFB0>, <__main__.DiploObject object at 0x000002815DE1CCB0>, <__main__.DiploObject object at 0x000002815DE1D070>]
+AI Empire has made peace with Empire 3
+Peace deal between Empire 3 and AI Empire has expired
+[<__main__.DiploObject object at 0x000002815DE1CC50>, <__main__.DiploObject object at 0x000002815DE1CD10>, <__main__.DiploObject object at 0x000002815DE1CDD0>, <__main__.DiploObject object at 0x000002815DE1CE90>, <__main__.DiploObject object at 0x000002815DE1CF50>, <__main__.DiploObject object at 0x000002815DE1D010>, <__main__.DiploObject object at 0x000002815DE1D0D0>, <__main__.DiploObject object at 0x000002815DE1D190>, <__main__.DiploObject object at 0x000002815DE1C530>, <__main__.DiploObject object at 0x000002815DE1C620>, <__main__.DiploObject object at 0x000002815DE1C7A0>, <__main__.DiploObject object at 0x000002815DE1C920>, <__main__.DiploObject object at 0x000002815DE1CFB0>, <__main__.DiploObject object at 0x000002815DE1CCB0>, <__main__.DiploObject object at 0x000002815DE1D070>, <__main__.DiploObject object at 0x000002815DE1D130>]
+AI Empire has made peace with Empire 3
+Peace deal between AI Empire and Empire 3 has expired
+Peace deal between AI Empire and Empire 3 has expired
+Peace deal between Empire 3 and AI Empire has expired
+[<__main__.DiploObject object at 0x000002815DE1CDD0>, <__main__.DiploObject object at 0x000002815DE1CE90>, <__main__.DiploObject object at 0x000002815DE1CF50>, <__main__.DiploObject object at 0x000002815DE1D010>, <__main__.DiploObject object at 0x000002815DE1D0D0>, <__main__.DiploObject object at 0x000002815DE1D190>, <__main__.DiploObject object at 0x000002815DE1C530>, <__main__.DiploObject object at 0x000002815DE1C620>, <__main__.DiploObject object at 0x000002815DE1C7A0>, <__main__.DiploObject object at 0x000002815DE1C920>, <__main__.DiploObject object at 0x000002815DE1CFB0>, <__main__.DiploObject object at 0x000002815DE1CCB0>, <__main__.DiploObject object at 0x000002815DE1D070>, <__main__.DiploObject object at 0x000002815DE1D130>, <__main__.DiploObject object at 0x000002815DE1CA40>]
+AI Empire has made peace with Empire 16
+Peace deal between AI Empire and Empire 16 has expired
+Peace deal between AI Empire and Empire 3 has expired
+Peace deal between Empire 16 and AI Empire has expired
+Peace deal between Empire 3 and AI Empire has expired
+[<__main__.DiploObject object at 0x000002815DE1CF50>, <__main__.DiploObject object at 0x000002815DE1D010>, <__main__.DiploObject object at 0x000002815DE1D0D0>, <__main__.DiploObject object at 0x000002815DE1D190>, <__main__.DiploObject object at 0x000002815DE1C530>, <__main__.DiploObject object at 0x000002815DE1C620>, <__main__.DiploObject object at 0x000002815DE1C7A0>, <__main__.DiploObject object at 0x000002815DE1C920>, <__main__.DiploObject object at 0x000002815DE1CFB0>, <__main__.DiploObject object at 0x000002815DE1CCB0>, <__main__.DiploObject object at 0x000002815DE1D070>, <__main__.DiploObject object at 0x000002815DE1D130>, <__main__.DiploObject object at 0x000002815DE1CA40>, <__main__.DiploObject object at 0x000002815DE1D2B0>]
+AI Empire has made peace with Empire 16
+Peace deal between Empire 3 and AI Empire has expired
+[<__main__.DiploObject object at 0x000002815DE1CF50>, <__main__.DiploObject object at 0x000002815DE1D010>, <__main__.DiploObject object at 0x000002815DE1D0D0>, <__main__.DiploObject object at 0x000002815DE1D190>, <__main__.DiploObject object at 0x000002815DE1C530>, <__main__.DiploObject object at 0x000002815DE1C620>, <__main__.DiploObject object at 0x000002815DE1C7A0>, <__main__.DiploObject object at 0x000002815DE1C920>, <__main__.DiploObject object at 0x000002815DE1CFB0>, <__main__.DiploObject object at 0x000002815DE1CCB0>, <__main__.DiploObject object at 0x000002815DE1D070>, <__main__.DiploObject object at 0x000002815DE1D130>, <__main__.DiploObject object at 0x000002815DE1CA40>, <__main__.DiploObject object at 0x000002815DE1D2B0>, <__main__.DiploObject object at 0x000002815DE1C560>]
+AI Empire has made peace with Empire 16
+Peace deal between AI Empire and Empire 3 has expired
+Peace deal between AI Empire and Empire 16 has expired
+Peace deal between Empire 16 and AI Empire has expired
+[<__main__.DiploObject object at 0x000002815DE1D0D0>, <__main__.DiploObject object at 0x000002815DE1D190>, <__main__.DiploObject object at 0x000002815DE1C530>, <__main__.DiploObject object at 0x000002815DE1C620>, <__main__.DiploObject object at 0x000002815DE1C7A0>, <__main__.DiploObject object at 0x000002815DE1C920>, <__main__.DiploObject object at 0x000002815DE1CFB0>, <__main__.DiploObject object at 0x000002815DE1CCB0>, <__main__.DiploObject object at 0x000002815DE1D070>, <__main__.DiploObject object at 0x000002815DE1D130>, <__main__.DiploObject object at 0x000002815DE1CA40>, <__main__.DiploObject object at 0x000002815DE1D2B0>, <__main__.DiploObject object at 0x000002815DE1C560>, <__main__.DiploObject object at 0x000002815DE1C860>]
+AI Empire has made peace with Empire 16
+[<__main__.DiploObject object at 0x000002815DE1D0D0>, <__main__.DiploObject object at 0x000002815DE1D190>, <__main__.DiploObject object at 0x000002815DE1C530>, <__main__.DiploObject object at 0x000002815DE1C620>, <__main__.DiploObject object at 0x000002815DE1C7A0>, <__main__.DiploObject object at 0x000002815DE1C920>, <__main__.DiploObject object at 0x000002815DE1CFB0>, <__main__.DiploObject object at 0x000002815DE1CCB0>, <__main__.DiploObject object at 0x000002815DE1D070>, <__main__.DiploObject object at 0x000002815DE1D130>, <__main__.DiploObject object at 0x000002815DE1CA40>, <__main__.DiploObject object at 0x000002815DE1D2B0>, <__main__.DiploObject object at 0x000002815DE1C560>, <__main__.DiploObject object at 0x000002815DE1C860>, <__main__.DiploObject object at 0x000002815DE1CF20>]
+AI Empire has made peace with Empire 16
+[<__main__.DiploObject object at 0x000002815DE1D0D0>, <__main__.DiploObject object at 0x000002815DE1D190>, <__main__.DiploObject object at 0x000002815DE1C530>, <__main__.DiploObject object at 0x000002815DE1C620>, <__main__.DiploObject object at 0x000002815DE1C7A0>, <__main__.DiploObject object at 0x000002815DE1C920>, <__main__.DiploObject object at 0x000002815DE1CFB0>, <__main__.DiploObject object at 0x000002815DE1CCB0>, <__main__.DiploObject object at 0x000002815DE1D070>, <__main__.DiploObject object at 0x000002815DE1D130>, <__main__.DiploObject object at 0x000002815DE1CA40>, <__main__.DiploObject object at 0x000002815DE1D2B0>, <__main__.DiploObject object at 0x000002815DE1C560>, <__main__.DiploObject object at 0x000002815DE1C860>, <__main__.DiploObject object at 0x000002815DE1CF20>, <__main__.DiploObject object at 0x000002815DE1C800>]
+AI Empire has made peace with Empire 16
+Peace deal between AI Empire and Empire 16 has expired
+Peace deal between Empire 16 and AI Empire has expired
+Peace deal between Empire 3 and AI Empire has expired
+Peace deal between Empire 3 and AI Empire has expired
+Empire 15 has declared war on Empire 12
+Peace deal between Empire 16 and AI Empire has expired
+[<__main__.DiploObject object at 0x000002815DE1D190>, <__main__.DiploObject object at 0x000002815DE1C530>, <__main__.DiploObject object at 0x000002815DE1C620>, <__main__.DiploObject object at 0x000002815DE1C7A0>, <__main__.DiploObject object at 0x000002815DE1C920>, <__main__.DiploObject object at 0x000002815DE1CFB0>, <__main__.DiploObject object at 0x000002815DE1CCB0>, <__main__.DiploObject object at 0x000002815DE1D070>, <__main__.DiploObject object at 0x000002815DE1D130>, <__main__.DiploObject object at 0x000002815DE1CA40>, <__main__.DiploObject object at 0x000002815DE1D2B0>, <__main__.DiploObject object at 0x000002815DE1C560>, <__main__.DiploObject object at 0x000002815DE1C860>, <__main__.DiploObject object at 0x000002815DE1CF20>, <__main__.DiploObject object at 0x000002815DE1C800>, <__main__.DiploObject object at 0x000002815DE1CBC0>]
+AI Empire has made peace with Empire 3
+Peace deal between AI Empire and Empire 3 has expired
+Peace deal between AI Empire and Empire 16 has expired
+Peace deal between AI Empire and Empire 3 has expired
+Peace deal between Empire 3 and AI Empire has expired
+Peace deal between Empire 16 and AI Empire has expired
+[<__main__.DiploObject object at 0x000002815DE1C7A0>, <__main__.DiploObject object at 0x000002815DE1C920>, <__main__.DiploObject object at 0x000002815DE1CFB0>, <__main__.DiploObject object at 0x000002815DE1CCB0>, <__main__.DiploObject object at 0x000002815DE1D070>, <__main__.DiploObject object at 0x000002815DE1D130>, <__main__.DiploObject object at 0x000002815DE1CA40>, <__main__.DiploObject object at 0x000002815DE1D2B0>, <__main__.DiploObject object at 0x000002815DE1C560>, <__main__.DiploObject object at 0x000002815DE1C860>, <__main__.DiploObject object at 0x000002815DE1CF20>, <__main__.DiploObject object at 0x000002815DE1C800>, <__main__.DiploObject object at 0x000002815DE1CBC0>, <__main__.DiploObject object at 0x000002815DE1CC50>]
+AI Empire has made peace with Empire 3
+Peace deal between AI Empire and Empire 16 has expired
+Peace deal between AI Empire and Empire 3 has expired
+[<__main__.DiploObject object at 0x000002815DE1CFB0>, <__main__.DiploObject object at 0x000002815DE1CCB0>, <__main__.DiploObject object at 0x000002815DE1D070>, <__main__.DiploObject object at 0x000002815DE1D130>, <__main__.DiploObject object at 0x000002815DE1CA40>, <__main__.DiploObject object at 0x000002815DE1D2B0>, <__main__.DiploObject object at 0x000002815DE1C560>, <__main__.DiploObject object at 0x000002815DE1C860>, <__main__.DiploObject object at 0x000002815DE1CF20>, <__main__.DiploObject object at 0x000002815DE1C800>, <__main__.DiploObject object at 0x000002815DE1CBC0>, <__main__.DiploObject object at 0x000002815DE1CC50>, <__main__.DiploObject object at 0x000002815DE1CE90>]
+AI Empire has made peace with Empire 3
+Peace deal between Empire 3 and AI Empire has expired
+Peace deal between Empire 16 and AI Empire has expired
+Peace deal between Empire 3 and AI Empire has expired
+Peace deal between Empire 16 and AI Empire has expired
+[<__main__.DiploObject object at 0x000002815DE1CFB0>, <__main__.DiploObject object at 0x000002815DE1CCB0>, <__main__.DiploObject object at 0x000002815DE1D070>, <__main__.DiploObject object at 0x000002815DE1D130>, <__main__.DiploObject object at 0x000002815DE1CA40>, <__main__.DiploObject object at 0x000002815DE1D2B0>, <__main__.DiploObject object at 0x000002815DE1C560>, <__main__.DiploObject object at 0x000002815DE1C860>, <__main__.DiploObject object at 0x000002815DE1CF20>, <__main__.DiploObject object at 0x000002815DE1C800>, <__main__.DiploObject object at 0x000002815DE1CBC0>, <__main__.DiploObject object at 0x000002815DE1CC50>, <__main__.DiploObject object at 0x000002815DE1CE90>, <__main__.DiploObject object at 0x000002815DE1D340>]
+AI Empire has made peace with Empire 16
+Peace deal between AI Empire and Empire 3 has expired
+Peace deal between AI Empire and Empire 16 has expired
+Peace deal between AI Empire and Empire 3 has expired
+Peace deal between AI Empire and Empire 16 has expired
+Peace deal between Empire 3 and AI Empire has expired
+[<__main__.DiploObject object at 0x000002815DE1CA40>, <__main__.DiploObject object at 0x000002815DE1D2B0>, <__main__.DiploObject object at 0x000002815DE1C560>, <__main__.DiploObject object at 0x000002815DE1C860>, <__main__.DiploObject object at 0x000002815DE1CF20>, <__main__.DiploObject object at 0x000002815DE1C800>, <__main__.DiploObject object at 0x000002815DE1CBC0>, <__main__.DiploObject object at 0x000002815DE1CC50>, <__main__.DiploObject object at 0x000002815DE1CE90>, <__main__.DiploObject object at 0x000002815DE1D340>, <__main__.DiploObject object at 0x000002815DE1D460>]
+AI Empire has made peace with Empire 16
+Peace deal between AI Empire and Empire 3 has expired
+[<__main__.DiploObject object at 0x000002815DE1D2B0>, <__main__.DiploObject object at 0x000002815DE1C560>, <__main__.DiploObject object at 0x000002815DE1C860>, <__main__.DiploObject object at 0x000002815DE1CF20>, <__main__.DiploObject object at 0x000002815DE1C800>, <__main__.DiploObject object at 0x000002815DE1CBC0>, <__main__.DiploObject object at 0x000002815DE1CC50>, <__main__.DiploObject object at 0x000002815DE1CE90>, <__main__.DiploObject object at 0x000002815DE1D340>, <__main__.DiploObject object at 0x000002815DE1D460>, <__main__.DiploObject object at 0x000002815DE1C6E0>]
+AI Empire has made peace with Empire 16
+Empire 16 has declared war on Empire 9
+Peace deal between Empire 16 and AI Empire has expired
+[<__main__.DiploObject object at 0x000002815DE1D2B0>, <__main__.DiploObject object at 0x000002815DE1C560>, <__main__.DiploObject object at 0x000002815DE1C860>, <__main__.DiploObject object at 0x000002815DE1CF20>, <__main__.DiploObject object at 0x000002815DE1C800>, <__main__.DiploObject object at 0x000002815DE1CBC0>, <__main__.DiploObject object at 0x000002815DE1CC50>, <__main__.DiploObject object at 0x000002815DE1CE90>, <__main__.DiploObject object at 0x000002815DE1D340>, <__main__.DiploObject object at 0x000002815DE1D460>, <__main__.DiploObject object at 0x000002815DE1C6E0>, <__main__.DiploObject object at 0x000002815DE1D010>]
+AI Empire has made peace with Empire 3
+Peace deal between AI Empire and Empire 16 has expired
+[<__main__.DiploObject object at 0x000002815DE1C560>, <__main__.DiploObject object at 0x000002815DE1C860>, <__main__.DiploObject object at 0x000002815DE1CF20>, <__main__.DiploObject object at 0x000002815DE1C800>, <__main__.DiploObject object at 0x000002815DE1CBC0>, <__main__.DiploObject object at 0x000002815DE1CC50>, <__main__.DiploObject object at 0x000002815DE1CE90>, <__main__.DiploObject object at 0x000002815DE1D340>, <__main__.DiploObject object at 0x000002815DE1D460>, <__main__.DiploObject object at 0x000002815DE1C6E0>, <__main__.DiploObject object at 0x000002815DE1D010>, <__main__.DiploObject object at 0x000002815DE1CB90>]
+AI Empire has made peace with Empire 16
+[<__main__.DiploObject object at 0x000002815DE1C560>, <__main__.DiploObject object at 0x000002815DE1C860>, <__main__.DiploObject object at 0x000002815DE1CF20>, <__main__.DiploObject object at 0x000002815DE1C800>, <__main__.DiploObject object at 0x000002815DE1CBC0>, <__main__.DiploObject object at 0x000002815DE1CC50>, <__main__.DiploObject object at 0x000002815DE1CE90>, <__main__.DiploObject object at 0x000002815DE1D340>, <__main__.DiploObject object at 0x000002815DE1D460>, <__main__.DiploObject object at 0x000002815DE1C6E0>, <__main__.DiploObject object at 0x000002815DE1D010>, <__main__.DiploObject object at 0x000002815DE1CB90>, <__main__.DiploObject object at 0x000002815DE1D1C0>]
+AI Empire has made peace with Empire 16
+Peace deal between AI Empire and Empire 16 has expired
+Peace deal between Empire 16 and AI Empire has expired
+[<__main__.DiploObject object at 0x000002815DE1C860>, <__main__.DiploObject object at 0x000002815DE1CF20>, <__main__.DiploObject object at 0x000002815DE1C800>, <__main__.DiploObject object at 0x000002815DE1CBC0>, <__main__.DiploObject object at 0x000002815DE1CC50>, <__main__.DiploObject object at 0x000002815DE1CE90>, <__main__.DiploObject object at 0x000002815DE1D340>, <__main__.DiploObject object at 0x000002815DE1D460>, <__main__.DiploObject object at 0x000002815DE1C6E0>, <__main__.DiploObject object at 0x000002815DE1D010>, <__main__.DiploObject object at 0x000002815DE1CB90>, <__main__.DiploObject object at 0x000002815DE1D1C0>, <__main__.DiploObject object at 0x000002815DE1CD10>]
+AI Empire has made peace with Empire 16
+[<__main__.DiploObject object at 0x000002815DE1C860>, <__main__.DiploObject object at 0x000002815DE1CF20>, <__main__.DiploObject object at 0x000002815DE1C800>, <__main__.DiploObject object at 0x000002815DE1CBC0>, <__main__.DiploObject object at 0x000002815DE1CC50>, <__main__.DiploObject object at 0x000002815DE1CE90>, <__main__.DiploObject object at 0x000002815DE1D340>, <__main__.DiploObject object at 0x000002815DE1D460>, <__main__.DiploObject object at 0x000002815DE1C6E0>, <__main__.DiploObject object at 0x000002815DE1D010>, <__main__.DiploObject object at 0x000002815DE1CB90>, <__main__.DiploObject object at 0x000002815DE1D1C0>, <__main__.DiploObject object at 0x000002815DE1CD10>, <__main__.DiploObject object at 0x000002815DE1D190>]
+AI Empire has made peace with Empire 3
+Peace deal between AI Empire and Empire 16 has expired
+Peace deal between AI Empire and Empire 16 has expired
+Peace deal between Empire 16 and AI Empire has expired
+Peace deal between Empire 16 and AI Empire has expired
+[<__main__.DiploObject object at 0x000002815DE1C800>, <__main__.DiploObject object at 0x000002815DE1CBC0>, <__main__.DiploObject object at 0x000002815DE1CC50>, <__main__.DiploObject object at 0x000002815DE1CE90>, <__main__.DiploObject object at 0x000002815DE1D340>, <__main__.DiploObject object at 0x000002815DE1D460>, <__main__.DiploObject object at 0x000002815DE1C6E0>, <__main__.DiploObject object at 0x000002815DE1D010>, <__main__.DiploObject object at 0x000002815DE1CB90>, <__main__.DiploObject object at 0x000002815DE1D1C0>, <__main__.DiploObject object at 0x000002815DE1CD10>, <__main__.DiploObject object at 0x000002815DE1D190>, <__main__.DiploObject object at 0x000002815DE1CEC0>]
+AI Empire has made peace with Empire 3
+Peace deal between Empire 16 and AI Empire has expired
+Peace deal between Empire 16 and AI Empire has expired
+Empire 10 has made peace with AI Empire
+Peace deal between Empire 3 and AI Empire has expired
+AI Empire has made peace with Empire 11
+[<__main__.DiploObject object at 0x000002815DE1C800>, <__main__.DiploObject object at 0x000002815DE1CBC0>, <__main__.DiploObject object at 0x000002815DE1CC50>, <__main__.DiploObject object at 0x000002815DE1CE90>, <__main__.DiploObject object at 0x000002815DE1D340>, <__main__.DiploObject object at 0x000002815DE1D460>, <__main__.DiploObject object at 0x000002815DE1C6E0>, <__main__.DiploObject object at 0x000002815DE1D010>, <__main__.DiploObject object at 0x000002815DE1CB90>, <__main__.DiploObject object at 0x000002815DE1D1C0>, <__main__.DiploObject object at 0x000002815DE1CD10>, <__main__.DiploObject object at 0x000002815DE1D190>, <__main__.DiploObject object at 0x000002815DE1CEC0>, <__main__.DiploObject object at 0x000002815DE1D3A0>, <__main__.DiploObject object at 0x000002815DE1D4C0>, <__main__.DiploObject object at 0x000002815DE1CEF0>]
+AI Empire has made peace with Empire 16
+Peace deal between AI Empire and Empire 3 has expired
+Peace deal between AI Empire and Empire 16 has expired
+Peace deal between AI Empire and Empire 16 has expired
+Empire 5 has made peace with AI Empire
+Peace deal between Empire 3 and AI Empire has expired
+Empire 9 has declared war on Empire 4
+Empire 2 has made peace with AI Empire
+[<__main__.DiploObject object at 0x000002815DE1CE90>, <__main__.DiploObject object at 0x000002815DE1D340>, <__main__.DiploObject object at 0x000002815DE1D460>, <__main__.DiploObject object at 0x000002815DE1C6E0>, <__main__.DiploObject object at 0x000002815DE1D010>, <__main__.DiploObject object at 0x000002815DE1CB90>, <__main__.DiploObject object at 0x000002815DE1D1C0>, <__main__.DiploObject object at 0x000002815DE1CD10>, <__main__.DiploObject object at 0x000002815DE1D190>, <__main__.DiploObject object at 0x000002815DE1CEC0>, <__main__.DiploObject object at 0x000002815DE1D3A0>, <__main__.DiploObject object at 0x000002815DE1D4C0>, <__main__.DiploObject object at 0x000002815DE1CEF0>, <__main__.DiploObject object at 0x000002815DE1CCB0>, <__main__.DiploObject object at 0x000002815DE1D4F0>, <__main__.DiploObject object at 0x000002815DE1D5B0>]
+AI Empire has made peace with Empire 3
+Peace deal between AI Empire and Empire 3 has expired
+Peace deal between AI Empire and Empire 3 has expired
+Peace deal between Empire 3 and AI Empire has expired
+Empire 9 has made peace with AI Empire
+[<__main__.DiploObject object at 0x000002815DE1D460>, <__main__.DiploObject object at 0x000002815DE1C6E0>, <__main__.DiploObject object at 0x000002815DE1D010>, <__main__.DiploObject object at 0x000002815DE1CB90>, <__main__.DiploObject object at 0x000002815DE1D1C0>, <__main__.DiploObject object at 0x000002815DE1CD10>, <__main__.DiploObject object at 0x000002815DE1D190>, <__main__.DiploObject object at 0x000002815DE1CEC0>, <__main__.DiploObject object at 0x000002815DE1D3A0>, <__main__.DiploObject object at 0x000002815DE1D4C0>, <__main__.DiploObject object at 0x000002815DE1CEF0>, <__main__.DiploObject object at 0x000002815DE1CCB0>, <__main__.DiploObject object at 0x000002815DE1D4F0>, <__main__.DiploObject object at 0x000002815DE1D5B0>, <__main__.DiploObject object at 0x000002815DE1D5E0>, <__main__.DiploObject object at 0x000002815DE1D6A0>]
+AI Empire has made peace with Empire 16
+Empire 4 has made peace with AI Empire
+Empire 15 has made peace with AI Empire
+The capital of Empire 15 has been captured by Empire 12 and will be partitioned!
+Peace deal between Empire 16 and AI Empire has expired
+Game closed.

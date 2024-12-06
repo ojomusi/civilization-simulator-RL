@@ -1,0 +1,35 @@
+Starting the game...
+{}
+{}
+{}
+{}
+{}
+The capital of AI Empire has been captured by Empire 11 and will be partitioned!
+{}
+{}
+{}
+{}
+{}
+{'peace': -18.0}
+{'peace': -18.0}
+{'peace': -18.5}
+{'peace': -18.0}
+{'peace': -18.0}
+{'peace': -20.0}
+{'peace': -20.0}
+{'peace': -18.0}
+Peace deal between Empire 11 and AI Empire has expired
+{'peace': -19.5}
+{'peace': -18.0}
+{'peace': -18.0}
+{'peace': -20.0}
+{'peace': -18.0}
+{'peace': -18.0}
+{'peace': -18.0}
+Peace deal between Empire 11 and AI Empire has expired
+{'peace': -18.0}
+{'peace': -18.0}
+{'peace': -19.0}
+{'peace': -18.0}
+{'peace': -18.0}
+Game closed.

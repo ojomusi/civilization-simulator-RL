@@ -1,0 +1,45 @@
+Starting the game...
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+expand
+peace
+declare_war
+declare_war
+declare_war
+declare_war
+sea_invade
+declare_war
+expand
+sea_invade
+stabilize
+sea_invade
+declare_war
+declare_war
+declare_war
+declare_war
+expand
+expand
+declare_war
+sea_invade
+declare_war
+expand
+sea_invade
+expand
+declare_war
+expand
+declare_war
+expand
+expand
+expand
+sea_invade
+expand
+sea_invade
+declare_war
+sea_invade
+expand
+peace
+[]
+AI Empire has made peace with Empire 14
+expand
+expand
+stabilize
+Game closed.

@@ -1,0 +1,148 @@
+Starting the game...
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'sea_invade': -20.0}
+[-20.0]
+{'sea_invade': -10.0}
+[-10.0]
+{'sea_invade': -20.0}
+[-20.0]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': 0.5}
+[0.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -20.0}
+[-20.0]
+{'sea_invade': -20.0}
+[-20.0]
+{'sea_invade': -20.0}
+[-20.0]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -20.0}
+[-20.0]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': 0.5}
+[0.5]
+{'sea_invade': -20.0}
+[-20.0]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -20.0}
+[-20.0]
+{'sea_invade': -20.0}
+[-20.0]
+{'sea_invade': -20.0}
+[-20.0]
+{'sea_invade': -20.0}
+[-20.0]
+{'sea_invade': -20.0}
+[-20.0]
+{'sea_invade': -20.0}
+[-20.0]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -20.0}
+[-20.0]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -10.0}
+[-10.0]
+{'sea_invade': -20.0}
+[-20.0]
+{'sea_invade': 0.5}
+[0.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+{'sea_invade': -19.5}
+[-19.5]
+Game closed.

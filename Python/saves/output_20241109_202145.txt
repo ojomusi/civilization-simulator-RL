@@ -1,0 +1,19 @@
+Starting the game...
+Emp bread:  100 turn =  1
+Emp bread:  100 turn =  1
+Emp bread:  100 turn =  1
+Emp bread:  100 turn =  1
+Emp bread:  100 turn =  1
+Emp bread:  100 turn =  1
+Emp bread:  100 turn =  1
+Emp bread:  100 turn =  1
+Emp bread:  100 turn =  1
+Emp bread:  100 turn =  1
+Emp bread:  100 turn =  1
+Emp bread:  100 turn =  1
+Emp bread:  100 turn =  1
+Emp bread:  100 turn =  1
+Emp bread:  100 turn =  1
+Emp bread:  100 turn =  1
+Emp bread:  100 turn =  1
+AI bread:  100  turn =  1

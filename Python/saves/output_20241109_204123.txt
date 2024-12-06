@@ -1,0 +1,21 @@
+Starting the game...
+['Empire 1', 'Empire 2', 'Empire 3', 'Empire 4', 'Empire 5', 'Empire 6', 'Empire 7', 'Empire 8', 'Empire 9', 'Empire 10', 'Empire 11', 'Empire 12', 'Empire 13', 'Empire 14', 'Empire 15', 'Empire 16', 'AI Empire']
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+['Empire 1', 'Empire 2', 'Empire 3', 'Empire 4', 'Empire 5', 'Empire 6', 'Empire 7', 'Empire 8', 'Empire 9', 'Empire 10', 'Empire 11', 'Empire 12', 'Empire 13', 'Empire 14', 'Empire 15', 'Empire 16', 'AI Empire']
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+['Empire 12', 'Empire 6', 'Empire 13', 'Empire 3', 'Empire 16', 'Empire 9', 'AI Empire', 'Empire 15', 'Empire 14', 'Empire 8', 'Empire 10', 'Empire 4', 'Empire 1', 'Empire 2', 'Empire 7', 'Empire 11', 'Empire 5']
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+['Empire 12', 'Empire 6', 'Empire 13', 'Empire 3', 'Empire 16', 'Empire 9', 'AI Empire', 'Empire 15', 'Empire 14', 'Empire 8', 'Empire 10', 'Empire 4', 'Empire 1', 'Empire 2', 'Empire 7', 'Empire 11', 'Empire 5']
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+['Empire 12', 'Empire 6', 'Empire 13', 'Empire 3', 'Empire 16', 'Empire 9', 'AI Empire', 'Empire 15', 'Empire 14', 'Empire 8', 'Empire 10', 'Empire 4', 'Empire 1', 'Empire 2', 'Empire 7', 'Empire 11', 'Empire 5']
+['Empire 15', 'Empire 11', 'Empire 6', 'Empire 12', 'Empire 3', 'Empire 13', 'Empire 5', 'Empire 10', 'Empire 7', 'Empire 1', 'Empire 8', 'Empire 9', 'Empire 16', 'AI Empire', 'Empire 4', 'Empire 2', 'Empire 14']
+['Empire 15', 'Empire 11', 'Empire 6', 'Empire 12', 'Empire 3', 'Empire 13', 'Empire 5', 'Empire 10', 'Empire 7', 'Empire 1', 'Empire 8', 'Empire 9', 'Empire 16', 'AI Empire', 'Empire 4', 'Empire 2', 'Empire 14']
+['Empire 15', 'Empire 11', 'Empire 6', 'Empire 12', 'Empire 3', 'Empire 13', 'Empire 5', 'Empire 10', 'Empire 7', 'Empire 1', 'Empire 8', 'Empire 9', 'Empire 16', 'AI Empire', 'Empire 4', 'Empire 2', 'Empire 14']
+AI Empire has made peace with Empire 6
+['Empire 15', 'Empire 11', 'Empire 6', 'Empire 12', 'Empire 3', 'Empire 13', 'Empire 5', 'Empire 10', 'Empire 7', 'Empire 1', 'Empire 8', 'Empire 9', 'Empire 16', 'AI Empire', 'Empire 4', 'Empire 2', 'Empire 14']
+['Empire 15', 'Empire 11', 'Empire 6', 'Empire 12', 'Empire 3', 'Empire 13', 'Empire 5', 'Empire 10', 'Empire 7', 'Empire 1', 'Empire 8', 'Empire 9', 'Empire 16', 'AI Empire', 'Empire 4', 'Empire 2', 'Empire 14']
+['Empire 7', 'Empire 4', 'Empire 9', 'Empire 3', 'Empire 12', 'Empire 5', 'Empire 13', 'Empire 14', 'Empire 16', 'Empire 8', 'Empire 11', 'AI Empire', 'Empire 2', 'Empire 10', 'Empire 6', 'Empire 15', 'Empire 1']
+['Empire 14', 'Empire 13', 'Empire 15', 'Empire 4', 'Empire 5', 'Empire 11', 'Empire 2', 'Empire 3', 'AI Empire', 'Empire 9', 'Empire 1', 'Empire 16', 'Empire 10', 'Empire 12', 'Empire 7', 'Empire 8', 'Empire 6']
+['Empire 9', 'Empire 3', 'Empire 2', 'Empire 15', 'AI Empire', 'Empire 8', 'Empire 13', 'Empire 12', 'Empire 6', 'Empire 14', 'Empire 16', 'Empire 10', 'Empire 4', 'Empire 11', 'Empire 7', 'Empire 5', 'Empire 1']
+['Empire 7', 'Empire 6', 'Empire 5', 'Empire 1', 'Empire 4', 'Empire 16', 'Empire 10', 'Empire 8', 'Empire 13', 'Empire 14', 'Empire 15', 'Empire 2', 'AI Empire', 'Empire 3', 'Empire 12', 'Empire 9', 'Empire 11']
+Game closed.

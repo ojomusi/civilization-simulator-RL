@@ -1,0 +1,830 @@
+Starting the game...
+Non AI Econ:  185
+Non AI Econ:  185
+Non AI Econ:  185
+Non AI Econ:  185
+Non AI Econ:  185
+Non AI Econ:  185
+Non AI Econ:  185
+Non AI Econ:  185
+Non AI Econ:  185
+Non AI Econ:  185
+Non AI Econ:  185
+Non AI Econ:  185
+Non AI Econ:  185
+Non AI Econ:  185
+Non AI Econ:  185
+Non AI Econ:  185
+100 1 []
+Non AI Econ:  270
+Non AI Econ:  270
+100 1 []
+100 1 []
+Non AI Econ:  273
+Non AI Econ:  270
+Non AI Econ:  270
+Non AI Econ:  270
+Non AI Econ:  273
+Non AI Econ:  270
+Non AI Econ:  270
+Non AI Econ:  273
+Non AI Econ:  270
+Non AI Econ:  273
+Non AI Econ:  270
+Non AI Econ:  270
+Non AI Econ:  270
+Non AI Econ:  273
+Non AI Econ:  355
+Non AI Econ:  355
+100 1 []
+100 1 []
+Non AI Econ:  366
+Non AI Econ:  355
+Non AI Econ:  355
+Non AI Econ:  355
+Non AI Econ:  363
+Non AI Econ:  355
+Non AI Econ:  360
+Non AI Econ:  368
+Non AI Econ:  358
+Non AI Econ:  361
+Non AI Econ:  355
+Non AI Econ:  358
+Non AI Econ:  358
+Non AI Econ:  368
+Non AI Econ:  443
+Non AI Econ:  443
+100 1 []
+100 1 []
+Non AI Econ:  459
+Non AI Econ:  445
+Non AI Econ:  443
+Non AI Econ:  443
+Non AI Econ:  453
+Non AI Econ:  440
+Non AI Econ:  453
+Non AI Econ:  468
+Non AI Econ:  448
+Non AI Econ:  451
+Non AI Econ:  440
+Non AI Econ:  453
+Non AI Econ:  446
+Non AI Econ:  466
+Non AI Econ:  531
+Non AI Econ:  531
+100 1 []
+100 1 []
+Non AI Econ:  573
+Non AI Econ:  530
+Non AI Econ:  543
+Non AI Econ:  535
+100 1 []
+100 2 []
+Non AI Econ:  557
+Non AI Econ:  531
+Non AI Econ:  528
+Non AI Econ:  628
+Non AI Econ:  623
+Non AI Econ:  619
+Non AI Econ:  621
+Non AI Econ:  678
+Non AI Econ:  543
+Non AI Econ:  569
+Non AI Econ:  533
+100 2 []
+Non AI Econ:  541
+Non AI Econ:  553
+Non AI Econ:  548
+Non AI Econ:  536
+Non AI Econ:  633
+100 4 []
+Non AI Econ:  662
+Non AI Econ:  624
+Non AI Econ:  621
+Non AI Econ:  721
+Non AI Econ:  721
+Non AI Econ:  709
+Non AI Econ:  711
+Non AI Econ:  783
+Non AI Econ:  641
+Non AI Econ:  672
+Non AI Econ:  626
+100 8 []
+Non AI Econ:  636
+Non AI Econ:  663
+Non AI Econ:  651
+Non AI Econ:  631
+Non AI Econ:  726
+100 14 []
+Non AI Econ:  772
+Non AI Econ:  719
+Non AI Econ:  719
+Non AI Econ:  814
+Non AI Econ:  824
+Non AI Econ:  804
+Non AI Econ:  804
+Non AI Econ:  888
+Non AI Econ:  741
+Non AI Econ:  780
+Non AI Econ:  721
+100 23 []
+Non AI Econ:  736
+Non AI Econ:  778
+Non AI Econ:  759
+Non AI Econ:  729
+Non AI Econ:  824
+100 35 []
+Non AI Econ:  887
+Non AI Econ:  817
+Non AI Econ:  819
+Non AI Econ:  909
+Non AI Econ:  929
+Non AI Econ:  902
+Non AI Econ:  897
+Non AI Econ:  996
+Non AI Econ:  841
+Non AI Econ:  893
+Non AI Econ:  821
+100 50 []
+Non AI Econ:  839
+Non AI Econ:  901
+Non AI Econ:  869
+Non AI Econ:  827
+Non AI Econ:  927
+100 65 []
+Non AI Econ:  1012
+Non AI Econ:  915
+Non AI Econ:  924
+Non AI Econ:  1009
+Non AI Econ:  1042
+Non AI Econ:  1000
+Non AI Econ:  992
+Non AI Econ:  1106
+Non AI Econ:  944
+Non AI Econ:  1013
+Non AI Econ:  931
+100 80 []
+Non AI Econ:  942
+Non AI Econ:  1031
+Non AI Econ:  979
+Non AI Econ:  925
+Non AI Econ:  1037
+100 95 []
+Non AI Econ:  1149
+Non AI Econ:  1013
+Non AI Econ:  1037
+Non AI Econ:  1117
+Non AI Econ:  1160
+Non AI Econ:  1100
+Non AI Econ:  1087
+Non AI Econ:  1226
+Non AI Econ:  1054
+Non AI Econ:  1141
+Non AI Econ:  1044
+100 109 []
+Non AI Econ:  1050
+Non AI Econ:  1171
+Non AI Econ:  1092
+Non AI Econ:  1028
+Non AI Econ:  1157
+100 124 []
+Non AI Econ:  1299
+Non AI Econ:  1113
+Non AI Econ:  1167
+Non AI Econ:  1227
+Non AI Econ:  1280
+Non AI Econ:  1208
+Non AI Econ:  1187
+Non AI Econ:  1354
+Non AI Econ:  1172
+Non AI Econ:  1281
+Non AI Econ:  1174
+100 140 []
+Non AI Econ:  1163
+Non AI Econ:  1325
+Non AI Econ:  1212
+Non AI Econ:  1143
+Non AI Econ:  1285
+100 155 []
+Non AI Econ:  1461
+Non AI Econ:  1216
+Non AI Econ:  1317
+Non AI Econ:  1345
+Non AI Econ:  1400
+Non AI Econ:  1318
+Non AI Econ:  1287
+Non AI Econ:  1494
+Non AI Econ:  1297
+Non AI Econ:  1425
+Non AI Econ:  1314
+100 170 []
+Non AI Econ:  1286
+Non AI Econ:  1497
+Non AI Econ:  1335
+Non AI Econ:  1261
+Non AI Econ:  1468
+Non AI Econ:  1416
+Non AI Econ:  1481
+100 183 []
+Non AI Econ:  1569
+Non AI Econ:  1427
+Non AI Econ:  1677
+Non AI Econ:  1324
+Non AI Econ:  1390
+Non AI Econ:  1427
+Non AI Econ:  1640
+Non AI Econ:  1525
+100 197 []
+Non AI Econ:  1466
+Non AI Econ:  1627
+Non AI Econ:  1433
+Non AI Econ:  1460
+Non AI Econ:  1386
+Non AI Econ:  1603
+Non AI Econ:  1553
+Non AI Econ:  1666
+100 211 []
+Non AI Econ:  1717
+Non AI Econ:  1562
+Non AI Econ:  1870
+Non AI Econ:  1439
+Non AI Econ:  1493
+Non AI Econ:  1577
+Non AI Econ:  1794
+Non AI Econ:  1658
+100 226 []
+Non AI Econ:  1626
+Non AI Econ:  1793
+Non AI Econ:  1551
+Non AI Econ:  1585
+Non AI Econ:  1516
+Non AI Econ:  1743
+Non AI Econ:  1693
+Non AI Econ:  1864
+100 235 []
+Non AI Econ:  1865
+Non AI Econ:  1702
+Non AI Econ:  2072
+Non AI Econ:  1564
+Non AI Econ:  1598
+Non AI Econ:  1731
+Non AI Econ:  1948
+Non AI Econ:  1793
+100 245 []
+Non AI Econ:  1792
+Non AI Econ:  1971
+Non AI Econ:  1669
+Non AI Econ:  1710
+Non AI Econ:  1649
+Non AI Econ:  1887
+Non AI Econ:  1839
+Non AI Econ:  2075
+100 252 []
+Non AI Econ:  2013
+Non AI Econ:  1846
+Non AI Econ:  2279
+Non AI Econ:  1697
+Non AI Econ:  1703
+Non AI Econ:  1897
+Non AI Econ:  2104
+Non AI Econ:  1937
+100 257 []
+Non AI Econ:  1964
+Non AI Econ:  2164
+Non AI Econ:  1787
+Non AI Econ:  1835
+Non AI Econ:  1789
+Non AI Econ:  2035
+Non AI Econ:  1993
+Non AI Econ:  2289
+100 262 []
+Non AI Econ:  2161
+Non AI Econ:  1990
+Non AI Econ:  2490
+Non AI Econ:  1839
+Non AI Econ:  1808
+Non AI Econ:  2063
+Non AI Econ:  2260
+Non AI Econ:  2083
+100 263 []
+Non AI Econ:  2142
+Non AI Econ:  2358
+Non AI Econ:  1905
+Non AI Econ:  1963
+Non AI Econ:  1931
+Non AI Econ:  2191
+Non AI Econ:  2149
+Non AI Econ:  2508
+100 264 []
+Non AI Econ:  2309
+Non AI Econ:  2136
+Non AI Econ:  2704
+Non AI Econ:  1987
+Non AI Econ:  1913
+Non AI Econ:  2233
+Non AI Econ:  2416
+Non AI Econ:  2233
+100 266 []
+Non AI Econ:  2323
+Non AI Econ:  2560
+Non AI Econ:  2025
+Non AI Econ:  2093
+Non AI Econ:  2073
+Non AI Econ:  2359
+Non AI Econ:  2309
+Non AI Econ:  2734
+100 268 []
+Non AI Econ:  2457
+Non AI Econ:  2286
+Non AI Econ:  2918
+Non AI Econ:  2137
+Non AI Econ:  2018
+Non AI Econ:  2409
+Non AI Econ:  2572
+Non AI Econ:  2389
+100 271 []
+Non AI Econ:  2506
+Non AI Econ:  2769
+Non AI Econ:  2145
+Non AI Econ:  2223
+Non AI Econ:  2217
+Non AI Econ:  2529
+Non AI Econ:  2473
+Non AI Econ:  2962
+100 274 []
+Non AI Econ:  2605
+Non AI Econ:  2438
+Non AI Econ:  3132
+Non AI Econ:  2289
+Non AI Econ:  2123
+Non AI Econ:  2592
+Non AI Econ:  2728
+Non AI Econ:  2547
+100 277 []
+Non AI Econ:  2691
+Non AI Econ:  2985
+Non AI Econ:  2265
+Non AI Econ:  2356
+Non AI Econ:  2363
+Non AI Econ:  2707
+Non AI Econ:  2641
+Non AI Econ:  3194
+100 282 []
+Non AI Econ:  2753
+Non AI Econ:  2590
+Non AI Econ:  3346
+Non AI Econ:  2445
+Non AI Econ:  2228
+Non AI Econ:  2786
+Non AI Econ:  2884
+Non AI Econ:  2713
+100 287 []
+Non AI Econ:  2882
+Non AI Econ:  3211
+Non AI Econ:  2385
+Non AI Econ:  2489
+Non AI Econ:  2509
+Non AI Econ:  2892
+Non AI Econ:  2811
+Non AI Econ:  3429
+100 294 []
+Non AI Econ:  2901
+Non AI Econ:  2742
+Non AI Econ:  3560
+Non AI Econ:  2603
+Non AI Econ:  2333
+Non AI Econ:  2988
+Non AI Econ:  3040
+Non AI Econ:  2885
+100 297 []
+Non AI Econ:  3076
+Non AI Econ:  3441
+Non AI Econ:  2505
+Non AI Econ:  2624
+Non AI Econ:  2655
+Non AI Econ:  3086
+Non AI Econ:  2983
+Non AI Econ:  3666
+100 297 []
+Non AI Econ:  3049
+Non AI Econ:  2894
+Non AI Econ:  3776
+Non AI Econ:  2765
+Non AI Econ:  2438
+Non AI Econ:  3191
+Non AI Econ:  3196
+Non AI Econ:  3063
+100 297 []
+Non AI Econ:  3272
+Non AI Econ:  3683
+Non AI Econ:  2625
+Non AI Econ:  2759
+Non AI Econ:  2801
+Non AI Econ:  3288
+Non AI Econ:  3155
+Non AI Econ:  3906
+100 297 []
+Non AI Econ:  3197
+Non AI Econ:  3046
+Non AI Econ:  3992
+Non AI Econ:  2931
+Non AI Econ:  2543
+Non AI Econ:  3402
+Non AI Econ:  3352
+Non AI Econ:  3250
+100 297 []
+Non AI Econ:  3475
+Non AI Econ:  3935
+Non AI Econ:  2745
+Non AI Econ:  2894
+Non AI Econ:  2947
+Non AI Econ:  3493
+Non AI Econ:  3329
+Non AI Econ:  4150
+100 297 []
+Non AI Econ:  3345
+Non AI Econ:  3198
+Non AI Econ:  4208
+Non AI Econ:  3103
+Non AI Econ:  2648
+Non AI Econ:  3616
+Non AI Econ:  3508
+Non AI Econ:  3444
+100 297 []
+Non AI Econ:  3682
+Non AI Econ:  4192
+Non AI Econ:  2865
+Non AI Econ:  3029
+Non AI Econ:  3093
+Non AI Econ:  3700
+Non AI Econ:  3503
+Non AI Econ:  4394
+100 297 []
+Non AI Econ:  3493
+Non AI Econ:  3350
+Non AI Econ:  4424
+Non AI Econ:  3275
+Non AI Econ:  2753
+Non AI Econ:  3830
+Non AI Econ:  3664
+Non AI Econ:  3644
+100 297 []
+Non AI Econ:  3891
+Non AI Econ:  4454
+Non AI Econ:  2985
+Non AI Econ:  3164
+Non AI Econ:  3239
+Non AI Econ:  3907
+Non AI Econ:  3677
+Non AI Econ:  4639
+100 297 []
+Non AI Econ:  3641
+Non AI Econ:  3502
+Non AI Econ:  4640
+Non AI Econ:  3447
+Non AI Econ:  2858
+Non AI Econ:  4046
+Non AI Econ:  3820
+Non AI Econ:  3849
+100 297 []
+Non AI Econ:  4103
+Non AI Econ:  4721
+Non AI Econ:  3105
+Non AI Econ:  3299
+Non AI Econ:  3385
+Non AI Econ:  4114
+Non AI Econ:  3851
+Non AI Econ:  4884
+100 297 []
+Non AI Econ:  3789
+Non AI Econ:  3654
+Non AI Econ:  4856
+Non AI Econ:  3619
+Non AI Econ:  2963
+Non AI Econ:  4264
+Non AI Econ:  3976
+Non AI Econ:  4063
+100 297 []
+Non AI Econ:  4322
+Non AI Econ:  4991
+Non AI Econ:  3225
+Non AI Econ:  3434
+Non AI Econ:  3531
+Non AI Econ:  4321
+Non AI Econ:  4025
+Non AI Econ:  5129
+100 297 []
+Non AI Econ:  3937
+Non AI Econ:  3806
+Non AI Econ:  5072
+Non AI Econ:  3791
+Non AI Econ:  3068
+Non AI Econ:  4483
+Non AI Econ:  4132
+Non AI Econ:  4286
+100 297 []
+Non AI Econ:  4547
+Non AI Econ:  5266
+Non AI Econ:  3345
+Non AI Econ:  3569
+Non AI Econ:  3677
+Non AI Econ:  4528
+Non AI Econ:  4199
+Non AI Econ:  5374
+100 297 []
+Non AI Econ:  4085
+Non AI Econ:  3958
+Non AI Econ:  5288
+Non AI Econ:  3963
+Non AI Econ:  3173
+Non AI Econ:  4706
+Non AI Econ:  4288
+Non AI Econ:  4511
+100 297 []
+Non AI Econ:  4777
+Non AI Econ:  5547
+Non AI Econ:  3465
+Non AI Econ:  3704
+Non AI Econ:  3823
+Non AI Econ:  4735
+Non AI Econ:  4373
+Non AI Econ:  5619
+100 297 []
+Non AI Econ:  4233
+Non AI Econ:  4110
+Non AI Econ:  5504
+Non AI Econ:  4135
+Non AI Econ:  3278
+Non AI Econ:  4931
+Non AI Econ:  4444
+Non AI Econ:  4737
+100 297 []
+Non AI Econ:  5007
+Non AI Econ:  5833
+Non AI Econ:  3585
+Non AI Econ:  3839
+Non AI Econ:  3969
+Non AI Econ:  4942
+Non AI Econ:  4547
+Non AI Econ:  5864
+100 297 []
+Non AI Econ:  4381
+Non AI Econ:  4262
+Non AI Econ:  5720
+Non AI Econ:  4307
+Non AI Econ:  3383
+Non AI Econ:  5157
+Non AI Econ:  4600
+Non AI Econ:  4967
+100 297 []
+Non AI Econ:  5239
+Non AI Econ:  6124
+Non AI Econ:  3705
+Non AI Econ:  3974
+Non AI Econ:  4115
+Non AI Econ:  5149
+Non AI Econ:  4721
+Non AI Econ:  6109
+100 297 []
+Non AI Econ:  4529
+Non AI Econ:  4414
+Non AI Econ:  5936
+Non AI Econ:  4479
+Non AI Econ:  3488
+Non AI Econ:  5383
+Non AI Econ:  4756
+Non AI Econ:  5199
+100 297 []
+Non AI Econ:  5471
+Non AI Econ:  6420
+Non AI Econ:  3825
+Non AI Econ:  4109
+Non AI Econ:  4261
+Non AI Econ:  5356
+Non AI Econ:  4895
+Non AI Econ:  6354
+100 297 []
+Non AI Econ:  4677
+Non AI Econ:  4566
+Non AI Econ:  6152
+Non AI Econ:  4651
+Non AI Econ:  3593
+Non AI Econ:  5609
+Non AI Econ:  4912
+Non AI Econ:  5434
+100 297 []
+Non AI Econ:  5703
+Non AI Econ:  6722
+Non AI Econ:  3945
+Non AI Econ:  4244
+Non AI Econ:  4334
+Non AI Econ:  5563
+Non AI Econ:  5069
+Non AI Econ:  6599
+20 297 [<__main__.DiploObject object at 0x000002D7D72D17F0>]
+Non AI Econ:  4825
+Non AI Econ:  4718
+Non AI Econ:  6368
+Non AI Econ:  4823
+Non AI Econ:  3698
+Non AI Econ:  5835
+Non AI Econ:  5068
+Non AI Econ:  5672
+20 297 [<__main__.DiploObject object at 0x000002D7D72D17F0>, <__main__.DiploObject object at 0x000002D7D72D1F40>]
+Non AI Econ:  5935
+Non AI Econ:  7032
+Non AI Econ:  4065
+Non AI Econ:  4379
+Non AI Econ:  4302
+Non AI Econ:  5770
+Non AI Econ:  5243
+Non AI Econ:  6844
+0 297 [<__main__.DiploObject object at 0x000002D7D72D17F0>, <__main__.DiploObject object at 0x000002D7D72D1F40>]
+Non AI Econ:  4230
+0 297 [<__main__.DiploObject object at 0x000002D7D72D17F0>, <__main__.DiploObject object at 0x000002D7D72D1F40>]
+Non AI Econ:  5910
+Non AI Econ:  3803
+Non AI Econ:  4973
+Non AI Econ:  5977
+0 297 [<__main__.DiploObject object at 0x000002D7D72D17F0>, <__main__.DiploObject object at 0x000002D7D72D1F40>]
+Non AI Econ:  7348
+Non AI Econ:  6061
+Non AI Econ:  6167
+Non AI Econ:  4870
+Non AI Econ:  5224
+Non AI Econ:  5417
+Non AI Econ:  4185
+Non AI Econ:  4514
+Non AI Econ:  6584
+Non AI Econ:  7089
+Non AI Econ:  4995
+Non AI Econ:  4128
+0 297 [<__main__.DiploObject object at 0x000002D7D72D17F0>, <__main__.DiploObject object at 0x000002D7D72D1F40>]
+Non AI Econ:  6157
+Non AI Econ:  3908
+Non AI Econ:  5121
+Non AI Econ:  6184
+0 297 [<__main__.DiploObject object at 0x000002D7D72D17F0>, <__main__.DiploObject object at 0x000002D7D72D1F40>]
+Non AI Econ:  7669
+Non AI Econ:  6287
+Non AI Econ:  6399
+Non AI Econ:  5022
+Non AI Econ:  5380
+Non AI Econ:  5591
+Non AI Econ:  4305
+Non AI Econ:  4649
+Non AI Econ:  6800
+Non AI Econ:  7334
+Non AI Econ:  5167
+Non AI Econ:  4036
+0 297 [<__main__.DiploObject object at 0x000002D7D72D17F0>, <__main__.DiploObject object at 0x000002D7D72D1F40>]
+Non AI Econ:  6407
+Non AI Econ:  4013
+Non AI Econ:  5269
+Non AI Econ:  6391
+0 297 [<__main__.DiploObject object at 0x000002D7D72D17F0>, <__main__.DiploObject object at 0x000002D7D72D1F40>]
+Non AI Econ:  7996
+Non AI Econ:  6513
+Non AI Econ:  6631
+Non AI Econ:  5174
+Non AI Econ:  5536
+Non AI Econ:  5765
+Non AI Econ:  4425
+Non AI Econ:  4784
+Non AI Econ:  7016
+Non AI Econ:  7579
+Non AI Econ:  5339
+Non AI Econ:  3944
+0 297 [<__main__.DiploObject object at 0x000002D7D72D17F0>, <__main__.DiploObject object at 0x000002D7D72D1F40>]
+Non AI Econ:  6659
+Non AI Econ:  4118
+Non AI Econ:  5417
+Non AI Econ:  6598
+0 297 [<__main__.DiploObject object at 0x000002D7D72D17F0>, <__main__.DiploObject object at 0x000002D7D72D1F40>]
+Non AI Econ:  8324
+Non AI Econ:  6739
+Non AI Econ:  6863
+Non AI Econ:  5326
+Non AI Econ:  5692
+Non AI Econ:  5939
+Non AI Econ:  4545
+Non AI Econ:  4919
+Non AI Econ:  7232
+Non AI Econ:  7824
+Non AI Econ:  5511
+Non AI Econ:  3912
+0 297 [<__main__.DiploObject object at 0x000002D7D72D17F0>, <__main__.DiploObject object at 0x000002D7D72D1F40>]
+Non AI Econ:  6913
+Non AI Econ:  4223
+Non AI Econ:  5565
+Non AI Econ:  6805
+0 297 [<__main__.DiploObject object at 0x000002D7D72D17F0>, <__main__.DiploObject object at 0x000002D7D72D1F40>]
+Non AI Econ:  8655
+Non AI Econ:  6965
+Non AI Econ:  7095
+Non AI Econ:  5478
+Non AI Econ:  5848
+Non AI Econ:  6113
+Non AI Econ:  4665
+Non AI Econ:  5054
+Non AI Econ:  7448
+Non AI Econ:  8069
+Non AI Econ:  5683
+Non AI Econ:  3870
+0 297 [<__main__.DiploObject object at 0x000002D7D72D17F0>, <__main__.DiploObject object at 0x000002D7D72D1F40>]
+Non AI Econ:  7168
+Non AI Econ:  4328
+Non AI Econ:  5713
+Non AI Econ:  7012
+0 297 [<__main__.DiploObject object at 0x000002D7D72D17F0>, <__main__.DiploObject object at 0x000002D7D72D1F40>]
+Non AI Econ:  8986
+Non AI Econ:  7191
+Non AI Econ:  7327
+Non AI Econ:  5630
+Non AI Econ:  6004
+Non AI Econ:  6287
+Non AI Econ:  4785
+Non AI Econ:  5189
+Non AI Econ:  7664
+Non AI Econ:  8314
+Non AI Econ:  5855
+Non AI Econ:  3828
+0 297 [<__main__.DiploObject object at 0x000002D7D72D17F0>, <__main__.DiploObject object at 0x000002D7D72D1F40>, <__main__.DiploObject object at 0x000002D7D72E78C0>]
+Non AI Econ:  7427
+Non AI Econ:  4433
+Non AI Econ:  5787
+Non AI Econ:  7219
+0 297 [<__main__.DiploObject object at 0x000002D7D72D17F0>, <__main__.DiploObject object at 0x000002D7D72D1F40>, <__main__.DiploObject object at 0x000002D7D72E78C0>]
+Non AI Econ:  9319
+Non AI Econ:  7417
+Non AI Econ:  7559
+Non AI Econ:  5782
+Non AI Econ:  6160
+Non AI Econ:  6461
+Non AI Econ:  4905
+Non AI Econ:  5324
+Non AI Econ:  7880
+Non AI Econ:  8559
+Non AI Econ:  6027
+Non AI Econ:  3836
+0 297 [<__main__.DiploObject object at 0x000002D7D72D17F0>, <__main__.DiploObject object at 0x000002D7D72D1F40>, <__main__.DiploObject object at 0x000002D7D72E78C0>]
+Non AI Econ:  7686
+Non AI Econ:  4538
+Non AI Econ:  5831
+Non AI Econ:  7426
+0 297 [<__main__.DiploObject object at 0x000002D7D72D17F0>, <__main__.DiploObject object at 0x000002D7D72D1F40>, <__main__.DiploObject object at 0x000002D7D72E78C0>]
+Non AI Econ:  9653
+Non AI Econ:  7643
+Non AI Econ:  7791
+Non AI Econ:  5934
+Non AI Econ:  6316
+Non AI Econ:  6635
+Non AI Econ:  5025
+Non AI Econ:  5459
+Non AI Econ:  8096
+Non AI Econ:  8804
+Non AI Econ:  6199
+Non AI Econ:  3864
+0 297 [<__main__.DiploObject object at 0x000002D7D72D17F0>, <__main__.DiploObject object at 0x000002D7D72D1F40>, <__main__.DiploObject object at 0x000002D7D72E78C0>]
+Non AI Econ:  7948
+Non AI Econ:  4643
+Non AI Econ:  5835
+Non AI Econ:  7633
+0 297 [<__main__.DiploObject object at 0x000002D7D72D17F0>, <__main__.DiploObject object at 0x000002D7D72D1F40>, <__main__.DiploObject object at 0x000002D7D72E78C0>]
+Non AI Econ:  9987
+Non AI Econ:  7869
+Non AI Econ:  8023
+Non AI Econ:  6086
+Non AI Econ:  6472
+Non AI Econ:  6809
+Non AI Econ:  5145
+Non AI Econ:  5594
+Non AI Econ:  8312
+Non AI Econ:  9049
+Non AI Econ:  6371
+Non AI Econ:  3912
+0 297 [<__main__.DiploObject object at 0x000002D7D72D17F0>, <__main__.DiploObject object at 0x000002D7D72D1F40>, <__main__.DiploObject object at 0x000002D7D72E78C0>]
+Non AI Econ:  5265
+Non AI Econ:  6543
+Non AI Econ:  6628
+0 297 [<__main__.DiploObject object at 0x000002D7D72D17F0>, <__main__.DiploObject object at 0x000002D7D72D1F40>, <__main__.DiploObject object at 0x000002D7D72E78C0>]
+Non AI Econ:  10323
+Non AI Econ:  7840
+Non AI Econ:  6983
+Non AI Econ:  4748
+Non AI Econ:  6238
+Non AI Econ:  5839
+0 297 [<__main__.DiploObject object at 0x000002D7D72D17F0>, <__main__.DiploObject object at 0x000002D7D72D1F40>, <__main__.DiploObject object at 0x000002D7D72E78C0>]
+Non AI Econ:  3948
+Non AI Econ:  8212
+Non AI Econ:  8255
+Non AI Econ:  5729
+Non AI Econ:  8528
+Non AI Econ:  9294
+Non AI Econ:  8095
+Non AI Econ:  5385
+Non AI Econ:  6715
+Non AI Econ:  6784
+0 297 [<__main__.DiploObject object at 0x000002D7D72D17F0>, <__main__.DiploObject object at 0x000002D7D72D1F40>, <__main__.DiploObject object at 0x000002D7D72E78C0>, <__main__.DiploObject object at 0x000002D7D72C2F60>]
+Non AI Econ:  10659
+Game closed.

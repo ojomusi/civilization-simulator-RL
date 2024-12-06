@@ -1,0 +1,11 @@
+Starting the game...
+['Empire 1', 'Empire 2', 'Empire 3', 'Empire 4', 'Empire 5', 'Empire 6', 'Empire 7', 'Empire 8', 'Empire 9', 'Empire 10', 'Empire 11', 'Empire 12', 'Empire 13', 'Empire 14', 'Empire 15', 'Empire 16', 'AI Empire', 'AI Empire']
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+['Empire 1', 'Empire 2', 'Empire 3', 'Empire 4', 'Empire 5', 'Empire 6', 'Empire 7', 'Empire 8', 'Empire 9', 'Empire 10', 'Empire 11', 'Empire 12', 'Empire 13', 'Empire 14', 'Empire 15', 'Empire 16', 'AI Empire', 'AI Empire']
+['Empire 4', 'Empire 8', 'AI Empire', 'Empire 13', 'Empire 12', 'Empire 14', 'Empire 10', 'AI Empire', 'Empire 16', 'Empire 9', 'Empire 6', 'Empire 7', 'Empire 11', 'Empire 1', 'Empire 2', 'Empire 3', 'Empire 15', 'Empire 5']
+['Empire 4', 'Empire 8', 'AI Empire', 'Empire 13', 'Empire 12', 'Empire 14', 'Empire 10', 'AI Empire', 'Empire 16', 'Empire 9', 'Empire 6', 'Empire 7', 'Empire 11', 'Empire 1', 'Empire 2', 'Empire 3', 'Empire 15', 'Empire 5']
+AI Empire has made peace with Empire 11
+['Empire 4', 'Empire 8', 'AI Empire', 'Empire 13', 'Empire 12', 'Empire 14', 'Empire 10', 'AI Empire', 'Empire 16', 'Empire 9', 'Empire 6', 'Empire 7', 'Empire 11', 'Empire 1', 'Empire 2', 'Empire 3', 'Empire 15', 'Empire 5']
+['Empire 4', 'Empire 8', 'AI Empire', 'Empire 13', 'Empire 12', 'Empire 14', 'Empire 10', 'AI Empire', 'Empire 16', 'Empire 9', 'Empire 6', 'Empire 7', 'Empire 11', 'Empire 1', 'Empire 2', 'Empire 3', 'Empire 15', 'Empire 5']
+AI Empire has made peace with Empire 1
+Game closed.

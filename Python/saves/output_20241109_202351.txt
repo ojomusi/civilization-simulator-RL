@@ -1,0 +1,266 @@
+Starting the game...
+Empire 1 bread:  185 turn =  1
+Empire 2 bread:  185 turn =  2
+Empire 3 bread:  185 turn =  3
+Empire 4 bread:  185 turn =  4
+Empire 5 bread:  185 turn =  5
+Empire 6 bread:  185 turn =  6
+Empire 7 bread:  185 turn =  7
+Empire 8 bread:  185 turn =  8
+Empire 9 bread:  185 turn =  9
+Empire 10 bread:  185 turn =  10
+Empire 11 bread:  185 turn =  11
+Empire 12 bread:  185 turn =  12
+Empire 13 bread:  185 turn =  13
+Empire 14 bread:  185 turn =  14
+Empire 15 bread:  185 turn =  15
+Empire 16 bread:  185 turn =  16
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+AI Empire bread:  185 turn =  17
+AI Empire bread:  273 turn =  18
+Empire 1 bread:  270 turn =  19
+Empire 2 bread:  273 turn =  20
+Empire 3 bread:  270 turn =  21
+Empire 4 bread:  270 turn =  22
+Empire 5 bread:  273 turn =  23
+Empire 6 bread:  273 turn =  24
+Empire 7 bread:  270 turn =  25
+Empire 8 bread:  270 turn =  26
+Empire 9 bread:  270 turn =  27
+Empire 10 bread:  270 turn =  28
+Empire 11 bread:  273 turn =  29
+Empire 12 bread:  270 turn =  30
+Empire 13 bread:  270 turn =  31
+Empire 14 bread:  270 turn =  32
+Empire 15 bread:  270 turn =  33
+Empire 16 bread:  275 turn =  34
+AI Empire bread:  366 turn =  35
+AI Empire bread:  459 turn =  36
+Empire 1 bread:  355 turn =  37
+Empire 2 bread:  363 turn =  38
+Empire 3 bread:  360 turn =  39
+Empire 4 bread:  355 turn =  40
+Empire 5 bread:  361 turn =  41
+Empire 6 bread:  361 turn =  42
+Empire 7 bread:  355 turn =  43
+Empire 8 bread:  355 turn =  44
+Empire 9 bread:  355 turn =  45
+Empire 10 bread:  358 turn =  46
+Empire 11 bread:  363 turn =  47
+Empire 12 bread:  358 turn =  48
+Empire 13 bread:  358 turn =  49
+Empire 14 bread:  355 turn =  50
+Empire 15 bread:  358 turn =  51
+Empire 16 bread:  365 turn =  52
+AI Empire bread:  552 turn =  53
+AI Empire bread:  645 turn =  54
+Empire 1 bread:  443 turn =  55
+Empire 2 bread:  456 turn =  56
+Empire 3 bread:  453 turn =  57
+Empire 4 bread:  440 turn =  58
+Empire 5 bread:  454 turn =  59
+Empire 6 bread:  451 turn =  60
+Empire 7 bread:  443 turn =  61
+Empire 8 bread:  443 turn =  62
+Empire 9 bread:  440 turn =  63
+Empire 10 bread:  448 turn =  64
+Empire 11 bread:  456 turn =  65
+Empire 12 bread:  448 turn =  66
+Empire 13 bread:  446 turn =  67
+Empire 14 bread:  440 turn =  68
+Empire 15 bread:  446 turn =  69
+Empire 16 bread:  460 turn =  70
+AI Empire bread:  748 turn =  71
+AI Empire bread:  851 turn =  72
+Empire 12 bread:  543 turn =  73
+Empire 4 bread:  525 turn =  74
+Empire 7 bread:  533 turn =  75
+AI Empire bread:  954 turn =  76
+Empire 15 bread:  536 turn =  77
+Empire 7 bread:  628 turn =  78
+Empire 8 bread:  531 turn =  79
+Empire 12 bread:  638 turn =  80
+Empire 6 bread:  544 turn =  81
+Empire 13 bread:  536 turn =  82
+Empire 5 bread:  547 turn =  83
+Empire 14 bread:  525 turn =  84
+Empire 1 bread:  533 turn =  85
+AI Empire bread:  1057 turn =  86
+Empire 10 bread:  538 turn =  87
+AI Empire has made peace with Empire 13
+AI Empire has made peace with Empire 12
+AI Empire has made peace with Empire 11
+AI Empire bread:  1175 turn =  88
+Empire 5 bread:  640 turn =  89
+Empire 9 bread:  530 turn =  90
+Empire 16 bread:  558 turn =  91
+Empire 12 bread:  736 turn =  92
+Empire 8 bread:  619 turn =  93
+Empire 15 bread:  629 turn =  94
+AI Empire has made peace with Empire 6
+AI Empire has made peace with Empire 8
+AI Empire bread:  1425 turn =  95
+Empire 16 bread:  656 turn =  96
+Empire 2 bread:  554 turn =  97
+Empire 7 bread:  723 turn =  98
+Empire 13 bread:  629 turn =  99
+Empire 14 bread:  615 turn =  100
+Empire 9 bread:  620 turn =  101
+Empire 6 bread:  639 turn =  102
+Empire 8 bread:  714 turn =  103
+Empire 11 bread:  551 turn =  104
+Empire 5 bread:  740 turn =  105
+Empire 3 bread:  548 turn =  106
+Empire 4 bread:  613 turn =  107
+Empire 10 bread:  636 turn =  108
+Empire 1 bread:  623 turn =  109
+Empire 15 bread:  722 turn =  110
+Empire 12 bread:  834 turn =  111
+AI Empire has made peace with Empire 5
+AI Empire bread:  1795 turn =  112
+Empire 10 bread:  736 turn =  113
+Empire 3 bread:  643 turn =  114
+AI Empire has made peace with Empire 1
+AI Empire bread:  2332 turn =  115
+AI Empire has made peace with Empire 7
+AI Empire bread:  3004 turn =  116
+Empire 2 bread:  652 turn =  117
+Empire 8 bread:  812 turn =  118
+Empire 16 bread:  756 turn =  119
+Empire 12 bread:  932 turn =  120
+Empire 11 bread:  646 turn =  121
+AI Empire has made peace with Empire 16
+AI Empire has made peace with Empire 3
+AI Empire bread:  3754 turn =  122
+Empire 4 bread:  701 turn =  123
+Empire 3 bread:  738 turn =  124
+Empire 1 bread:  713 turn =  125
+Empire 16 bread:  856 turn =  126
+Empire 14 bread:  708 turn =  127
+Empire 15 bread:  820 turn =  128
+AI Empire bread:  4504 turn =  129
+Empire 11 bread:  741 turn =  130
+Empire 8 bread:  910 turn =  131
+Empire 10 bread:  844 turn =  132
+AI Empire bread:  5254 turn =  133
+Empire 11 bread:  836 turn =  134
+Empire 13 bread:  722 turn =  135
+Empire 14 bread:  803 turn =  136
+Empire 9 bread:  710 turn =  137
+Empire 8 bread:  1008 turn =  138
+AI Empire bread:  6004 turn =  139
+Empire 16 bread:  956 turn =  140
+Empire 1 bread:  803 turn =  141
+Empire 12 bread:  1030 turn =  142
+Empire 15 bread:  918 turn =  143
+Empire 8 bread:  1106 turn =  144
+AI Empire bread:  6754 turn =  145
+Empire 12 bread:  1128 turn =  146
+Empire 7 bread:  821 turn =  147
+AI Empire bread:  7504 turn =  148
+Empire 13 bread:  815 turn =  149
+Empire 12 bread:  1226 turn =  150
+Empire 8 bread:  1204 turn =  151
+AI Empire bread:  8254 turn =  152
+Empire 5 bread:  840 turn =  153
+AI Empire bread:  9004 turn =  154
+Empire 6 bread:  734 turn =  155
+Empire 11 bread:  931 turn =  156
+Empire 8 bread:  1302 turn =  157
+Empire 14 bread:  901 turn =  158
+Empire 15 bread:  1016 turn =  159
+Empire 5 bread:  940 turn =  160
+Empire 13 bread:  908 turn =  161
+Empire 9 bread:  803 turn =  162
+Empire 4 bread:  789 turn =  163
+Empire 10 bread:  954 turn =  164
+Empire 12 bread:  1324 turn =  165
+Empire 7 bread:  919 turn =  166
+Empire 16 bread:  1056 turn =  167
+Empire 3 bread:  833 turn =  168
+AI Empire bread:  9754 turn =  169
+AI Empire bread:  10504 turn =  170
+Empire 10 bread:  1069 turn =  171
+AI Empire bread:  11254 turn =  172
+Empire 10 bread:  1192 turn =  173
+Empire 9 bread:  898 turn =  174
+Empire 15 bread:  1114 turn =  175
+Empire 3 bread:  928 turn =  176
+Empire 2 bread:  750 turn =  177
+Empire 13 bread:  1001 turn =  178
+Empire 12 bread:  1422 turn =  179
+Empire 5 bread:  1043 turn =  180
+Empire 6 bread:  829 turn =  181
+Empire 16 bread:  1156 turn =  182
+Empire 14 bread:  1004 turn =  183
+AI Empire bread:  12004 turn =  184
+Empire 15 bread:  1214 turn =  185
+Empire 11 bread:  1026 turn =  186
+Empire 8 bread:  1400 turn =  187
+Empire 14 bread:  1119 turn =  188
+Empire 9 bread:  996 turn =  189
+Empire 2 bread:  853 turn =  190
+Empire 13 bread:  1094 turn =  191
+Empire 3 bread:  1023 turn =  192
+The capital of Empire 14 has been captured by AI Empire and will be partitioned!
+AI Empire has caused neighboring nations to declare war after partition.
+AI Empire bread:  9623 turn =  193
+Empire 6 bread:  924 turn =  194
+Empire 1 bread:  893 turn =  195
+Empire 12 bread:  1520 turn =  196
+Empire 7 bread:  1017 turn =  197
+Empire 11 bread:  1121 turn =  198
+Empire 9 bread:  1094 turn =  199
+Empire 2 bread:  961 turn =  200
+Empire 13 bread:  1187 turn =  201
+Empire 4 bread:  877 turn =  202
+Empire 16 bread:  1256 turn =  203
+Empire 15 bread:  1317 turn =  204
+Empire 8 bread:  1498 turn =  205
+Empire 10 bread:  1325 turn =  206
+Empire 5 bread:  1146 turn =  207
+Empire 3 bread:  1118 turn =  208
+AI Empire bread:  10373 turn =  209
+Empire 15 bread:  1425 turn =  210
+Empire 9 bread:  1194 turn =  211
+Empire 1 bread:  983 turn =  212
+Empire 4 bread:  965 turn =  213
+Empire 2 bread:  1074 turn =  214
+Empire 13 bread:  1280 turn =  215
+AI Empire bread:  11123 turn =  216
+Empire 3 bread:  1213 turn =  217
+Empire 9 bread:  1302 turn =  218
+Empire 5 bread:  1249 turn =  219
+The capital of Empire 9 has been captured by AI Empire and will be partitioned!
+AI Empire has caused neighboring nations to declare war after partition.
+AI Empire has made peace with Empire 2
+The capital of Empire 18 has been captured by AI Empire and will be partitioned!
+The capital of Empire 20 has been captured by AI Empire and will be partitioned!
+AI Empire has caused neighboring nations to declare war after partition.
+The capital of Empire 19 has been captured by AI Empire and will be partitioned!
+All neighboring nations have declared war on AI Empire after a partition!
+AI Empire bread:  2856 turn =  220
+Empire 6 bread:  1019 turn =  221
+Empire 3 bread:  1308 turn =  222
+Empire 23 bread:  185 turn =  223
+Empire 2 bread:  1187 turn =  224
+Empire 5 bread:  1352 turn =  225
+Empire 7 bread:  1115 turn =  226
+Empire 13 bread:  1373 turn =  227
+Empire 15 bread:  1533 turn =  228
+AI Empire has made peace with Empire 23
+AI Empire bread:  3606 turn =  229
+Empire 10 bread:  1458 turn =  230
+Empire 25 bread:  316 turn =  231
+AI Empire bread:  4356 turn =  232
+Empire 6 bread:  1114 turn =  233
+The capital of Empire 2 has been captured by AI Empire and will be partitioned!
+AI Empire has caused neighboring nations to declare war after partition.
+The capital of Empire 25 has been captured by AI Empire and will be partitioned!
+AI Empire has caused neighboring nations to declare war after partition.
+AI Empire has made peace with Empire 26
+The capital of Empire 8 has been captured by AI Empire and will be partitioned!
+AI Empire bread:  990 turn =  234
+Empire 12 bread:  1618 turn =  235
+Empire 22 bread:  205 turn =  236
+Game closed.

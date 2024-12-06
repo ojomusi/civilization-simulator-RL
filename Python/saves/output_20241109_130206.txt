@@ -1,0 +1,222 @@
+Starting the game...
+{}
+{}
+{}
+{}
+{}
+{'peace': -9.5}
+{'peace': -9.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -9.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -20.0, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -9.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -9.5, 'sea_invade': -19.5}
+{'peace': -9.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -9.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -20.0, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+Empire 16 has declared war on Empire 9
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+The capital of Empire 9 has been captured by Empire 16 and will be partitioned!
+All neighboring nations have declared war on Empire 16 after a partition!
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}
+Peace deal between Empire 5 and AI Empire has expired
+Peace deal between Empire 5 and AI Empire has expired
+{'peace': -19.5, 'sea_invade': -19.5}
+{'peace': -19.5, 'sea_invade': -19.5}

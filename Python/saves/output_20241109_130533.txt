@@ -1,0 +1,1520 @@
+Starting the game...
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'expand': -10.0}
+{'expand': -18.5, 'stabilize': -17.499999999999996}
+{'expand': -10.0, 'stabilize': -17.499999999999996}
+{'expand': -19.5, 'stabilize': -17.499999999999996}
+{'expand': -19.5, 'stabilize': -17.499999999999996}
+{'expand': -18.0, 'stabilize': -17.499999999999996}
+{'expand': 52.5, 'stabilize': -17.499999999999996}
+{'expand': 62.5, 'stabilize': -17.499999999999996}
+{'expand': -19.5, 'stabilize': -17.499999999999996}
+{'expand': -19.5, 'stabilize': -17.499999999999996}
+{'expand': -19.0, 'stabilize': -17.499999999999996}
+{'expand': 22.500000000000004, 'stabilize': -17.499999999999996}
+{'expand': 52.5, 'stabilize': -17.499999999999996}
+{'expand': -19.5, 'stabilize': -17.499999999999996}
+{'expand': 32.5, 'stabilize': -17.499999999999996}
+{'expand': 52.5, 'stabilize': -17.499999999999996}
+{'expand': -19.0, 'stabilize': -17.499999999999996}
+{'expand': 92.5, 'stabilize': -17.499999999999996}
+{'expand': 0.5, 'stabilize': -17.499999999999996}
+{'expand': 82.5, 'stabilize': -17.499999999999996}
+{'expand': -18.5, 'stabilize': -17.499999999999996}
+{'expand': -19.5, 'stabilize': -17.499999999999996}
+{'expand': -19.0, 'stabilize': -17.499999999999996}
+{'expand': -18.5, 'stabilize': -17.499999999999996}
+{'expand': -18.0, 'stabilize': -17.499999999999996}
+{'expand': 62.5, 'stabilize': -17.499999999999996}
+{'expand': 22.500000000000004, 'stabilize': -17.499999999999996}
+{'expand': 22.500000000000004, 'stabilize': -17.499999999999996}
+{'expand': 42.5, 'stabilize': -17.499999999999996}
+{'expand': 62.5, 'stabilize': -17.499999999999996}
+{'expand': 72.5, 'stabilize': -17.499999999999996}
+{'expand': -18.5, 'stabilize': -17.499999999999996}
+{'expand': 92.5, 'stabilize': -17.499999999999996}
+{'expand': 62.5, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': 12.500000000000004, 'stabilize': -17.499999999999996}
+{'expand': 62.5, 'stabilize': -17.499999999999996}
+{'expand': 52.5, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': 22.500000000000004, 'stabilize': -17.499999999999996}
+{'expand': 22.500000000000004, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -19.5, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -19.5, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': 62.5, 'stabilize': -17.499999999999996}
+{'expand': -19.5, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': 32.5, 'stabilize': -17.499999999999996}
+{'expand': 32.5, 'stabilize': -17.499999999999996}
+{'expand': 82.5, 'stabilize': -17.499999999999996}
+{'expand': 32.5, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 7 has declared war on Empire 8
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': 12.500000000000004, 'stabilize': -17.499999999999996}
+{'expand': 52.5, 'stabilize': -17.499999999999996}
+{'expand': 62.5, 'stabilize': -17.499999999999996}
+{'expand': -19.5, 'stabilize': -17.499999999999996}
+{'expand': 22.500000000000004, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 7 has been captured by Empire 8 and will be partitioned!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+A nation has rebelled against Empire 16! (2)
+Empire 16 has broken out into civil war!
+{'expand': 22.500000000000004, 'stabilize': -17.499999999999996}
+{'expand': 52.5, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': 32.5, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Sea invasion happening by Empire 14 on Empire 11!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': 52.5, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': 52.5, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 2 has declared war on Empire 9
+The capital of Empire 11 has been captured by Empire 14 and will be partitioned!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 16 has been captured by Empire 21 and will be partitioned!
+All neighboring nations have declared war on Empire 21 after a partition!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+A nation has rebelled against Empire 8! (2)
+Empire 8 has broken out into civil war!
+The capital of Empire 21 has been captured and Empire 1 will liberate its occupations!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': 42.5, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Sea invasion happening by Empire 5 on Empire 18!
+The capital of Empire 9 has been captured by Empire 2 and will be partitioned!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 10 has declared war on Empire 4
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 18 has been captured by Empire 5 and will be partitioned!
+All neighboring nations have declared war on Empire 5 after a partition!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 5 has been captured and Empire 12 will liberate its occupations!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 14 has declared war on Empire 22
+The capital of Empire 22 has been captured by Empire 14 and will be partitioned!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+A nation has rebelled against Empire 13! (2)
+Empire 13 has broken out into civil war!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 1 collapsed!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 26 has made peace with Empire 8
+Empire 24 has made peace with Empire 8
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 25 has made peace with Empire 8
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 8 has made peace with Empire 27
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 14 has declared war on Empire 13
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Sea invasion happening by Empire 3 on Empire 4!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 13 has been captured by Empire 14 and will be partitioned!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 10 has made peace with Empire 4
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 35 has been captured by Empire 32 and will be partitioned!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 36 has been captured by Empire 29 and will be partitioned!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 8 and Empire 24 has expired
+Peace deal between Empire 8 and Empire 26 has expired
+Peace deal between Empire 26 and Empire 8 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 24 and Empire 8 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 8 and Empire 25 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 25 and Empire 8 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 8 and Empire 27 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 27 and Empire 8 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 4 and Empire 10 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 10 and Empire 4 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+A nation has rebelled against Empire 14! (2)
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 27 has declared war on Empire 26
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 24 has declared war on Empire 27
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 29 has declared war on Empire 34
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 12 has declared war on Empire 14
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 37 has made peace with Empire 14
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 32 has declared war on Empire 34
+The capital of Empire 34 has been captured by Empire 32 and will be partitioned!
+All neighboring nations have declared war on Empire 32 after a partition!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 24 has been captured by Empire 27 and will be partitioned!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 32 has been captured and Empire 14 will liberate its occupations!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 2 has declared war on Empire 8
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 14 and Empire 37 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 37 and Empire 14 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 2 has been captured by Empire 8 and will be partitioned!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 26 has made peace with Empire 27
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 28 has declared war on Empire 23
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Sea invasion happening by Empire 31 on Empire 39!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 12 has made peace with Empire 14
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 39 has been captured by Empire 31 and will be partitioned!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 27 and Empire 26 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 26 and Empire 27 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 12 and Empire 14 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 14 and Empire 12 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 23 has been captured by Empire 28 and will be partitioned!
+All neighboring nations have declared war on Empire 28 after a partition!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Sea invasion happening by Empire 12 on Empire 29!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 29 has been captured by Empire 12 and will be partitioned!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 8 has declared war on Empire 27
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 10 has declared war on Empire 4
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 12 has declared war on Empire 31
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 4 has been captured by Empire 10 and will be partitioned!
+All neighboring nations have declared war on Empire 10 after a partition!
+The capital of Empire 31 has been captured by Empire 12 and will be partitioned!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 41 has been captured by Empire 12 and will be partitioned!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+A nation has rebelled against Empire 12! (2)
+Empire 12 has broken out into civil war!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 42 has been captured by Empire 12 and will be partitioned!
+All neighboring nations have declared war on Empire 12 after a partition!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 12 has been captured and Empire 8 will liberate its occupations!
+Empire 43
+0
+2
+2
+Empire 43
+0
+1
+1
+Empire 43
+0
+0
+0
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 15 has declared war on Empire 38
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 38 has been captured by Empire 15 and will be partitioned!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Sea invasion happening by Empire 6 on Empire 20!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 28 collapsed!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+A nation has rebelled against Empire 14! (2)
+Empire 27 has made peace with Empire 8
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+A nation has rebelled against Empire 15! (2)
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 3 has made peace with Empire 10
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 48 has been captured by Empire 14 and will be partitioned!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 8 has made peace with Empire 10
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+A nation has rebelled against Empire 8! (2)
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 8 and Empire 27 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 27 and Empire 8 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 10 and Empire 3 has expired
+Peace deal between Empire 3 and Empire 10 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 8 and Empire 10 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 10 and Empire 8 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 14 has declared war on Empire 37
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 14 has declared war on Empire 45
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 8 has made peace with Empire 50
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 45 has been captured by Empire 14 and will be partitioned!
+All neighboring nations have declared war on Empire 14 after a partition!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 15 has been captured and Empire 49 will liberate its occupations!
+All neighboring nations have declared war on Empire 49 after a partition!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 8 and Empire 50 has expired
+Peace deal between Empire 50 and Empire 8 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+A nation has rebelled against Empire 27! (2)
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 14 has made peace with Empire 37
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 33 has declared war on Empire 27
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 33 has been captured by Empire 27 and will be partitioned!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 8 has made peace with Empire 14
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 37 and Empire 14 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 14 and Empire 37 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+A nation has rebelled against Empire 14! (2)
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 8 and Empire 14 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 14 and Empire 8 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 27 has made peace with Empire 53
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 27 and Empire 53 has expired
+Peace deal between Empire 53 and Empire 27 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 52 has declared war on Empire 51
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 54 has made peace with Empire 14
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 51 has been captured by Empire 52 and will be partitioned!
+All neighboring nations have declared war on Empire 52 after a partition!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 37 has declared war on Empire 14
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 14 and Empire 54 has expired
+Peace deal between Empire 54 and Empire 14 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 10 has declared war on Empire 8
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 49 has been captured by Empire 52 and will be partitioned!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 8 has declared war on Empire 47
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 8 has been captured by Empire 47 and will be partitioned!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 20 collapsed!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 37 has made peace with Empire 14
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 53 has declared war on Empire 47
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 47 has declared war on Empire 46
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 53 has been captured by Empire 47 and will be partitioned!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 47 has been captured by Empire 46 and will be partitioned!
+All neighboring nations have declared war on Empire 46 after a partition!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 46 has been captured and Empire 14 will liberate its occupations!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 37 and Empire 14 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 14 and Empire 37 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 14 has declared war on AI Empire
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+A nation has rebelled against Empire 50! (2)
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of AI Empire has been captured by Empire 14 and will be partitioned!
+All neighboring nations have declared war on Empire 14 after a partition!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 62 has been captured by Empire 14 and will be partitioned!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 50 has made peace with Empire 61
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 59 has declared war on Empire 61
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 26 collapsed!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 50 and Empire 61 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 61 and Empire 50 has expired
+Empire 37 has made peace with Empire 14
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 61 has been captured by Empire 59 and will be partitioned!
+All neighboring nations have declared war on Empire 59 after a partition!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+A nation has rebelled against Empire 10! (2)
+Empire 10 has broken out into civil war!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 59 has been captured and Empire 14 will liberate its occupations!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 10 has been captured and Empire 65 will liberate its occupations!
+All neighboring nations have declared war on Empire 65 after a partition!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+A nation has rebelled against Empire 14! (2)
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 58 has declared war on Empire 66
+Peace deal between Empire 37 and Empire 14 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 14 and Empire 37 has expired
+The capital of Empire 66 has been captured by Empire 58 and will be partitioned!
+All neighboring nations have declared war on Empire 58 after a partition!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 58 has been captured and Empire 14 will liberate its occupations!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 14 has made peace with Empire 70
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 3 has declared war on Empire 63
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 50 has declared war on Empire 55
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+A nation has rebelled against Empire 14! (2)
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 63 has been captured by Empire 3 and will be partitioned!
+All neighboring nations have declared war on Empire 3 after a partition!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 14 and Empire 70 has expired
+Peace deal between Empire 70 and Empire 14 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+A nation has rebelled against Empire 27! (2)
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+A nation has rebelled against Empire 37! (2)
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 3 has declared war on Empire 68
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 55 has made peace with Empire 50
+The capital of Empire 68 has been captured by Empire 3 and will be partitioned!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 71 has made peace with Empire 14
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+A nation has rebelled against Empire 14! (2)
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 57 collapsed!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 50 and Empire 55 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 55 and Empire 50 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 14 and Empire 71 has expired
+Peace deal between Empire 71 and Empire 14 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 37 has made peace with Empire 73
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 72 has made peace with Empire 27
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 50 has declared war on Empire 14
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 44 has declared war on Empire 14
+Sea invasion happening by Empire 3 on Empire 72!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 72 has been captured by Empire 3 and will be partitioned!
+The capital of Empire 44 has been captured by Empire 14 and will be partitioned!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 40 has been captured by Empire 14 and will be partitioned!
+Peace deal between Empire 73 and Empire 37 has expired
+Empire 14 has made peace with Empire 74
+Peace deal between Empire 37 and Empire 73 has expired
+Peace deal between Empire 27 and Empire 72 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 74 and Empire 14 has expired
+Peace deal between Empire 14 and Empire 74 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 14 has made peace with Empire 50
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+A nation has rebelled against Empire 3! (2)
+Empire 3 has broken out into civil war!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 67 has declared war on Empire 14
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+A nation has rebelled against Empire 50! (2)
+Empire 50 has broken out into civil war!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 50 and Empire 14 has expired
+Peace deal between Empire 14 and Empire 50 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 14 has declared war on Empire 71
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Sea invasion happening by Empire 6 on Empire 64!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 76 has made peace with Empire 3
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 14 has made peace with Empire 67
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 77 has made peace with Empire 3
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 50 has made peace with Empire 78
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 14 has made peace with Empire 71
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 50 has made peace with Empire 79
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 76 and Empire 3 has expired
+Peace deal between Empire 3 and Empire 76 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 14 and Empire 67 has expired
+Peace deal between Empire 67 and Empire 14 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 77 and Empire 3 has expired
+Peace deal between Empire 3 and Empire 77 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 78 and Empire 50 has expired
+Peace deal between Empire 50 and Empire 78 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+A nation has rebelled against Empire 14! (2)
+Peace deal between Empire 14 and Empire 71 has expired
+Peace deal between Empire 71 and Empire 14 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 14 has declared war on Empire 78
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 50 and Empire 79 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 79 and Empire 50 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 3 has declared war on Empire 50
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Sea invasion happening by Empire 27 on Empire 56!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 80 has been captured by Empire 14 and will be partitioned!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+The capital of Empire 56 has been captured by Empire 27 and will be partitioned!
+All neighboring nations have declared war on Empire 27 after a partition!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Sea invasion happening by Empire 77 on AI Empire!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 78 has made peace with Empire 14
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 50 has made peace with Empire 3
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 14 and Empire 78 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 78 and Empire 14 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 3 and Empire 50 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Peace deal between Empire 50 and Empire 3 has expired
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 14 has declared war on Empire 71
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Empire 52 collapsed!
+{'expand': -17.499999999999996, 'stabilize': -17.499999999999996}
+Game closed.

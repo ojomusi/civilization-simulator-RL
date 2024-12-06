@@ -1,0 +1,29 @@
+Starting the game...
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+Warning: Cannot partition AI Empire as there is no surrounding empire.
+AI Empire has made peace with Empire 4
+AI Empire has made peace with Empire 14
+AI Empire has made peace with Empire 2
+The capital of Empire 2 has been captured by AI Empire and will be partitioned!
+AI Empire has caused neighboring nations to declare war after partition.
+The capital of Empire 12 has been captured by AI Empire and will be partitioned!
+AI Empire has caused neighboring nations to declare war after partition.
+The capital of Empire 8 has been captured by AI Empire and will be partitioned!
+AI Empire has caused neighboring nations to declare war after partition.
+The capital of Empire 14 has been captured by AI Empire and will be partitioned!
+AI Empire has made peace with Empire 15
+AI Empire has made peace with Empire 3
+The capital of Empire 10 has been captured by AI Empire and will be partitioned!
+AI Empire has caused neighboring nations to declare war after partition.
+AI Empire has made peace with Empire 20
+The capital of Empire 7 has been captured by AI Empire and will be partitioned!
+AI Empire has caused neighboring nations to declare war after partition.
+The capital of Empire 4 has been captured by AI Empire and will be partitioned!
+AI Empire has caused neighboring nations to declare war after partition.
+AI Empire has made peace with Empire 16
+The capital of Empire 20 has been captured by Empire 22 and will be partitioned!
+Peace deal between AI Empire and Empire 14 has expired
+Peace deal between AI Empire and Empire 4 has expired
+Peace deal between AI Empire and Empire 2 has expired
+Game closed.

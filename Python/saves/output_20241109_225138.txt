@@ -1,0 +1,8 @@
+Starting the game...
+['Empire 1', 'Empire 2', 'Empire 3', 'Empire 4', 'Empire 5', 'Empire 6', 'Empire 7', 'Empire 8', 'Empire 9', 'Empire 10', 'Empire 11', 'Empire 12', 'Empire 13', 'Empire 14', 'Empire 15', 'Empire 16', 'AI Empire', 'AI Empire']
+AI Empire has made peace with Empire 9
+AI Empire has made peace with Empire 1
+AI Empire has made peace with Empire 13
+AI Empire has made peace with Empire 8
+AI Empire has made peace with Empire 4
+Game closed.
